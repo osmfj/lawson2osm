@@ -48,6 +48,7 @@ BEGIN {
     if($6!=""){
 	printf("    <tag k='end_date' v='%s' />\n",$6);
     }
+    printf("    <tag k='addr:full' v='%s' />\n",$10);
     printf("    <tag k='ref' v='%s' />\n",$1);
     printf("    <tag k='source_ref' v='http://wiki.openstreetmap.org/wiki/Lawson_hackathon_2013' />\n");
     printf("  </node>\n");
