@@ -23,28 +23,36 @@ BEGIN {
     printf("    <tag k='toilet' v='yes' />\n");
     printf("    <tag k='atm' v='yes' />\n");
     printf("    <tag k='internet_access' v='wlan' />\n");
-    printf("    <tag k='name' v='ローソン %s店' />\n",$9);
-    printf("    <tag k='name:en' v='Lawson %s' />\n",t);
-    printf("    <tag k='branch' v='%s店' />\n",$9);
-    printf("    <tag k='branch:ja_kana' v='%s店' />\n",$11);
-    printf("    <tag k='branch:en' v='%s' />\n",t);
-    printf("    <tag k='operator' v='ローソン' />\n");
-    printf("    <tag k='operator:en' v='Lawson' />\n");
     if($18==2){
+	printf("    <tag k='name' v='ナチュラルローソン %s店' />\n",$9);
+	printf("    <tag k='name:en' v='Natural Lawson %s' />\n",t);
 	printf("    <tag k='brand' v='ナチュラルローソン' />\n");
 	printf("    <tag k='brand:en' v='Natural Lawson' />\n");
     }else if($18==4){
+	printf("    <tag k='name' v='ローソンストア100 %s店' />\n",$9);
+	printf("    <tag k='name:en' v='Lawson Store 100 %s' />\n",t);
 	printf("    <tag k='brand' v='ローソンストア100' />\n");
 	printf("    <tag k='brand:en' v='Lawson Store 100' />\n");
     }else{
+	printf("    <tag k='name' v='ローソン %s店' />\n",$9);
+	printf("    <tag k='name:en' v='Lawson %s' />\n",t);
 	printf("    <tag k='brand' v='ローソン' />\n");
 	printf("    <tag k='brand:en' v='Lawson' />\n");
     }
+    printf("    <tag k='branch' v='%s店' />\n",$9);
+    printf("    <tag k='branch:ja_kana' v='%sてん' />\n",$11);
+    printf("    <tag k='branch:en' v='%s' />\n",t);
+    printf("    <tag k='operator' v='ローソン' />\n");
+    printf("    <tag k='operator:en' v='Lawson' />\n");
     printf("    <tag k='phone' v='%s' />\n",p);
     if($19==1){
 	printf("    <tag k='opening_hours' v='24/7' />\n");
     }else{
-	printf("    <tag k='opening_hours' v='Mo-Su %s-%s' />\n",$20,$21);
+	if($20 > $21){
+	    printf("    <tag k='opening_hours' v='Mo-Su %s-%d:%s' />\n",$20,substr($21,1,2)+24,substr($21,4,2));
+	}else{
+	    printf("    <tag k='opening_hours' v='Mo-Su %s-%s' />\n",$20,$21);
+	}
     }
     if($5!=""){
 	printf("    <tag k='start_date' v='%s' />\n",$5);

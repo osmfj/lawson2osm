@@ -7,13 +7,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台柏木三丁目店' />
     <tag k='name:en' v='Lawson sendaikashiwagi3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台柏木三丁目店' />
     <tag k='branch:ja_kana' v='せんだいかしわぎ３ちようめてん' />
     <tag k='branch:en' v='sendaikashiwagi3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-301-7536' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010091100' />
@@ -27,13 +27,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台柳町通店' />
     <tag k='name:en' v='Lawson sendaiyanagimachidoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台柳町通店' />
     <tag k='branch:ja_kana' v='せんだいやなぎまちどおりてん' />
     <tag k='branch:en' v='sendaiyanagimachidoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-267-5747' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010101300' />
@@ -47,13 +47,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台扇町三丁目店' />
     <tag k='name:en' v='Lawson sendaiougimachi3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台扇町三丁目店' />
     <tag k='branch:ja_kana' v='せんだいおうぎまち３ちようめてん' />
     <tag k='branch:en' v='sendaiougimachi3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-231-2855' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011120600' />
@@ -67,13 +67,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大崎岩出山店' />
     <tag k='name:en' v='Lawson oosakiiwadeyama' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大崎岩出山店' />
     <tag k='branch:ja_kana' v='おおさきいわでやまてん' />
     <tag k='branch:en' v='oosakiiwadeyama' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-72-0755' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011060400' />
@@ -87,13 +87,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台伊在店' />
     <tag k='name:en' v='Lawson Lsendaiizai' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台伊在店' />
     <tag k='branch:ja_kana' v='Ｌせんだいいざいてん' />
     <tag k='branch:en' v='Lsendaiizai' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-288-7258' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000021600' />
@@ -107,13 +107,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻あけぼの店' />
     <tag k='name:en' v='Lawson ishinomakiakebono' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻あけぼの店' />
     <tag k='branch:ja_kana' v='いしのまきあけぼのてん' />
     <tag k='branch:en' v='ishinomakiakebono' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-94-8998' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1999121800' />
@@ -127,13 +127,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台四郎丸店' />
     <tag k='name:en' v='Lawson sendaishiroumaru' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台四郎丸店' />
     <tag k='branch:ja_kana' v='せんだいしろうまるてん' />
     <tag k='branch:en' v='sendaishiroumaru' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-741-8655' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000022700' />
@@ -147,13 +147,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 中田町上沼店' />
     <tag k='name:en' v='Lawson nakatachiyouuwanuma' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='中田町上沼店' />
     <tag k='branch:ja_kana' v='なかたちよううわぬまてん' />
     <tag k='branch:en' v='nakatachiyouuwanuma' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-220-34-7739' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000083000' />
@@ -167,13 +167,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台遠見塚店' />
     <tag k='name:en' v='Lawson sendaitoomiduka' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台遠見塚店' />
     <tag k='branch:ja_kana' v='せんだいとおみづかてん' />
     <tag k='branch:en' v='sendaitoomiduka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-294-7246' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000030100' />
@@ -187,13 +187,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台霞目店' />
     <tag k='name:en' v='Lawson Lsendaikasuminome' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台霞目店' />
     <tag k='branch:ja_kana' v='Ｌせんだいかすみのめてん' />
     <tag k='branch:en' v='Lsendaikasuminome' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-285-5882' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1999042100' />
@@ -207,13 +207,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 中田町宝江店' />
     <tag k='name:en' v='Lawson nakadachiyoutakarae' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='中田町宝江店' />
     <tag k='branch:ja_kana' v='なかだちようたからえてん' />
     <tag k='branch:en' v='nakadachiyoutakarae' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-220-34-7553' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1999071800' />
@@ -227,13 +227,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 矢本川前店' />
     <tag k='name:en' v='Lawson yamotokawamae' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='矢本川前店' />
     <tag k='branch:ja_kana' v='やもとかわまえてん' />
     <tag k='branch:en' v='yamotokawamae' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-83-8907' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1999080900' />
@@ -247,13 +247,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 高清水新小山田店' />
     <tag k='name:en' v='Lawson takashimizushin'oyamada' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='高清水新小山田店' />
     <tag k='branch:ja_kana' v='たかしみずしんおやまだてん' />
     <tag k='branch:en' v='takashimizushin'oyamada' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-228-58-2027' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1999090100' />
@@ -267,13 +267,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大衡万葉クリエートパーク店' />
     <tag k='name:en' v='Lawson oohiramanyoukurie-topa-ku' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大衡万葉クリエートパーク店' />
     <tag k='branch:ja_kana' v='おおひらまんようくりえーとぱーくてん' />
     <tag k='branch:en' v='oohiramanyoukurie-topa-ku' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-347-2218' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013070500' />
@@ -287,13 +287,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 南三陸小森店' />
     <tag k='name:en' v='Lawson minamisanrikukomori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='南三陸小森店' />
     <tag k='branch:ja_kana' v='みなみさんりくこもりてん' />
     <tag k='branch:en' v='minamisanrikukomori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-46-2629' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013041200' />
@@ -307,13 +307,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻南境店' />
     <tag k='name:en' v='Lawson ishinomakiminamizakai' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻南境店' />
     <tag k='branch:ja_kana' v='いしのまきみなみざかいてん' />
     <tag k='branch:en' v='ishinomakiminamizakai' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-92-5612' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013011900' />
@@ -327,13 +327,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 塩釜新浜町一丁目店' />
     <tag k='name:en' v='Lawson shiogamashinhamachiyou1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='塩釜新浜町一丁目店' />
     <tag k='branch:ja_kana' v='しおがましんはまちよう１ちようめてん' />
     <tag k='branch:en' v='shiogamashinhamachiyou1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-762-9890' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012120800' />
@@ -347,13 +347,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 栗原金成店' />
     <tag k='name:en' v='Lawson kuriharakannari' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='栗原金成店' />
     <tag k='branch:ja_kana' v='くりはらかんなりてん' />
     <tag k='branch:en' v='kuriharakannari' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-228-42-3660' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013050300' />
@@ -367,13 +367,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台大野田店' />
     <tag k='name:en' v='Lawson sendaioonoda' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台大野田店' />
     <tag k='branch:ja_kana' v='せんだいおおのだてん' />
     <tag k='branch:en' v='sendaioonoda' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-246-5001' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013030800' />
@@ -387,13 +387,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台青葉通一番町店' />
     <tag k='name:en' v='Lawson sendaiaobadooriichibanchiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台青葉通一番町店' />
     <tag k='branch:ja_kana' v='せんだいあおばどおりいちばんちようてん' />
     <tag k='branch:en' v='sendaiaobadooriichibanchiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-722-3965' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013030800' />
@@ -407,13 +407,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 美里小牛田店' />
     <tag k='name:en' v='Lawson misatokogota' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='美里小牛田店' />
     <tag k='branch:ja_kana' v='みさとこごたてん' />
     <tag k='branch:en' v='misatokogota' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-25-8528' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013071200' />
@@ -427,13 +427,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台長命ケ丘一丁目店' />
     <tag k='name:en' v='Lawson sendaichiyoumeigaoka1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台長命ケ丘一丁目店' />
     <tag k='branch:ja_kana' v='せんだいちようめいがおか１ちようめてん' />
     <tag k='branch:en' v='sendaichiyoumeigaoka1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-342-7290' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013061400' />
@@ -447,13 +447,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台長町南店' />
     <tag k='name:en' v='Lawson sendainagamachiminami' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台長町南店' />
     <tag k='branch:ja_kana' v='せんだいながまちみなみてん' />
     <tag k='branch:en' v='sendainagamachiminami' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-246-6124' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1990111000' />
@@ -467,13 +467,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台苦竹店' />
     <tag k='name:en' v='Lawson Lsendainigatake' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台苦竹店' />
     <tag k='branch:ja_kana' v='Ｌせんだいにがたけてん' />
     <tag k='branch:en' v='Lsendainigatake' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-238-6969' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1990072800' />
@@ -487,13 +487,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台連坊小路店' />
     <tag k='name:en' v='Lawson sendairenboukouji' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台連坊小路店' />
     <tag k='branch:ja_kana' v='せんだいれんぼうこうじてん' />
     <tag k='branch:en' v='sendairenboukouji' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-256-2400' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1990120800' />
@@ -507,13 +507,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台木町通一丁目店' />
     <tag k='name:en' v='Lawson sendaikimachidoori1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台木町通一丁目店' />
     <tag k='branch:ja_kana' v='せんだいきまちどおり１ちようめてん' />
     <tag k='branch:en' v='sendaikimachidoori1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-216-8977' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1981110100' />
@@ -527,13 +527,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台八木山香澄町店' />
     <tag k='name:en' v='Lawson sendaiyagiyamakasumichiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台八木山香澄町店' />
     <tag k='branch:ja_kana' v='せんだいやぎやまかすみちようてん' />
     <tag k='branch:en' v='sendaiyagiyamakasumichiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-229-4881' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1982103100' />
@@ -547,13 +547,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台扇町店' />
     <tag k='name:en' v='Lawson sendaioogimachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台扇町店' />
     <tag k='branch:ja_kana' v='せんだいおおぎまちてん' />
     <tag k='branch:en' v='sendaioogimachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-237-3383' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1988031200' />
@@ -567,13 +567,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台川内三十人町店' />
     <tag k='name:en' v='Lawson sendaikawauchisanjiyuuninmachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台川内三十人町店' />
     <tag k='branch:ja_kana' v='せんだいかわうちさんじゆうにんまちてん' />
     <tag k='branch:en' v='sendaikawauchisanjiyuuninmachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-222-9210' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1988120100' />
@@ -587,13 +587,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台長町八丁目店' />
     <tag k='name:en' v='Lawson sendainagamachi8chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台長町八丁目店' />
     <tag k='branch:ja_kana' v='せんだいながまち８ちようめてん' />
     <tag k='branch:en' v='sendainagamachi8chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-249-5425' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1989021100' />
@@ -607,15 +607,15 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台歩坂町店' />
     <tag k='name:en' v='Lawson Lsendaihosakachiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台歩坂町店' />
     <tag k='branch:ja_kana' v='Ｌせんだいほさかちようてん' />
     <tag k='branch:en' v='Lsendaihosakachiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-375-0444' />
-    <tag k='opening_hours' v='Mo-Su 07:00-01:00' />
+    <tag k='opening_hours' v='Mo-Su 07:00-25:00' />
     <tag k='start_date' v='1989042100' />
     <tag k='addr:full' v='宮城県仙台市泉区歩坂町６４‐１３' />
     <tag k='ref' v='16283' />
@@ -627,13 +627,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台広瀬通店' />
     <tag k='name:en' v='Lawson sendaihirosedoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台広瀬通店' />
     <tag k='branch:ja_kana' v='せんだいひろせどおりてん' />
     <tag k='branch:en' v='sendaihirosedoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-225-3029' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1980122100' />
@@ -647,13 +647,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台泉中央一丁目店' />
     <tag k='name:en' v='Lawson sendaiizumichiyuuou1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台泉中央一丁目店' />
     <tag k='branch:ja_kana' v='せんだいいずみちゆうおう１ちようめてん' />
     <tag k='branch:en' v='sendaiizumichiyuuou1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-372-8831' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1989070100' />
@@ -667,13 +667,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台高松店' />
     <tag k='name:en' v='Lawson sendaitakamatsu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台高松店' />
     <tag k='branch:ja_kana' v='せんだいたかまつてん' />
     <tag k='branch:en' v='sendaitakamatsu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-273-4779' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1980011800' />
@@ -687,13 +687,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台柏木店' />
     <tag k='name:en' v='Lawson sendaikashiwagi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台柏木店' />
     <tag k='branch:ja_kana' v='せんだいかしわぎてん' />
     <tag k='branch:en' v='sendaikashiwagi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-276-4540' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1989080400' />
@@ -707,13 +707,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台木町通二丁目店' />
     <tag k='name:en' v='Lawson sendaikimachidoori2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台木町通二丁目店' />
     <tag k='branch:ja_kana' v='せんだいきまちどおり２ちようめてん' />
     <tag k='branch:en' v='sendaikimachidoori2chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-272-0990' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1989030100' />
@@ -727,13 +727,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台向山店' />
     <tag k='name:en' v='Lawson sendaimukaiyama' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台向山店' />
     <tag k='branch:ja_kana' v='せんだいむかいやまてん' />
     <tag k='branch:en' v='sendaimukaiyama' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-227-1081' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1989110400' />
@@ -747,13 +747,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台立町店' />
     <tag k='name:en' v='Lawson sendaitachimachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台立町店' />
     <tag k='branch:ja_kana' v='せんだいたちまちてん' />
     <tag k='branch:en' v='sendaitachimachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-268-2055' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1990021600' />
@@ -767,13 +767,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台新自由ケ丘店' />
     <tag k='name:en' v='Lawson sendaishinjiyuugaoka' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台新自由ケ丘店' />
     <tag k='branch:ja_kana' v='せんだいしんじゆうがおかてん' />
     <tag k='branch:en' v='sendaishinjiyuugaoka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-251-7117' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1991062900' />
@@ -787,13 +787,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台南光台一丁目店' />
     <tag k='name:en' v='Lawson sendainankoudai1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台南光台一丁目店' />
     <tag k='branch:ja_kana' v='せんだいなんこうだい１ちようめてん' />
     <tag k='branch:en' v='sendainankoudai1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-273-3044' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1991070700' />
@@ -807,13 +807,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台向陽台店' />
     <tag k='name:en' v='Lawson sendaikouyoudai' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台向陽台店' />
     <tag k='branch:ja_kana' v='せんだいこうようだいてん' />
     <tag k='branch:en' v='sendaikouyoudai' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-374-0851' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1991120700' />
@@ -827,13 +827,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大河原桜町店' />
     <tag k='name:en' v='Lawson Loogawarasakuramachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大河原桜町店' />
     <tag k='branch:ja_kana' v='Ｌおおがわらさくらまちてん' />
     <tag k='branch:en' v='Loogawarasakuramachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-52-4407' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1992011100' />
@@ -847,13 +847,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 名取手倉田店' />
     <tag k='name:en' v='Lawson natoritekurada' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='名取手倉田店' />
     <tag k='branch:ja_kana' v='なとりてくらだてん' />
     <tag k='branch:en' v='natoritekurada' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-383-5503' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1992100100' />
@@ -867,13 +867,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台高森店' />
     <tag k='name:en' v='Lawson Lsendaitakamori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台高森店' />
     <tag k='branch:ja_kana' v='Ｌせんだいたかもりてん' />
     <tag k='branch:en' v='Lsendaitakamori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-378-0497' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1992082800' />
@@ -887,13 +887,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台台原店' />
     <tag k='name:en' v='Lawson sendaidainohara' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台台原店' />
     <tag k='branch:ja_kana' v='せんだいだいのはらてん' />
     <tag k='branch:en' v='sendaidainohara' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-271-8722' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1992070100' />
@@ -907,13 +907,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台新港店' />
     <tag k='name:en' v='Lawson Lsendaishinkou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台新港店' />
     <tag k='branch:ja_kana' v='Ｌせんだいしんこうてん' />
     <tag k='branch:en' v='Lsendaishinkou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-254-4866' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009080200' />
@@ -927,13 +927,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 名取熊野堂店' />
     <tag k='name:en' v='Lawson Lnatorikumanodou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='名取熊野堂店' />
     <tag k='branch:ja_kana' v='Ｌなとりくまのどうてん' />
     <tag k='branch:en' v='Lnatorikumanodou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-386-6866' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009071100' />
@@ -947,13 +947,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台榴岡一丁目店' />
     <tag k='name:en' v='Lawson sendaitsutsujigaoka1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台榴岡一丁目店' />
     <tag k='branch:ja_kana' v='せんだいつつじがおか１ちようめてん' />
     <tag k='branch:en' v='sendaitsutsujigaoka1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-299-0420' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010040700' />
@@ -967,13 +967,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台富沢二丁目北店' />
     <tag k='name:en' v='Lawson sendaitomizawa2chiyoumekita' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台富沢二丁目北店' />
     <tag k='branch:ja_kana' v='せんだいとみざわ２ちようめきたてん' />
     <tag k='branch:en' v='sendaitomizawa2chiyoumekita' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-743-3004' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2008091300' />
@@ -987,13 +987,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台野村店' />
     <tag k='name:en' v='Lawson sendainomura' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台野村店' />
     <tag k='branch:ja_kana' v='せんだいのむらてん' />
     <tag k='branch:en' v='sendainomura' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-777-4580' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009011600' />
@@ -1007,13 +1007,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台宮町通店' />
     <tag k='name:en' v='Lawson sendaimiyamachidoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台宮町通店' />
     <tag k='branch:ja_kana' v='せんだいみやまちどおりてん' />
     <tag k='branch:en' v='sendaimiyamachidoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-721-1283' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2008111200' />
@@ -1027,13 +1027,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大崎三本木店' />
     <tag k='name:en' v='Lawson oosakisanbongi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大崎三本木店' />
     <tag k='branch:ja_kana' v='おおさきさんぼんぎてん' />
     <tag k='branch:en' v='oosakisanbongi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-52-5582' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2008120600' />
@@ -1047,13 +1047,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台高速バスセンター店' />
     <tag k='name:en' v='Lawson sendaikousokubasusenta-' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台高速バスセンター店' />
     <tag k='branch:ja_kana' v='せんだいこうそくばすせんたーてん' />
     <tag k='branch:en' v='sendaikousokubasusenta-' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-224-8863' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009121000' />
@@ -1067,13 +1067,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 古川バイパス店' />
     <tag k='name:en' v='Lawson furukawabaipasu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='古川バイパス店' />
     <tag k='branch:ja_kana' v='ふるかわばいぱすてん' />
     <tag k='branch:en' v='furukawabaipasu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-24-7718' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009022100' />
@@ -1087,13 +1087,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台土樋店' />
     <tag k='name:en' v='Lawson sendaitsuchitoi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台土樋店' />
     <tag k='branch:ja_kana' v='せんだいつちといてん' />
     <tag k='branch:en' v='sendaitsuchitoi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-224-3766' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009022100' />
@@ -1107,13 +1107,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大河原バイパス店' />
     <tag k='name:en' v='Lawson Loogawarabaipasu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大河原バイパス店' />
     <tag k='branch:ja_kana' v='Ｌおおがわらばいぱすてん' />
     <tag k='branch:en' v='Loogawarabaipasu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-51-3550' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009011700' />
@@ -1127,13 +1127,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台春日町店' />
     <tag k='name:en' v='Lawson sendaikasugamachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台春日町店' />
     <tag k='branch:ja_kana' v='せんだいかすがまちてん' />
     <tag k='branch:en' v='sendaikasugamachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-211-6996' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009051200' />
@@ -1145,15 +1145,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 塩釜北浜店' />
-    <tag k='name:en' v='Lawson shiogamakitahama' />
+    <tag k='name' v='ローソンストア100 塩釜北浜店' />
+    <tag k='name:en' v='Lawson Store 100 shiogamakitahama' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='塩釜北浜店' />
     <tag k='branch:ja_kana' v='しおがまきたはまてん' />
     <tag k='branch:en' v='shiogamakitahama' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-361-6099' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012050200' />
@@ -1165,15 +1165,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 連坊店' />
-    <tag k='name:en' v='Lawson renbou' />
+    <tag k='name' v='ローソンストア100 連坊店' />
+    <tag k='name:en' v='Lawson Store 100 renbou' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='連坊店' />
     <tag k='branch:ja_kana' v='れんぼうてん' />
     <tag k='branch:en' v='renbou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-714-9912' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010110300' />
@@ -1185,15 +1185,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 宮城野区新田店' />
-    <tag k='name:en' v='Lawson miyaginokushinden' />
+    <tag k='name' v='ローソンストア100 宮城野区新田店' />
+    <tag k='name:en' v='Lawson Store 100 miyaginokushinden' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='宮城野区新田店' />
     <tag k='branch:ja_kana' v='みやぎのくしんでんてん' />
     <tag k='branch:en' v='miyaginokushinden' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-782-1299' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010121800' />
@@ -1205,15 +1205,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 宮町店' />
-    <tag k='name:en' v='Lawson miyamachi' />
+    <tag k='name' v='ローソンストア100 宮町店' />
+    <tag k='name:en' v='Lawson Store 100 miyamachi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='宮町店' />
     <tag k='branch:ja_kana' v='みやまちてん' />
     <tag k='branch:en' v='miyamachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-716-9931' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011012600' />
@@ -1225,15 +1225,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 市名坂店' />
-    <tag k='name:en' v='Lawson ichinazaka' />
+    <tag k='name' v='ローソンストア100 市名坂店' />
+    <tag k='name:en' v='Lawson Store 100 ichinazaka' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='市名坂店' />
     <tag k='branch:ja_kana' v='いちなざかてん' />
     <tag k='branch:en' v='ichinazaka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-772-9915' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011012900' />
@@ -1245,15 +1245,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 幸町三丁目店' />
-    <tag k='name:en' v='Lawson saiwaichiyou3chiyoume' />
+    <tag k='name' v='ローソンストア100 幸町三丁目店' />
+    <tag k='name:en' v='Lawson Store 100 saiwaichiyou3chiyoume' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='幸町三丁目店' />
     <tag k='branch:ja_kana' v='さいわいちよう３ちようめてん' />
     <tag k='branch:en' v='saiwaichiyou3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-792-9984' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011020200' />
@@ -1265,15 +1265,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 荒町店' />
-    <tag k='name:en' v='Lawson aramachi' />
+    <tag k='name' v='ローソンストア100 荒町店' />
+    <tag k='name:en' v='Lawson Store 100 aramachi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='荒町店' />
     <tag k='branch:ja_kana' v='あらまちてん' />
     <tag k='branch:en' v='aramachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-212-9950' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011021200' />
@@ -1285,15 +1285,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 宮城野区銀杏町店' />
-    <tag k='name:en' v='Lawson miyaginokuichiyoumachi' />
+    <tag k='name' v='ローソンストア100 宮城野区銀杏町店' />
+    <tag k='name:en' v='Lawson Store 100 miyaginokuichiyoumachi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='宮城野区銀杏町店' />
     <tag k='branch:ja_kana' v='みやぎのくいちようまちてん' />
     <tag k='branch:en' v='miyaginokuichiyoumachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-292-1399' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010122200' />
@@ -1305,15 +1305,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 南仙台駅前店' />
-    <tag k='name:en' v='Lawson minamisendaiekimae' />
+    <tag k='name' v='ローソンストア100 南仙台駅前店' />
+    <tag k='name:en' v='Lawson Store 100 minamisendaiekimae' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='南仙台駅前店' />
     <tag k='branch:ja_kana' v='みなみせんだいえきまえてん' />
     <tag k='branch:en' v='minamisendaiekimae' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-741-9905' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011020900' />
@@ -1325,15 +1325,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 長命ヶ丘店' />
-    <tag k='name:en' v='Lawson chiyoumeigaoka' />
+    <tag k='name' v='ローソンストア100 長命ヶ丘店' />
+    <tag k='name:en' v='Lawson Store 100 chiyoumeigaoka' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='長命ヶ丘店' />
     <tag k='branch:ja_kana' v='ちようめいがおかてん' />
     <tag k='branch:en' v='chiyoumeigaoka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-377-9983' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010112700' />
@@ -1345,15 +1345,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 愛子店' />
-    <tag k='name:en' v='Lawson ayashi' />
+    <tag k='name' v='ローソンストア100 愛子店' />
+    <tag k='name:en' v='Lawson Store 100 ayashi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='愛子店' />
     <tag k='branch:ja_kana' v='あやしてん' />
     <tag k='branch:en' v='ayashi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-302-9937' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011011900' />
@@ -1365,15 +1365,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 長町一丁目店' />
-    <tag k='name:en' v='Lawson nagamachi1chiyoume' />
+    <tag k='name' v='ローソンストア100 長町一丁目店' />
+    <tag k='name:en' v='Lawson Store 100 nagamachi1chiyoume' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='長町一丁目店' />
     <tag k='branch:ja_kana' v='ながまち１ちようめてん' />
     <tag k='branch:en' v='nagamachi1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-249-9916' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011021600' />
@@ -1385,15 +1385,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 大和町店' />
-    <tag k='name:en' v='Lawson yamatomachi' />
+    <tag k='name' v='ローソンストア100 大和町店' />
+    <tag k='name:en' v='Lawson Store 100 yamatomachi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='大和町店' />
     <tag k='branch:ja_kana' v='やまとまちてん' />
     <tag k='branch:en' v='yamatomachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-788-3799' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011020500' />
@@ -1405,15 +1405,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 名取増田店' />
-    <tag k='name:en' v='Lawson natorimasuda' />
+    <tag k='name' v='ローソンストア100 名取増田店' />
+    <tag k='name:en' v='Lawson Store 100 natorimasuda' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='名取増田店' />
     <tag k='branch:ja_kana' v='なとりますだてん' />
     <tag k='branch:en' v='natorimasuda' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-381-7699' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010120400' />
@@ -1425,15 +1425,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 長町南店' />
-    <tag k='name:en' v='Lawson nagamachiminami' />
+    <tag k='name' v='ローソンストア100 長町南店' />
+    <tag k='name:en' v='Lawson Store 100 nagamachiminami' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='長町南店' />
     <tag k='branch:ja_kana' v='ながまちみなみてん' />
     <tag k='branch:en' v='nagamachiminami' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-304-0099' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011012200' />
@@ -1445,15 +1445,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 花京院店' />
-    <tag k='name:en' v='Lawson kakiyouin' />
+    <tag k='name' v='ローソンストア100 花京院店' />
+    <tag k='name:en' v='Lawson Store 100 kakiyouin' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='花京院店' />
     <tag k='branch:ja_kana' v='かきよういんてん' />
     <tag k='branch:en' v='kakiyouin' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-212-7099' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010121500' />
@@ -1465,15 +1465,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 平成一丁目店' />
-    <tag k='name:en' v='Lawson heisei1chiyoume' />
+    <tag k='name' v='ローソンストア100 平成一丁目店' />
+    <tag k='name:en' v='Lawson Store 100 heisei1chiyoume' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='平成一丁目店' />
     <tag k='branch:ja_kana' v='へいせい１ちようめてん' />
     <tag k='branch:en' v='heisei1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-238-9935' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010121100' />
@@ -1485,15 +1485,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 小松島店' />
-    <tag k='name:en' v='Lawson komatsujima' />
+    <tag k='name' v='ローソンストア100 小松島店' />
+    <tag k='name:en' v='Lawson Store 100 komatsujima' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='小松島店' />
     <tag k='branch:ja_kana' v='こまつじまてん' />
     <tag k='branch:en' v='komatsujima' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-727-9931' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010120800' />
@@ -1505,15 +1505,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 河原町店' />
-    <tag k='name:en' v='Lawson kawaramachi' />
+    <tag k='name' v='ローソンストア100 河原町店' />
+    <tag k='name:en' v='Lawson Store 100 kawaramachi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='河原町店' />
     <tag k='branch:ja_kana' v='かわらまちてん' />
     <tag k='branch:en' v='kawaramachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-217-9970' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010112400' />
@@ -1525,15 +1525,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 瑞鳳店' />
-    <tag k='name:en' v='Lawson zuihou' />
+    <tag k='name' v='ローソンストア100 瑞鳳店' />
+    <tag k='name:en' v='Lawson Store 100 zuihou' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='瑞鳳店' />
     <tag k='branch:ja_kana' v='ずいほうてん' />
     <tag k='branch:en' v='zuihou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-217-9931' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010111700' />
@@ -1545,15 +1545,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 国分町三丁目店' />
-    <tag k='name:en' v='Lawson kokubunchiyou3chiyoume' />
+    <tag k='name' v='ローソンストア100 国分町三丁目店' />
+    <tag k='name:en' v='Lawson Store 100 kokubunchiyou3chiyoume' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='国分町三丁目店' />
     <tag k='branch:ja_kana' v='こくぶんちよう３ちようめてん' />
     <tag k='branch:en' v='kokubunchiyou3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-217-9934' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010112000' />
@@ -1565,15 +1565,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 木町通店' />
-    <tag k='name:en' v='Lawson kimachidoori' />
+    <tag k='name' v='ローソンストア100 木町通店' />
+    <tag k='name:en' v='Lawson Store 100 kimachidoori' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='木町通店' />
     <tag k='branch:ja_kana' v='きまちどおりてん' />
     <tag k='branch:en' v='kimachidoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-727-9905' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010120100' />
@@ -1585,15 +1585,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 立町店' />
-    <tag k='name:en' v='Lawson tachimachi' />
+    <tag k='name' v='ローソンストア100 立町店' />
+    <tag k='name:en' v='Lawson Store 100 tachimachi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='立町店' />
     <tag k='branch:ja_kana' v='たちまちてん' />
     <tag k='branch:en' v='tachimachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-716-9963' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010111000' />
@@ -1605,15 +1605,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 福室三丁目店' />
-    <tag k='name:en' v='Lawson fukumuro3chiyoume' />
+    <tag k='name' v='ローソンストア100 福室三丁目店' />
+    <tag k='name:en' v='Lawson Store 100 fukumuro3chiyoume' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='福室三丁目店' />
     <tag k='branch:ja_kana' v='ふくむろ３ちようめてん' />
     <tag k='branch:en' v='fukumuro3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-388-9950' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011022300' />
@@ -1627,13 +1627,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 亘理吉田店' />
     <tag k='name:en' v='Lawson watariyoshida' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='亘理吉田店' />
     <tag k='branch:ja_kana' v='わたりよしだてん' />
     <tag k='branch:en' v='watariyoshida' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-223-34-1033' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1992102900' />
@@ -1647,13 +1647,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台高砂一丁目店' />
     <tag k='name:en' v='Lawson sendaitakasago1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台高砂一丁目店' />
     <tag k='branch:ja_kana' v='せんだいたかさご１ちようめてん' />
     <tag k='branch:en' v='sendaitakasago1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-254-7150' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994062500' />
@@ -1667,13 +1667,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台柳生三丁目店' />
     <tag k='name:en' v='Lawson sendaiyanagiu3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台柳生三丁目店' />
     <tag k='branch:ja_kana' v='せんだいやなぎう３ちようめてん' />
     <tag k='branch:en' v='sendaiyanagiu3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-242-4045' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013080200' />
@@ -1685,15 +1685,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 仙台駅東口店' />
-    <tag k='name:en' v='Lawson sendaiekihigashiguchi' />
+    <tag k='name' v='ローソンストア100 仙台駅東口店' />
+    <tag k='name:en' v='Lawson Store 100 sendaiekihigashiguchi' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='仙台駅東口店' />
     <tag k='branch:ja_kana' v='せんだいえきひがしぐちてん' />
     <tag k='branch:en' v='sendaiekihigashiguchi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-792-9099' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011011300' />
@@ -1705,15 +1705,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 太白区長町七丁目店' />
-    <tag k='name:en' v='Lawson taihakukunagamachi7chiyoume' />
+    <tag k='name' v='ローソンストア100 太白区長町七丁目店' />
+    <tag k='name:en' v='Lawson Store 100 taihakukunagamachi7chiyoume' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='太白区長町七丁目店' />
     <tag k='branch:ja_kana' v='たいはくくながまち７ちようめてん' />
     <tag k='branch:en' v='taihakukunagamachi7chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-746-9961' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011011600' />
@@ -1725,15 +1725,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 多賀城新田店' />
-    <tag k='name:en' v='Lawson tagajiyouniida' />
+    <tag k='name' v='ローソンストア100 多賀城新田店' />
+    <tag k='name:en' v='Lawson Store 100 tagajiyouniida' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='多賀城新田店' />
     <tag k='branch:ja_kana' v='たがじようにいだてん' />
     <tag k='branch:en' v='tagajiyouniida' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-389-2992' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011062400' />
@@ -1747,13 +1747,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台本町二丁目店' />
     <tag k='name:en' v='Lawson sendaihonchiyou2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台本町二丁目店' />
     <tag k='branch:ja_kana' v='せんだいほんちよう２ちようめてん' />
     <tag k='branch:en' v='sendaihonchiyou2chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-262-2996' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1993090100' />
@@ -1765,15 +1765,15 @@
     <tag k='toilet' v='yes' />
     <tag k='atm' v='yes' />
     <tag k='internet_access' v='wlan' />
-    <tag k='name' v='ローソン 泉区南光台三丁目店' />
-    <tag k='name:en' v='Lawson izumikunankoudai3chiyoume' />
+    <tag k='name' v='ローソンストア100 泉区南光台三丁目店' />
+    <tag k='name:en' v='Lawson Store 100 izumikunankoudai3chiyoume' />
+    <tag k='brand' v='ローソンストア100' />
+    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='branch' v='泉区南光台三丁目店' />
     <tag k='branch:ja_kana' v='いずみくなんこうだい３ちようめてん' />
     <tag k='branch:en' v='izumikunankoudai3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソンストア100' />
-    <tag k='brand:en' v='Lawson Store 100' />
     <tag k='phone' v='+81-22-727-9903' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011100100' />
@@ -1787,13 +1787,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台愛子店' />
     <tag k='name:en' v='Lawson sendaiayashi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台愛子店' />
     <tag k='branch:ja_kana' v='せんだいあやしてん' />
     <tag k='branch:en' v='sendaiayashi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-392-5685' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994100800' />
@@ -1807,13 +1807,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台小田原三丁目店' />
     <tag k='name:en' v='Lawson sendaiodawara3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台小田原三丁目店' />
     <tag k='branch:ja_kana' v='せんだいおだわら３ちようめてん' />
     <tag k='branch:en' v='sendaiodawara3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-295-6781' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994110500' />
@@ -1827,13 +1827,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台南吉成三丁目店' />
     <tag k='name:en' v='Lawson Lsendaiminamiyoshinari3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台南吉成三丁目店' />
     <tag k='branch:ja_kana' v='Ｌせんだいみなみよしなり３ちようめてん' />
     <tag k='branch:en' v='Lsendaiminamiyoshinari3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-279-7388' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995030100' />
@@ -1847,13 +1847,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 川崎町川内店' />
     <tag k='name:en' v='Lawson Lkawasakimachikawauchi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='川崎町川内店' />
     <tag k='branch:ja_kana' v='Ｌかわさきまちかわうちてん' />
     <tag k='branch:en' v='Lkawasakimachikawauchi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-84-4201' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1993120400' />
@@ -1867,13 +1867,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台秋保店' />
     <tag k='name:en' v='Lawson Lsendaiakiu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台秋保店' />
     <tag k='branch:ja_kana' v='Ｌせんだいあきうてん' />
     <tag k='branch:en' v='Lsendaiakiu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-397-2340' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1993120400' />
@@ -1887,13 +1887,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台出花店' />
     <tag k='name:en' v='Lawson sendaiideka' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台出花店' />
     <tag k='branch:ja_kana' v='せんだいいでかてん' />
     <tag k='branch:en' v='sendaiideka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-254-3670' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994012200' />
@@ -1907,13 +1907,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台鈎取本町店' />
     <tag k='name:en' v='Lawson Lsendaikagitorihonchiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台鈎取本町店' />
     <tag k='branch:ja_kana' v='Ｌせんだいかぎとりほんちようてん' />
     <tag k='branch:en' v='Lsendaikagitorihonchiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-243-2450' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994022700' />
@@ -1927,13 +1927,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台大町二丁目店' />
     <tag k='name:en' v='Lawson sendaioomachi2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台大町二丁目店' />
     <tag k='branch:ja_kana' v='せんだいおおまち２ちようめてん' />
     <tag k='branch:en' v='sendaioomachi2chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-268-4828' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994043000' />
@@ -1947,13 +1947,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 亘理山元店' />
     <tag k='name:en' v='Lawson watariyamamoto' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='亘理山元店' />
     <tag k='branch:ja_kana' v='わたりやまもとてん' />
     <tag k='branch:en' v='watariyamamoto' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-223-38-1870' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994123000' />
@@ -1967,13 +1967,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻渡波店' />
     <tag k='name:en' v='Lawson ishinomakiwatanoha' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻渡波店' />
     <tag k='branch:ja_kana' v='いしのまきわたのはてん' />
     <tag k='branch:en' v='ishinomakiwatanoha' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-97-5392' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1994072900' />
@@ -1987,13 +1987,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 松島磯崎店' />
     <tag k='name:en' v='Lawson matsushimaisozaki' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='松島磯崎店' />
     <tag k='branch:ja_kana' v='まつしまいそざきてん' />
     <tag k='branch:en' v='matsushimaisozaki' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-353-2110' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995121600' />
@@ -2007,13 +2007,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大和町吉岡店' />
     <tag k='name:en' v='Lawson taiwachiyouyoshioka' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大和町吉岡店' />
     <tag k='branch:ja_kana' v='たいわちようよしおかてん' />
     <tag k='branch:en' v='taiwachiyouyoshioka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-345-3463' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995070100' />
@@ -2027,13 +2027,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台東二番丁通店' />
     <tag k='name:en' v='Lawson Lsendaihigashinibanchiyoudoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台東二番丁通店' />
     <tag k='branch:ja_kana' v='Ｌせんだいひがしにばんちようどおりてん' />
     <tag k='branch:en' v='Lsendaihigashinibanchiyoudoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-261-9266' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995110100' />
@@ -2047,13 +2047,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台田子三丁目店' />
     <tag k='name:en' v='Lawson Lsendaitago3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台田子三丁目店' />
     <tag k='branch:ja_kana' v='Ｌせんだいたご３ちようめてん' />
     <tag k='branch:en' v='Lsendaitago3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-786-5331' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995052700' />
@@ -2067,13 +2067,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台高砂二丁目店' />
     <tag k='name:en' v='Lawson sendaitakasago2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台高砂二丁目店' />
     <tag k='branch:ja_kana' v='せんだいたかさご２ちようめてん' />
     <tag k='branch:en' v='sendaitakasago2chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-254-3830' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995021100' />
@@ -2087,13 +2087,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台茂庭店' />
     <tag k='name:en' v='Lawson sendaimoniwa' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台茂庭店' />
     <tag k='branch:ja_kana' v='せんだいもにわてん' />
     <tag k='branch:en' v='sendaimoniwa' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-281-5194' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995030100' />
@@ -2107,13 +2107,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台南小泉四丁目店' />
     <tag k='name:en' v='Lawson sendaiminamikoizumi4chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台南小泉四丁目店' />
     <tag k='branch:ja_kana' v='せんだいみなみこいずみ４ちようめてん' />
     <tag k='branch:en' v='sendaiminamikoizumi4chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-282-9188' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1995072900' />
@@ -2127,13 +2127,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 気仙沼階上店' />
     <tag k='name:en' v='Lawson kesennumahashikami' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='気仙沼階上店' />
     <tag k='branch:ja_kana' v='けせんぬまはしかみてん' />
     <tag k='branch:en' v='kesennumahashikami' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-27-4660' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012031000' />
@@ -2147,13 +2147,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 気仙沼東新城二丁目店' />
     <tag k='name:en' v='Lawson kesennumahigashishinjiyou2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='気仙沼東新城二丁目店' />
     <tag k='branch:ja_kana' v='けせんぬまひがししんじよう２ちようめてん' />
     <tag k='branch:en' v='kesennumahigashishinjiyou2chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-22-1071' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012060900' />
@@ -2167,13 +2167,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 南三陸歌津店' />
     <tag k='name:en' v='Lawson minamisanrikuutatsu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='南三陸歌津店' />
     <tag k='branch:ja_kana' v='みなみさんりくうたつてん' />
     <tag k='branch:en' v='minamisanrikuutatsu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-36-9311' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012061600' />
@@ -2187,13 +2187,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台中野店' />
     <tag k='name:en' v='Lawson sendainakano' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台中野店' />
     <tag k='branch:ja_kana' v='せんだいなかのてん' />
     <tag k='branch:en' v='sendainakano' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-786-9171' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012070800' />
@@ -2207,13 +2207,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 亘理浜吉田店' />
     <tag k='name:en' v='Lawson watarihamayoshida' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='亘理浜吉田店' />
     <tag k='branch:ja_kana' v='わたりはまよしだてん' />
     <tag k='branch:en' v='watarihamayoshida' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-223-33-9032' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013031500' />
@@ -2227,13 +2227,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台太子堂店' />
     <tag k='name:en' v='Lawson sendaitaishidou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台太子堂店' />
     <tag k='branch:ja_kana' v='せんだいたいしどうてん' />
     <tag k='branch:en' v='sendaitaishidou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-308-0277' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013040500' />
@@ -2247,13 +2247,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 登米石越町店' />
     <tag k='name:en' v='Lawson tomeishikoshimachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='登米石越町店' />
     <tag k='branch:ja_kana' v='とめいしこしまちてん' />
     <tag k='branch:en' v='tomeishikoshimachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-228-34-2240' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012080400' />
@@ -2267,13 +2267,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 気仙沼長磯店' />
     <tag k='name:en' v='Lawson kesennumanagaiso' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='気仙沼長磯店' />
     <tag k='branch:ja_kana' v='けせんぬまながいそてん' />
     <tag k='branch:en' v='kesennumanagaiso' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-27-2822' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012110300' />
@@ -2287,13 +2287,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 名取杜せきのした店' />
     <tag k='name:en' v='Lawson natorimorisekinoshita' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='名取杜せきのした店' />
     <tag k='branch:ja_kana' v='なとりもりせきのしたてん' />
     <tag k='branch:en' v='natorimorisekinoshita' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-383-1488' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012100600' />
@@ -2307,13 +2307,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台松森陣ヶ前店' />
     <tag k='name:en' v='Lawson sendaimatsumorijingamae' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台松森陣ヶ前店' />
     <tag k='branch:ja_kana' v='せんだいまつもりじんがまえてん' />
     <tag k='branch:en' v='sendaimatsumorijingamae' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-771-7561' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011120300' />
@@ -2327,13 +2327,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台古城一丁目店' />
     <tag k='name:en' v='Lawson sendaifurujiro1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台古城一丁目店' />
     <tag k='branch:ja_kana' v='せんだいふるじろ１ちようめてん' />
     <tag k='branch:en' v='sendaifurujiro1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-282-2026' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011080300' />
@@ -2347,13 +2347,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 登米中田町浅水店' />
     <tag k='name:en' v='Lawson tomenakadachiyouasamizu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='登米中田町浅水店' />
     <tag k='branch:ja_kana' v='とめなかだちようあさみずてん' />
     <tag k='branch:en' v='tomenakadachiyouasamizu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-220-34-7550' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2013050300' />
@@ -2367,13 +2367,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 多賀城東田中店' />
     <tag k='name:en' v='Lawson tagajiyouhigashitanaka' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='多賀城東田中店' />
     <tag k='branch:ja_kana' v='たがじようひがしたなかてん' />
     <tag k='branch:en' v='tagajiyouhigashitanaka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-389-0405' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012120800' />
@@ -2387,13 +2387,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 南三陸志津川店' />
     <tag k='name:en' v='Lawson minamisanrikushidugawa' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='南三陸志津川店' />
     <tag k='branch:ja_kana' v='みなみさんりくしづがわてん' />
     <tag k='branch:en' v='minamisanrikushidugawa' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-47-4066' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012100600' />
@@ -2407,13 +2407,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻中里三丁目店' />
     <tag k='name:en' v='Lawson ishinomakinakasato3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻中里三丁目店' />
     <tag k='branch:ja_kana' v='いしのまきなかさと３ちようめてん' />
     <tag k='branch:en' v='ishinomakinakasato3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-92-1455' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011100800' />
@@ -2427,13 +2427,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻緑町店' />
     <tag k='name:en' v='Lawson ishinomakimidorichiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻緑町店' />
     <tag k='branch:ja_kana' v='いしのまきみどりちようてん' />
     <tag k='branch:en' v='ishinomakimidorichiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-94-4687' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011100200' />
@@ -2447,13 +2447,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台四郎丸渡道店' />
     <tag k='name:en' v='Lawson sendaishiroumaruwatadou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台四郎丸渡道店' />
     <tag k='branch:ja_kana' v='せんだいしろうまるわたどうてん' />
     <tag k='branch:en' v='sendaishiroumaruwatadou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-242-2115' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011121000' />
@@ -2467,13 +2467,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 南三陸入谷店' />
     <tag k='name:en' v='Lawson minamisanrikuiriya' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='南三陸入谷店' />
     <tag k='branch:ja_kana' v='みなみさんりくいりやてん' />
     <tag k='branch:en' v='minamisanrikuiriya' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-46-2208' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2011120200' />
@@ -2487,13 +2487,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻大宮町店' />
     <tag k='name:en' v='Lawson ishinomakioomiyachiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻大宮町店' />
     <tag k='branch:ja_kana' v='いしのまきおおみやちようてん' />
     <tag k='branch:en' v='ishinomakioomiyachiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-24-1207' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012030300' />
@@ -2507,13 +2507,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 唐桑町大沢店' />
     <tag k='name:en' v='Lawson karakuwachiyouoosawa' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='唐桑町大沢店' />
     <tag k='branch:ja_kana' v='からくわちようおおさわてん' />
     <tag k='branch:en' v='karakuwachiyouoosawa' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-31-3155' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2012011100' />
@@ -2527,13 +2527,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 山元町高瀬店' />
     <tag k='name:en' v='Lawson yamamotochiyoutakase' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='山元町高瀬店' />
     <tag k='branch:ja_kana' v='やまもとちようたかせてん' />
     <tag k='branch:en' v='yamamotochiyoutakase' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-223-37-5537' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1997121300' />
@@ -2547,13 +2547,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 色麻町清水店' />
     <tag k='name:en' v='Lawson Lshikamachiyoukiyomizu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='色麻町清水店' />
     <tag k='branch:ja_kana' v='Ｌしかまちようきよみずてん' />
     <tag k='branch:en' v='Lshikamachiyoukiyomizu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-65-2693' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1998022800' />
@@ -2567,13 +2567,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 佐沼光ヶ丘店' />
     <tag k='name:en' v='Lawson sanumahikarigaoka' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='佐沼光ヶ丘店' />
     <tag k='branch:ja_kana' v='さぬまひかりがおかてん' />
     <tag k='branch:en' v='sanumahikarigaoka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-220-23-0303' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1998022800' />
@@ -2587,13 +2587,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 松山町金谷店' />
     <tag k='name:en' v='Lawson Lmatsuyamachiyoukanaya' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='松山町金谷店' />
     <tag k='branch:ja_kana' v='Ｌまつやまちようかなやてん' />
     <tag k='branch:en' v='Lmatsuyamachiyoukanaya' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-55-4660' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1998041200' />
@@ -2607,13 +2607,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台松森店' />
     <tag k='name:en' v='Lawson sendaimatsumori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台松森店' />
     <tag k='branch:ja_kana' v='せんだいまつもりてん' />
     <tag k='branch:en' v='sendaimatsumori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-372-3391' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1998071900' />
@@ -2627,13 +2627,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台五橋一丁目店' />
     <tag k='name:en' v='Lawson sendaiitsutsubashi1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台五橋一丁目店' />
     <tag k='branch:ja_kana' v='せんだいいつつばし１ちようめてん' />
     <tag k='branch:en' v='sendaiitsutsubashi1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-268-4480' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1999012100' />
@@ -2647,13 +2647,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 河南町広渕店' />
     <tag k='name:en' v='Lawson kananchiyouhirobuchi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='河南町広渕店' />
     <tag k='branch:ja_kana' v='かなんちようひろぶちてん' />
     <tag k='branch:en' v='kananchiyouhirobuchi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-73-4716' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1999022700' />
@@ -2667,13 +2667,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 若柳川北店' />
     <tag k='name:en' v='Lawson wakayanagikawakita' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='若柳川北店' />
     <tag k='branch:ja_kana' v='わかやなぎかわきたてん' />
     <tag k='branch:en' v='wakayanagikawakita' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-228-32-2422' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1996072800' />
@@ -2687,13 +2687,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台宮城野三丁目店' />
     <tag k='name:en' v='Lawson sendaimiyagino3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台宮城野三丁目店' />
     <tag k='branch:ja_kana' v='せんだいみやぎの３ちようめてん' />
     <tag k='branch:en' v='sendaimiyagino3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-291-3963' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1996022600' />
@@ -2707,13 +2707,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 多賀城大代六丁目店' />
     <tag k='name:en' v='Lawson tagajiyouooshiro6chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='多賀城大代六丁目店' />
     <tag k='branch:ja_kana' v='たがじようおおしろ６ちようめてん' />
     <tag k='branch:en' v='tagajiyouooshiro6chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-365-5511' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1996042700' />
@@ -2727,13 +2727,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 角田バイパス店' />
     <tag k='name:en' v='Lawson Lkakudabaipasu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='角田バイパス店' />
     <tag k='branch:ja_kana' v='Ｌかくだばいぱすてん' />
     <tag k='branch:en' v='Lkakudabaipasu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-62-4178' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1997022800' />
@@ -2747,13 +2747,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 佐沼梅ノ木店' />
     <tag k='name:en' v='Lawson sanumaumenoki' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='佐沼梅ノ木店' />
     <tag k='branch:ja_kana' v='さぬまうめのきてん' />
     <tag k='branch:en' v='sanumaumenoki' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-220-22-2303' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1996072100' />
@@ -2767,13 +2767,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 角田横倉店' />
     <tag k='name:en' v='Lawson kakudayokokura' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='角田横倉店' />
     <tag k='branch:ja_kana' v='かくだよこくらてん' />
     <tag k='branch:en' v='kakudayokokura' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-62-4114' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1997022200' />
@@ -2787,13 +2787,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台柳生店' />
     <tag k='name:en' v='Lawson sendaiyanagiyuu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台柳生店' />
     <tag k='branch:ja_kana' v='せんだいやなぎゆうてん' />
     <tag k='branch:en' v='sendaiyanagiyuu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-242-5709' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='1996122100' />
@@ -2807,13 +2807,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台愛子中央店' />
     <tag k='name:en' v='Lawson sendaiayashichiyuuou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台愛子中央店' />
     <tag k='branch:ja_kana' v='せんだいあやしちゆうおうてん' />
     <tag k='branch:en' v='sendaiayashichiyuuou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-391-6033' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000042600' />
@@ -2827,13 +2827,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 多賀城南宮店' />
     <tag k='name:en' v='Lawson Ltagajiyounanguu' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='多賀城南宮店' />
     <tag k='branch:ja_kana' v='Ｌたがじようなんぐうてん' />
     <tag k='branch:en' v='Ltagajiyounanguu' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-309-6379' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009081100' />
@@ -2847,13 +2847,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大崎西古川店' />
     <tag k='name:en' v='Lawson oosakinishifurukawa' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大崎西古川店' />
     <tag k='branch:ja_kana' v='おおさきにしふるかわてん' />
     <tag k='branch:en' v='oosakinishifurukawa' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-26-2766' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2007071200' />
@@ -2867,13 +2867,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台鷺ケ森店' />
     <tag k='name:en' v='Lawson sendaisagigamori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台鷺ケ森店' />
     <tag k='branch:ja_kana' v='せんだいさぎがもりてん' />
     <tag k='branch:en' v='sendaisagigamori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-728-5051' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000063000' />
@@ -2887,13 +2887,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台泉中央三丁目店' />
     <tag k='name:en' v='Lawson sendaiizumichiyuuou3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台泉中央三丁目店' />
     <tag k='branch:ja_kana' v='せんだいいずみちゆうおう３ちようめてん' />
     <tag k='branch:en' v='sendaiizumichiyuuou3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-776-6303' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000083000' />
@@ -2907,13 +2907,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台桂四丁目店' />
     <tag k='name:en' v='Lawson Lsendaikatsura4chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台桂四丁目店' />
     <tag k='branch:ja_kana' v='Ｌせんだいかつら４ちようめてん' />
     <tag k='branch:en' v='Lsendaikatsura4chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-776-3980' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000092000' />
@@ -2927,13 +2927,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 塩釜舟入店' />
     <tag k='name:en' v='Lawson shiogamafunairi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='塩釜舟入店' />
     <tag k='branch:ja_kana' v='しおがまふないりてん' />
     <tag k='branch:en' v='shiogamafunairi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-362-1661' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000100100' />
@@ -2947,13 +2947,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 唐桑町店' />
     <tag k='name:en' v='Lawson karakuwachiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='唐桑町店' />
     <tag k='branch:ja_kana' v='からくわちようてん' />
     <tag k='branch:en' v='karakuwachiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-32-2409' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000083000' />
@@ -2967,13 +2967,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 気仙沼港町店' />
     <tag k='name:en' v='Lawson kesennumaminatomachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='気仙沼港町店' />
     <tag k='branch:ja_kana' v='けせんぬまみなとまちてん' />
     <tag k='branch:en' v='kesennumaminatomachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-24-3367' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000081300' />
@@ -2987,13 +2987,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台川平一丁目店' />
     <tag k='name:en' v='Lawson Lsendaikawadaira1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台川平一丁目店' />
     <tag k='branch:ja_kana' v='Ｌせんだいかわだいら１ちようめてん' />
     <tag k='branch:en' v='Lsendaikawadaira1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-719-3523' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2008061800' />
@@ -3007,15 +3007,15 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台医療センター店' />
     <tag k='name:en' v='Lawson sendaiiriyousenta-' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台医療センター店' />
     <tag k='branch:ja_kana' v='せんだいいりようせんたーてん' />
     <tag k='branch:en' v='sendaiiriyousenta-' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-296-2287' />
-    <tag k='opening_hours' v='Mo-Su 06:00-01:00' />
+    <tag k='opening_hours' v='Mo-Su 06:00-25:00' />
     <tag k='start_date' v='2007052500' />
     <tag k='addr:full' v='宮城県仙台市宮城野区宮城野２‐８‐８' />
     <tag k='ref' v='113359' />
@@ -3027,13 +3027,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 宮城県庁店' />
     <tag k='name:en' v='Lawson miyagikenchiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='宮城県庁店' />
     <tag k='branch:ja_kana' v='みやぎけんちようてん' />
     <tag k='branch:en' v='miyagikenchiyou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-721-1325' />
     <tag k='opening_hours' v='Mo-Su 08:00-20:00' />
     <tag k='start_date' v='2007071800' />
@@ -3047,13 +3047,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン Ｓ仙台市役所店' />
     <tag k='name:en' v='Lawson Ssendaishiyakushiyo' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='Ｓ仙台市役所店' />
     <tag k='branch:ja_kana' v='Ｓせんだいしやくしよてん' />
     <tag k='branch:en' v='Ssendaishiyakushiyo' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-263-6776' />
     <tag k='opening_hours' v='Mo-Su 08:00-18:00' />
     <tag k='start_date' v='2007080200' />
@@ -3067,13 +3067,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台坪沼店' />
     <tag k='name:en' v='Lawson sendaitsubonuma' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台坪沼店' />
     <tag k='branch:ja_kana' v='せんだいつぼぬまてん' />
     <tag k='branch:en' v='sendaitsubonuma' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-281-7677' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2007080900' />
@@ -3087,13 +3087,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台上杉一丁目店' />
     <tag k='name:en' v='Lawson sendaikamisugi1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台上杉一丁目店' />
     <tag k='branch:ja_kana' v='せんだいかみすぎ１ちようめてん' />
     <tag k='branch:en' v='sendaikamisugi1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-265-6336' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010012000' />
@@ -3107,13 +3107,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 名取箱塚一丁目店' />
     <tag k='name:en' v='Lawson natorihakoduka1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='名取箱塚一丁目店' />
     <tag k='branch:ja_kana' v='なとりはこづか１ちようめてん' />
     <tag k='branch:en' v='natorihakoduka1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-382-1771' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010090400' />
@@ -3127,13 +3127,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台国見一丁目店' />
     <tag k='name:en' v='Lawson sendaikunimi1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台国見一丁目店' />
     <tag k='branch:ja_kana' v='せんだいくにみ１ちようめてん' />
     <tag k='branch:en' v='sendaikunimi1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-272-9786' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010012300' />
@@ -3147,13 +3147,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 美里中埣店' />
     <tag k='name:en' v='Lawson misatonakazone' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='美里中埣店' />
     <tag k='branch:ja_kana' v='みさとなかぞねてん' />
     <tag k='branch:en' v='misatonakazone' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-34-2970' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010022700' />
@@ -3167,13 +3167,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台二日町中央店' />
     <tag k='name:en' v='Lawson sendaifutsukamachichiyuuou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台二日町中央店' />
     <tag k='branch:ja_kana' v='せんだいふつかまちちゆうおうてん' />
     <tag k='branch:en' v='sendaifutsukamachichiyuuou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-262-3709' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010070200' />
@@ -3187,13 +3187,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台小田原一丁目店' />
     <tag k='name:en' v='Lawson sendaiodawara1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台小田原一丁目店' />
     <tag k='branch:ja_kana' v='せんだいおだわら１ちようめてん' />
     <tag k='branch:en' v='sendaiodawara1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-257-3221' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010080700' />
@@ -3207,13 +3207,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台宮千代一丁目店' />
     <tag k='name:en' v='Lawson sendaimiyachiyo1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台宮千代一丁目店' />
     <tag k='branch:ja_kana' v='せんだいみやちよ１ちようめてん' />
     <tag k='branch:en' v='sendaimiyachiyo1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-788-2925' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010071000' />
@@ -3227,13 +3227,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻東中里二丁目店' />
     <tag k='name:en' v='Lawson ishinomakihigashinakasato2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻東中里二丁目店' />
     <tag k='branch:ja_kana' v='いしのまきひがしなかさと２ちようめてん' />
     <tag k='branch:en' v='ishinomakihigashinakasato2chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-21-6780' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2010061200' />
@@ -3247,13 +3247,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台北目町通店' />
     <tag k='name:en' v='Lawson sendaikitamemachitoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台北目町通店' />
     <tag k='branch:ja_kana' v='せんだいきためまちとおりてん' />
     <tag k='branch:en' v='sendaikitamemachitoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-265-7020' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003062500' />
@@ -3267,13 +3267,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 富谷富ヶ丘二丁目店' />
     <tag k='name:en' v='Lawson tomiyatomigaoka2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='富谷富ヶ丘二丁目店' />
     <tag k='branch:ja_kana' v='とみやとみがおか２ちようめてん' />
     <tag k='branch:en' v='tomiyatomigaoka2chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-358-3757' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003062800' />
@@ -3287,13 +3287,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台中央四丁目店' />
     <tag k='name:en' v='Lawson sendaichiyuuou4chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台中央四丁目店' />
     <tag k='branch:ja_kana' v='せんだいちゆうおう４ちようめてん' />
     <tag k='branch:en' v='sendaichiyuuou4chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-264-7049' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003061100' />
@@ -3307,13 +3307,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 塩竈新浜店' />
     <tag k='name:en' v='Lawson Lshiogamashinhama' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='塩竈新浜店' />
     <tag k='branch:ja_kana' v='Ｌしおがましんはまてん' />
     <tag k='branch:en' v='Lshiogamashinhama' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-366-2331' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003072600' />
@@ -3327,13 +3327,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台定禅寺通店' />
     <tag k='name:en' v='Lawson sendaijiyouzenjidoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台定禅寺通店' />
     <tag k='branch:ja_kana' v='せんだいじようぜんじどおりてん' />
     <tag k='branch:en' v='sendaijiyouzenjidoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-261-3317' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003080100' />
@@ -3347,13 +3347,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台北鍛冶町店' />
     <tag k='name:en' v='Lawson sendaikitakajimachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台北鍛冶町店' />
     <tag k='branch:ja_kana' v='せんだいきたかじまちてん' />
     <tag k='branch:en' v='sendaikitakajimachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-212-3511' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2004050800' />
@@ -3367,13 +3367,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻開成店' />
     <tag k='name:en' v='Lawson ishinomakikaisei' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻開成店' />
     <tag k='branch:ja_kana' v='いしのまきかいせいてん' />
     <tag k='branch:en' v='ishinomakikaisei' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-23-7622' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2004022900' />
@@ -3387,13 +3387,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台沖野店' />
     <tag k='name:en' v='Lawson sendaiokino' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台沖野店' />
     <tag k='branch:ja_kana' v='せんだいおきのてん' />
     <tag k='branch:en' v='sendaiokino' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-282-0227' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005021200' />
@@ -3407,13 +3407,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 矢本作田浦店' />
     <tag k='name:en' v='Lawson yamotosakutaura' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='矢本作田浦店' />
     <tag k='branch:ja_kana' v='やもとさくたうらてん' />
     <tag k='branch:en' v='yamotosakutaura' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-83-7631' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2004071700' />
@@ -3427,13 +3427,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台中山一丁目店' />
     <tag k='name:en' v='Lawson sendainakayama1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台中山一丁目店' />
     <tag k='branch:ja_kana' v='せんだいなかやま１ちようめてん' />
     <tag k='branch:en' v='sendainakayama1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-719-8063' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2004080200' />
@@ -3447,13 +3447,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台産業通店' />
     <tag k='name:en' v='Lawson sendaisangiyoudoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台産業通店' />
     <tag k='branch:ja_kana' v='せんだいさんぎようどおりてん' />
     <tag k='branch:en' v='sendaisangiyoudoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-287-0455' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2004070200' />
@@ -3467,13 +3467,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻門脇店' />
     <tag k='name:en' v='Lawson ishinomakikadonowaki' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻門脇店' />
     <tag k='branch:ja_kana' v='いしのまきかどのわきてん' />
     <tag k='branch:en' v='ishinomakikadonowaki' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-92-9782' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2004071700' />
@@ -3487,13 +3487,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台東北労災病院前店' />
     <tag k='name:en' v='Lawson Lsendaitouhokurousaibiyouinma' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台東北労災病院前店' />
     <tag k='branch:ja_kana' v='Ｌせんだいとうほくろうさいびよういんまてん' />
     <tag k='branch:en' v='Lsendaitouhokurousaibiyouinma' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-718-3963' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2004081100' />
@@ -3507,13 +3507,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 佐沼南店' />
     <tag k='name:en' v='Lawson sanumaminami' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='佐沼南店' />
     <tag k='branch:ja_kana' v='さぬまみなみてん' />
     <tag k='branch:en' v='sanumaminami' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-220-23-0606' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005021200' />
@@ -3527,13 +3527,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 塩釜袖野田店' />
     <tag k='name:en' v='Lawson shiogamasodenoda' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='塩釜袖野田店' />
     <tag k='branch:ja_kana' v='しおがまそでのだてん' />
     <tag k='branch:en' v='shiogamasodenoda' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-367-6206' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2001083000' />
@@ -3547,13 +3547,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 柴田槻木店' />
     <tag k='name:en' v='Lawson shibatatsukinoki' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='柴田槻木店' />
     <tag k='branch:ja_kana' v='しばたつきのきてん' />
     <tag k='branch:en' v='shibatatsukinoki' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-56-2734' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2001120100' />
@@ -3567,13 +3567,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 古川桜ノ目店' />
     <tag k='name:en' v='Lawson Lfurukawasakuranome' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='古川桜ノ目店' />
     <tag k='branch:ja_kana' v='Ｌふるかわさくらのめてん' />
     <tag k='branch:en' v='Lfurukawasakuranome' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-28-2314' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006022500' />
@@ -3587,13 +3587,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻大街道店' />
     <tag k='name:en' v='Lawson ishinomakiookaidou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻大街道店' />
     <tag k='branch:ja_kana' v='いしのまきおおかいどうてん' />
     <tag k='branch:en' v='ishinomakiookaidou' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-94-7055' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005111800' />
@@ -3607,13 +3607,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台二日町晩翠通店' />
     <tag k='name:en' v='Lawson sendaifutsukamachibansuidoori' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台二日町晩翠通店' />
     <tag k='branch:ja_kana' v='せんだいふつかまちばんすいどおりてん' />
     <tag k='branch:en' v='sendaifutsukamachibansuidoori' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-215-0394' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006030100' />
@@ -3627,13 +3627,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台一番町三丁目店' />
     <tag k='name:en' v='Lawson sendaiichibanchiyou3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台一番町三丁目店' />
     <tag k='branch:ja_kana' v='せんだいいちばんちよう３ちようめてん' />
     <tag k='branch:en' v='sendaiichibanchiyou3chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-263-3963' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005052400' />
@@ -3647,13 +3647,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 川崎町今宿店' />
     <tag k='name:en' v='Lawson Lkawasakichiyouimajiyuku' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='川崎町今宿店' />
     <tag k='branch:ja_kana' v='Ｌかわさきちよういまじゆくてん' />
     <tag k='branch:en' v='Lkawasakichiyouimajiyuku' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-84-5820' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2002030100' />
@@ -3667,13 +3667,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻蛇田店' />
     <tag k='name:en' v='Lawson Lishinomakihebita' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻蛇田店' />
     <tag k='branch:ja_kana' v='Ｌいしのまきへびたてん' />
     <tag k='branch:en' v='Lishinomakihebita' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-96-0951' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2001121600' />
@@ -3687,13 +3687,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台泉インター店' />
     <tag k='name:en' v='Lawson sendaiizumiinta-' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台泉インター店' />
     <tag k='branch:ja_kana' v='せんだいいずみいんたーてん' />
     <tag k='branch:en' v='sendaiizumiinta-' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-771-0841' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2002030100' />
@@ -3707,13 +3707,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 豊里町上町店' />
     <tag k='name:en' v='Lawson toyosatochiyoukamimachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='豊里町上町店' />
     <tag k='branch:ja_kana' v='とよさとちようかみまちてん' />
     <tag k='branch:en' v='toyosatochiyoukamimachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-76-0217' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2002030100' />
@@ -3727,13 +3727,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台河原町店' />
     <tag k='name:en' v='Lawson sendaikawaramachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台河原町店' />
     <tag k='branch:ja_kana' v='せんだいかわらまちてん' />
     <tag k='branch:en' v='sendaikawaramachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-264-3882' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005081900' />
@@ -3747,13 +3747,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 色麻上新町店' />
     <tag k='name:en' v='Lawson Lshikamakamishinmachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='色麻上新町店' />
     <tag k='branch:ja_kana' v='Ｌしかまかみしんまちてん' />
     <tag k='branch:en' v='Lshikamakamishinmachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-65-5065' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005110200' />
@@ -3767,13 +3767,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 川崎碁石店' />
     <tag k='name:en' v='Lawson kawasakigoishi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='川崎碁石店' />
     <tag k='branch:ja_kana' v='かわさきごいしてん' />
     <tag k='branch:en' v='kawasakigoishi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-86-2777' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005100800' />
@@ -3787,13 +3787,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台東中田店' />
     <tag k='name:en' v='Lawson Lsendaihigashinakada' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台東中田店' />
     <tag k='branch:ja_kana' v='Ｌせんだいひがしなかだてん' />
     <tag k='branch:en' v='Lsendaihigashinakada' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-741-5343' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005110200' />
@@ -3807,13 +3807,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 蔵王曲竹店' />
     <tag k='name:en' v='Lawson zaoumagatake' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='蔵王曲竹店' />
     <tag k='branch:ja_kana' v='ざおうまがたけてん' />
     <tag k='branch:en' v='zaoumagatake' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-33-3771' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006091000' />
@@ -3827,13 +3827,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台旭ヶ丘四丁目店' />
     <tag k='name:en' v='Lawson sendaiasahigaoka4chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台旭ヶ丘四丁目店' />
     <tag k='branch:ja_kana' v='せんだいあさひがおか４ちようめてん' />
     <tag k='branch:en' v='sendaiasahigaoka4chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-274-3963' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006020900' />
@@ -3847,13 +3847,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 塩釜清水沢店' />
     <tag k='name:en' v='Lawson shiogamashimizusawa' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='塩釜清水沢店' />
     <tag k='branch:ja_kana' v='しおがましみずさわてん' />
     <tag k='branch:en' v='shiogamashimizusawa' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-364-5504' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006020300' />
@@ -3867,13 +3867,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台山田店' />
     <tag k='name:en' v='Lawson sendaiyamada' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台山田店' />
     <tag k='branch:ja_kana' v='せんだいやまだてん' />
     <tag k='branch:en' v='sendaiyamada' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-743-3247' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2007040200' />
@@ -3887,13 +3887,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台八本松一丁目店' />
     <tag k='name:en' v='Lawson sendaihachihonmatsu1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台八本松一丁目店' />
     <tag k='branch:ja_kana' v='せんだいはちほんまつ１ちようめてん' />
     <tag k='branch:en' v='sendaihachihonmatsu1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-248-3855' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006041100' />
@@ -3907,13 +3907,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台郡山七丁目店' />
     <tag k='name:en' v='Lawson sendaikooriyama7chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台郡山七丁目店' />
     <tag k='branch:ja_kana' v='せんだいこおりやま７ちようめてん' />
     <tag k='branch:en' v='sendaikooriyama7chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-247-6833' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2009050200' />
@@ -3927,13 +3927,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台中山四丁目店' />
     <tag k='name:en' v='Lawson sendainakayama4chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台中山四丁目店' />
     <tag k='branch:ja_kana' v='せんだいなかやま４ちようめてん' />
     <tag k='branch:en' v='sendainakayama4chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-719-7037' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006060100' />
@@ -3947,13 +3947,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台向山四丁目店' />
     <tag k='name:en' v='Lawson sendaimukaiyama4chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台向山四丁目店' />
     <tag k='branch:ja_kana' v='せんだいむかいやま４ちようめてん' />
     <tag k='branch:en' v='sendaimukaiyama4chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-266-6339' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006061500' />
@@ -3967,13 +3967,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 岩沼三軒茶屋店' />
     <tag k='name:en' v='Lawson iwanumasankenchiyaya' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='岩沼三軒茶屋店' />
     <tag k='branch:ja_kana' v='いわぬまさんけんちややてん' />
     <tag k='branch:en' v='iwanumasankenchiyaya' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-223-22-6061' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006100800' />
@@ -3987,13 +3987,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 大河原新南店' />
     <tag k='name:en' v='Lawson oogawarashinminami' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='大河原新南店' />
     <tag k='branch:ja_kana' v='おおがわらしんみなみてん' />
     <tag k='branch:en' v='oogawarashinminami' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-224-53-5090' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2006081100' />
@@ -4007,13 +4007,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 田尻駅前店' />
     <tag k='name:en' v='Lawson tajiriekimae' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='田尻駅前店' />
     <tag k='branch:ja_kana' v='たじりえきまえてん' />
     <tag k='branch:en' v='tajiriekimae' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-229-39-2001' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2002101100' />
@@ -4027,13 +4027,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台大塒町店' />
     <tag k='name:en' v='Lawson sendaiootoyamachi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台大塒町店' />
     <tag k='branch:ja_kana' v='せんだいおおとやまちてん' />
     <tag k='branch:en' v='sendaiootoyamachi' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-248-1121' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003030100' />
@@ -4047,13 +4047,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 岩沼松ヶ丘店' />
     <tag k='name:en' v='Lawson iwanumamatsugaoka' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='岩沼松ヶ丘店' />
     <tag k='branch:ja_kana' v='いわぬままつがおかてん' />
     <tag k='branch:en' v='iwanumamatsugaoka' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-223-23-9558' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003030100' />
@@ -4067,13 +4067,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 河北インター店' />
     <tag k='name:en' v='Lawson kahokuinta-' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='河北インター店' />
     <tag k='branch:ja_kana' v='かほくいんたーてん' />
     <tag k='branch:en' v='kahokuinta-' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-61-1533' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2003050100' />
@@ -4087,13 +4087,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 石巻相野谷店' />
     <tag k='name:en' v='Lawson Lishinomakiainoya' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='石巻相野谷店' />
     <tag k='branch:ja_kana' v='Ｌいしのまきあいのやてん' />
     <tag k='branch:en' v='Lishinomakiainoya' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-225-62-3990' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2007040700' />
@@ -4107,13 +4107,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 気仙沼東八幡前店' />
     <tag k='name:en' v='Lawson kesennumahigashihachimanmae' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='気仙沼東八幡前店' />
     <tag k='branch:ja_kana' v='けせんぬまひがしはちまんまえてん' />
     <tag k='branch:en' v='kesennumahigashihachimanmae' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-226-25-4625' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000081300' />
@@ -4127,13 +4127,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 仙台卸町一丁目店' />
     <tag k='name:en' v='Lawson sendaioroshimachi1chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='仙台卸町一丁目店' />
     <tag k='branch:ja_kana' v='せんだいおろしまち１ちようめてん' />
     <tag k='branch:en' v='sendaioroshimachi1chiyoume' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-22-782-1103' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2000111600' />
@@ -4147,13 +4147,13 @@
     <tag k='internet_access' v='wlan' />
     <tag k='name' v='ローソン 東和米川店' />
     <tag k='name:en' v='Lawson touwayonekawa' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
     <tag k='branch' v='東和米川店' />
     <tag k='branch:ja_kana' v='とうわよねかわてん' />
     <tag k='branch:en' v='touwayonekawa' />
     <tag k='operator' v='ローソン' />
     <tag k='operator:en' v='Lawson' />
-    <tag k='brand' v='ローソン' />
-    <tag k='brand:en' v='Lawson' />
     <tag k='phone' v='+81-220-45-2566' />
     <tag k='opening_hours' v='24/7' />
     <tag k='start_date' v='2005072000' />
