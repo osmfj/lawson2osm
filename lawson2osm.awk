@@ -20,9 +20,13 @@ BEGIN {
 
     printf("  <node id='-%s' lat='%f' lon='%f'>\n",$1,$2/3600000,$3/3600000);
     printf("    <tag k='shop' v='convenience' />\n");
+    printf("    <tag k='toilet' v='yes' />\n");
+    printf("    <tag k='atm' v='yes' />\n");
+    printf("    <tag k='internet_access' v='wlan' />\n");
     printf("    <tag k='name' v='ローソン %s店' />\n",$9);
     printf("    <tag k='name:en' v='Lawson %s' />\n",t);
     printf("    <tag k='branch' v='%s店' />\n",$9);
+    printf("    <tag k='branch:ja_kana' v='%s店' />\n",$11);
     printf("    <tag k='branch:en' v='%s' />\n",t);
     printf("    <tag k='operator' v='ローソン' />\n");
     printf("    <tag k='operator:en' v='Lawson' />\n");
@@ -45,12 +49,8 @@ BEGIN {
     if($5!=""){
 	printf("    <tag k='start_date' v='%s' />\n",$5);
     }
-    if($6!=""){
-	printf("    <tag k='end_date' v='%s' />\n",$6);
-    }
     printf("    <tag k='addr:full' v='%s' />\n",$10);
     printf("    <tag k='ref' v='%s' />\n",$1);
-    printf("    <tag k='source_ref' v='http://wiki.openstreetmap.org/wiki/Lawson_hackathon_2013' />\n");
     printf("  </node>\n");
 }
 END {
