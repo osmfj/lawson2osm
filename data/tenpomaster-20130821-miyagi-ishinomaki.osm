@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6'>
+  <node id='-157380' lat='38.464878' lon='141.309603'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻開成店' />
+    <tag k='name:en' v='Lawson ishinomakikaisei' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻開成店' />
+    <tag k='branch:ja_kana' v='いしのまきかいせいてん' />
+    <tag k='branch:en' v='ishinomakikaisei' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-23-7622' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004022900' />
+    <tag k='addr:full' v='宮城県石巻市開成１‐３９' />
+    <tag k='ref' v='157380' />
+  </node>
+  <node id='-157760' lat='38.424781' lon='141.269900'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻門脇店' />
+    <tag k='name:en' v='Lawson ishinomakikadonowaki' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻門脇店' />
+    <tag k='branch:ja_kana' v='いしのまきかどのわきてん' />
+    <tag k='branch:en' v='ishinomakikadonowaki' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-92-9782' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004071700' />
+    <tag k='addr:full' v='宮城県石巻市三ツ股四丁目２‐３０' />
+    <tag k='ref' v='157760' />
+  </node>
+  <node id='-45540' lat='38.420329' lon='141.367039'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻渡波店' />
+    <tag k='name:en' v='Lawson ishinomakiwatanoha' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻渡波店' />
+    <tag k='branch:ja_kana' v='いしのまきわたのはてん' />
+    <tag k='branch:en' v='ishinomakiwatanoha' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-97-5392' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1994072900' />
+    <tag k='addr:full' v='宮城県石巻市後生橋１‐３５' />
+    <tag k='ref' v='45540' />
+  </node>
+  <node id='-219589' lat='38.458131' lon='141.304698'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻南境店' />
+    <tag k='name:en' v='Lawson ishinomakiminamizakai' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻南境店' />
+    <tag k='branch:ja_kana' v='いしのまきみなみざかいてん' />
+    <tag k='branch:en' v='ishinomakiminamizakai' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-92-5612' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013011900' />
+    <tag k='addr:full' v='宮城県石巻市南境字新小堤５４番' />
+    <tag k='ref' v='219589' />
+  </node>
+  <node id='-71626' lat='38.473151' lon='141.208422'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 河南町広渕店' />
+    <tag k='name:en' v='Lawson kananchiyouhirobuchi' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='河南町広渕店' />
+    <tag k='branch:ja_kana' v='かなんちようひろぶちてん' />
+    <tag k='branch:en' v='kananchiyouhirobuchi' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-73-4716' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999022700' />
+    <tag k='addr:full' v='宮城県石巻市広渕字町北１１８‐１' />
+    <tag k='ref' v='71626' />
+  </node>
+  <node id='-91340' lat='38.453669' lon='141.276092'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻あけぼの店' />
+    <tag k='name:en' v='Lawson ishinomakiakebono' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻あけぼの店' />
+    <tag k='branch:ja_kana' v='いしのまきあけぼのてん' />
+    <tag k='branch:en' v='ishinomakiakebono' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-94-8998' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999121800' />
+    <tag k='addr:full' v='宮城県石巻市あけぼの１‐９‐１' />
+    <tag k='ref' v='91340' />
+  </node>
+  <node id='-132010' lat='38.430481' lon='141.260093'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻大街道店' />
+    <tag k='name:en' v='Lawson ishinomakiookaidou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻大街道店' />
+    <tag k='branch:ja_kana' v='いしのまきおおかいどうてん' />
+    <tag k='branch:en' v='ishinomakiookaidou' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-94-7055' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005111800' />
+    <tag k='addr:full' v='宮城県石巻市門脇字元浦屋敷４３' />
+    <tag k='ref' v='132010' />
+  </node>
+  <node id='-132925' lat='38.521911' lon='141.312333'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻相野谷店' />
+    <tag k='name:en' v='Lawson Lishinomakiainoya' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻相野谷店' />
+    <tag k='branch:ja_kana' v='Ｌいしのまきあいのやてん' />
+    <tag k='branch:en' v='Lishinomakiainoya' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-62-3990' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007040700' />
+    <tag k='addr:full' v='宮城県石巻市相野谷字杉ヶ崎１９番地１' />
+    <tag k='ref' v='132925' />
+  </node>
+  <node id='-148330' lat='38.453841' lon='141.264871'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻蛇田店' />
+    <tag k='name:en' v='Lawson Lishinomakihebita' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻蛇田店' />
+    <tag k='branch:ja_kana' v='Ｌいしのまきへびたてん' />
+    <tag k='branch:en' v='Lishinomakihebita' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-96-0951' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001121600' />
+    <tag k='addr:full' v='宮城県石巻市蛇田字北経塚１１‐２' />
+    <tag k='ref' v='148330' />
+  </node>
+  <node id='-149009' lat='38.500611' lon='141.293773'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 河北インター店' />
+    <tag k='name:en' v='Lawson kahokuinta-' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='河北インター店' />
+    <tag k='branch:ja_kana' v='かほくいんたーてん' />
+    <tag k='branch:en' v='kahokuinta-' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-61-1533' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003050100' />
+    <tag k='addr:full' v='宮城県石巻市小船越字二子北下５５' />
+    <tag k='ref' v='149009' />
+  </node>
+  <node id='-196374' lat='38.440956' lon='141.305240'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻東中里二丁目店' />
+    <tag k='name:en' v='Lawson ishinomakihigashinakasato2chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻東中里二丁目店' />
+    <tag k='branch:ja_kana' v='いしのまきひがしなかさと２ちようめてん' />
+    <tag k='branch:en' v='ishinomakihigashinakasato2chiyoume' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-21-6780' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010061200' />
+    <tag k='addr:full' v='宮城県石巻市東中里２‐９‐９' />
+    <tag k='ref' v='196374' />
+  </node>
+  <node id='-200934' lat='38.440943' lon='141.296894'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻中里三丁目店' />
+    <tag k='name:en' v='Lawson ishinomakinakasato3chiyoume' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻中里三丁目店' />
+    <tag k='branch:ja_kana' v='いしのまきなかさと３ちようめてん' />
+    <tag k='branch:en' v='ishinomakinakasato3chiyoume' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-92-1455' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011100800' />
+    <tag k='addr:full' v='宮城県石巻市中里３‐２‐１１' />
+    <tag k='ref' v='200934' />
+  </node>
+  <node id='-200940' lat='38.416696' lon='141.335750'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻緑町店' />
+    <tag k='name:en' v='Lawson ishinomakimidorichiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻緑町店' />
+    <tag k='branch:ja_kana' v='いしのまきみどりちようてん' />
+    <tag k='branch:en' v='ishinomakimidorichiyou' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-94-4687' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011100200' />
+    <tag k='addr:full' v='宮城県石巻市緑町１‐６‐８' />
+    <tag k='ref' v='200940' />
+  </node>
+  <node id='-201081' lat='38.415907' lon='141.360904'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 石巻大宮町店' />
+    <tag k='name:en' v='Lawson ishinomakioomiyachiyou' />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='石巻大宮町店' />
+    <tag k='branch:ja_kana' v='いしのまきおおみやちようてん' />
+    <tag k='branch:en' v='ishinomakioomiyachiyou' />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-225-24-1207' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012030300' />
+    <tag k='addr:full' v='宮城県石巻市大宮町１‐１３' />
+    <tag k='ref' v='201081' />
+  </node>
+</osm>
