@@ -55,7 +55,7 @@ BEGIN {
 	}
     }
     if($5!=""){
-	printf("    <tag k='start_date' v='%s' />\n",$5);
+	printf("    <tag k='start_date' v='%s-%s-%s' />\n",substr($5,1,4),substr($5,5,2),substr($5,7,2));
     }
     printf("    <tag k='addr:full' v='%s' />\n",$10);
     printf("    <tag k='ref' v='%s' />\n",$1);
