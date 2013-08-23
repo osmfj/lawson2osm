@@ -1,0 +1,3174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6'>
+  <node id='-200213' lat='32.956141' lon='131.885870'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯西谷町店' />
+    <tag k='name:en' v="Lawson saikinishidanimachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯西谷町店' />
+    <tag k='branch:ja_kana' v='さいきにしだにまちてん' />
+    <tag k='branch:en' v="saikinishidanimachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-23-5563' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-07-10' />
+    <tag k='addr:full' v='大分県佐伯市西谷町７番５号' />
+    <tag k='ref' v='200213' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-200265' lat='32.955009' lon='131.375262'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 竹田拝田原店' />
+    <tag k='name:en' v="Lawson taketahaitabaru" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='竹田拝田原店' />
+    <tag k='branch:ja_kana' v='たけたはいたばるてん' />
+    <tag k='branch:en' v="taketahaitabaru" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-974-63-3215' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-09-11' />
+    <tag k='addr:full' v='大分県竹田市大字拝田原字六反７６９‐１' />
+    <tag k='ref' v='200265' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-200319' lat='33.212203' lon='131.564602'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分賀来北二丁目店' />
+    <tag k='name:en' v="Lawson ooitakakukita2chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分賀来北二丁目店' />
+    <tag k='branch:ja_kana' v='おおいたかくきた２ちようめてん' />
+    <tag k='branch:en' v="ooitakakukita2chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-549-3063' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-10-02' />
+    <tag k='addr:full' v='大分県大分市賀来北２丁目１７‐８' />
+    <tag k='ref' v='200319' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-200472' lat='33.224958' lon='131.575479'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分インター店' />
+    <tag k='name:en' v="Lawson ooitainta-" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分インター店' />
+    <tag k='branch:ja_kana' v='おおいたいんたーてん' />
+    <tag k='branch:en' v="ooitainta-" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-544-5550' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-03-11' />
+    <tag k='addr:full' v='大分県大分市大字三芳字庄原１２７５‐１' />
+    <tag k='ref' v='200472' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-200590' lat='32.975554' lon='131.581914'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 三重総合高校前店' />
+    <tag k='name:en' v="Lawson miesougoukoukoumae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='三重総合高校前店' />
+    <tag k='branch:ja_kana' v='みえそうごうこうこうまえてん' />
+    <tag k='branch:en' v="miesougoukoukoumae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-974-22-8522' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-10-07' />
+    <tag k='addr:full' v='大分県豊後大野市三重町市場字広石８５７‐１' />
+    <tag k='ref' v='200590' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-200615' lat='33.246388' lon='131.583489'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分浜の市二丁目店' />
+    <tag k='name:en' v="Lawson ooitahamanoichi2chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分浜の市二丁目店' />
+    <tag k='branch:ja_kana' v='おおいたはまのいち２ちようめてん' />
+    <tag k='branch:en' v="ooitahamanoichi2chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-533-6725' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-07-02' />
+    <tag k='addr:full' v='大分県大分市浜の市二丁目１‐４' />
+    <tag k='ref' v='200615' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195104' lat='33.231668' lon='131.604494'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分駅南口店' />
+    <tag k='name:en' v="Lawson ooitaekiminamiguchi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分駅南口店' />
+    <tag k='branch:ja_kana' v='おおいたえきみなみぐちてん' />
+    <tag k='branch:en' v="ooitaekiminamiguchi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-543-7740' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-12-13' />
+    <tag k='addr:full' v='大分県大分市東大道１５‐１‐２' />
+    <tag k='ref' v='195104' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195179' lat='32.957405' lon='131.883238'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯鶴岡町一丁目店' />
+    <tag k='name:en' v="Lawson saikitsuruokamachi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯鶴岡町一丁目店' />
+    <tag k='branch:ja_kana' v='さいきつるおかまち１ちようめてん' />
+    <tag k='branch:en' v="saikitsuruokamachi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-20-4400' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-09-02' />
+    <tag k='addr:full' v='大分県佐伯市鶴岡町１‐１９０３‐４' />
+    <tag k='ref' v='195179' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195200' lat='33.239993' lon='131.606013'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分都町店' />
+    <tag k='name:en' v="Lawson ooitamiyakomachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分都町店' />
+    <tag k='branch:ja_kana' v='おおいたみやこまちてん' />
+    <tag k='branch:en' v="ooitamiyakomachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-533-0406' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-11-19' />
+    <tag k='addr:full' v='大分県大分市都町２‐４４' />
+    <tag k='ref' v='195200' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195334' lat='33.304147' lon='131.476297'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府鶴見ヶ丘店' />
+    <tag k='name:en' v="Lawson betsuputsurumigaoka" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府鶴見ヶ丘店' />
+    <tag k='branch:ja_kana' v='べつぷつるみがおかてん' />
+    <tag k='branch:en' v="betsuputsurumigaoka" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-27-0707' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-05-02' />
+    <tag k='addr:full' v='大分県別府市大字鶴見字尾ノ根２７８４‐１' />
+    <tag k='ref' v='195334' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195386' lat='33.229381' lon='131.580111'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分にじが丘一丁目店' />
+    <tag k='name:en' v="Lawson ooitanijigaoka1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分にじが丘一丁目店' />
+    <tag k='branch:ja_kana' v='おおいたにじがおか１ちようめてん' />
+    <tag k='branch:en' v="ooitanijigaoka1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-554-4170' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-06-05' />
+    <tag k='addr:full' v='大分県大分市にじが丘１‐１３‐１' />
+    <tag k='ref' v='195386' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195498' lat='33.243006' lon='131.606912'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分千代町一丁目店' />
+    <tag k='name:en' v="Lawson ooitachiyomachi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分千代町一丁目店' />
+    <tag k='branch:ja_kana' v='おおいたちよまち１ちようめてん' />
+    <tag k='branch:en' v="ooitachiyomachi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-536-0882' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-04-21' />
+    <tag k='addr:full' v='大分県大分市千代町１丁目１‐２５' />
+    <tag k='ref' v='195498' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195564' lat='33.284604' lon='131.480661'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府もみじ坂店' />
+    <tag k='name:en' v="Lawson betsupumomijizaka" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府もみじ坂店' />
+    <tag k='branch:ja_kana' v='べつぷもみじざかてん' />
+    <tag k='branch:en' v="betsupumomijizaka" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-26-5178' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-09-04' />
+    <tag k='addr:full' v='大分県別府市大字南立石一区字中津留道北２１３９‐１' />
+    <tag k='ref' v='195564' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59000' lat='33.390801' lon='131.580473'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 杵築相原店' />
+    <tag k='name:en' v="Lawson kitsukiaihara" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='杵築相原店' />
+    <tag k='branch:ja_kana' v='きつきあいはらてん' />
+    <tag k='branch:en' v="kitsukiaihara" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-62-4050' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-12-17' />
+    <tag k='addr:full' v='大分県杵築市大字相原字新田道２‐２１' />
+    <tag k='ref' v='59000' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59281' lat='33.283397' lon='131.480670'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府南立石店' />
+    <tag k='name:en' v="Lawson betsupuminamitateishi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府南立石店' />
+    <tag k='branch:ja_kana' v='べつぷみなみたていしてん' />
+    <tag k='branch:en' v="betsupuminamitateishi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-26-4811' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-12-13' />
+    <tag k='addr:full' v='大分県別府市大字南立石一区字丸尾２２４１‐２' />
+    <tag k='ref' v='59281' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59298' lat='33.000241' lon='131.423566'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大野朝地店' />
+    <tag k='name:en' v="Lawson oonoasaji" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大野朝地店' />
+    <tag k='branch:ja_kana' v='おおのあさじてん' />
+    <tag k='branch:en' v="oonoasaji" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-974-72-1381' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-08-22' />
+    <tag k='addr:full' v='大分県豊後大野市朝地町朝地字五反面５７８‐１' />
+    <tag k='ref' v='59298' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-56495' lat='33.225321' lon='131.595787'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分大道店' />
+    <tag k='name:en' v="Lawson ooitaoomichi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分大道店' />
+    <tag k='branch:ja_kana' v='おおいたおおみちてん' />
+    <tag k='branch:en' v="ooitaoomichi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-573-6010' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-07-31' />
+    <tag k='addr:full' v='大分県大分市大字三芳字峠４７８‐１０' />
+    <tag k='ref' v='56495' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-56986' lat='33.179655' lon='131.441240'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 庄内町店' />
+    <tag k='name:en' v="Lawson shiyounaimachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='庄内町店' />
+    <tag k='branch:ja_kana' v='しようないまちてん' />
+    <tag k='branch:en' v="shiyounaimachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-582-2103' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-10-21' />
+    <tag k='addr:full' v='大分県由布市庄内町大龍字台２０６６‐１' />
+    <tag k='ref' v='56986' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57371' lat='32.985709' lon='131.842890'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 弥生大坂本店' />
+    <tag k='name:en' v="Lawson yayoioosakamoto" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='弥生大坂本店' />
+    <tag k='branch:ja_kana' v='やよいおおさかもとてん' />
+    <tag k='branch:en' v="yayoioosakamoto" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-25-3211' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-01-28' />
+    <tag k='addr:full' v='大分県佐伯市弥生大字大坂本字本田下１６４７‐１' />
+    <tag k='ref' v='57371' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57448' lat='33.066073' lon='131.636292'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大野犬飼店' />
+    <tag k='name:en' v="Lawson oonoinukai" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大野犬飼店' />
+    <tag k='branch:ja_kana' v='おおのいぬかいてん' />
+    <tag k='branch:en' v="oonoinukai" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-578-0203' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-10-27' />
+    <tag k='addr:full' v='大分県豊後大野市犬飼町田原字立野２４４' />
+    <tag k='ref' v='57448' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57483' lat='33.245776' lon='131.711418'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分角子原店' />
+    <tag k='name:en' v="Lawson ooitatsunokobaru" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分角子原店' />
+    <tag k='branch:ja_kana' v='おおいたつのこばるてん' />
+    <tag k='branch:en' v="ooitatsunokobaru" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-528-8078' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-12-09' />
+    <tag k='addr:full' v='大分県大分市角子南２‐１００' />
+    <tag k='ref' v='57483' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59743' lat='33.231587' lon='131.591402'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分駄原店' />
+    <tag k='name:en' v="Lawson ooitadanoharu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分駄原店' />
+    <tag k='branch:ja_kana' v='おおいただのはるてん' />
+    <tag k='branch:en' v="ooitadanoharu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-545-7610' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-12-13' />
+    <tag k='addr:full' v='大分県大分市大字駄原字勢駄志原２８８１' />
+    <tag k='ref' v='59743' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59750' lat='33.239233' lon='131.720400'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日本文理大学通店' />
+    <tag k='name:en' v="Lawson nihonbunridaigakudoori" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日本文理大学通店' />
+    <tag k='branch:ja_kana' v='にほんぶんりだいがくどおりてん' />
+    <tag k='branch:en' v="nihonbunridaigakudoori" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-592-0080' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-04-01' />
+    <tag k='addr:full' v='大分県大分市大字政所久保田２２２４‐１１' />
+    <tag k='ref' v='59750' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59772' lat='33.305285' lon='131.502477'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府観光港店' />
+    <tag k='name:en' v="Lawson betsupukankoukou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府観光港店' />
+    <tag k='branch:ja_kana' v='べつぷかんこうこうてん' />
+    <tag k='branch:en' v="betsupukankoukou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-21-2488' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-08-29' />
+    <tag k='addr:full' v='大分県別府市汐見町８‐２７' />
+    <tag k='ref' v='59772' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59884' lat='33.504374' lon='131.426714'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 速見山香店' />
+    <tag k='name:en' v="Lawson hayamiyamaga" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='速見山香店' />
+    <tag k='branch:ja_kana' v='はやみやまがてん' />
+    <tag k='branch:en' v="hayamiyamaga" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-76-2208' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-02-28' />
+    <tag k='addr:full' v='大分県杵築市山香町向野字山口原２１６７‐１' />
+    <tag k='ref' v='59884' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59915' lat='33.341910' lon='130.941877'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日田三和店' />
+    <tag k='name:en' v="Lawson hitamiwa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日田三和店' />
+    <tag k='branch:ja_kana' v='ひたみわてん' />
+    <tag k='branch:en' v="hitamiwa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-23-5353' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-12-07' />
+    <tag k='addr:full' v='大分県日田市大字三和字渕ノ上１１０‐２' />
+    <tag k='ref' v='59915' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-59967' lat='33.300837' lon='131.476257'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府鶴見店' />
+    <tag k='name:en' v="Lawson betsuputsurumi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府鶴見店' />
+    <tag k='branch:ja_kana' v='べつぷつるみてん' />
+    <tag k='branch:en' v="betsuputsurumi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-26-0269' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-02-23' />
+    <tag k='addr:full' v='大分県別府市大字鶴見字木ノ原２８７１‐１' />
+    <tag k='ref' v='59967' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-48290' lat='33.538928' lon='131.294586'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇佐バイパス店' />
+    <tag k='name:en' v="Lawson usabaipasu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇佐バイパス店' />
+    <tag k='branch:ja_kana' v='うさばいぱすてん' />
+    <tag k='branch:en' v="usabaipasu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-32-7799' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1994-12-23' />
+    <tag k='addr:full' v='大分県宇佐市大字山下１２２１‐１' />
+    <tag k='ref' v='48290' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57632' lat='33.251097' lon='131.683523'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分三佐店' />
+    <tag k='name:en' v="Lawson ooitamisa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分三佐店' />
+    <tag k='branch:ja_kana' v='おおいたみさてん' />
+    <tag k='branch:en' v="ooitamisa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-528-8701' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-02-13' />
+    <tag k='addr:full' v='大分県大分市三佐６丁目１３番１号' />
+    <tag k='ref' v='57632' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57690' lat='33.247381' lon='131.654004'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分松原店' />
+    <tag k='name:en' v="Lawson ooitamatsubara" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分松原店' />
+    <tag k='branch:ja_kana' v='おおいたまつばらてん' />
+    <tag k='branch:en' v="ooitamatsubara" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-558-0664' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-11-19' />
+    <tag k='addr:full' v='大分県大分市松原町１‐１‐１' />
+    <tag k='ref' v='57690' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57721' lat='33.271782' lon='131.160559'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 玖珠長野店' />
+    <tag k='name:en' v="Lawson kusunagano" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='玖珠長野店' />
+    <tag k='branch:ja_kana' v='くすながのてん' />
+    <tag k='branch:en' v="kusunagano" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-72-6111' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-12-12' />
+    <tag k='addr:full' v='大分県玖珠郡玖珠町大字塚脇字梅迫６７５‐１' />
+    <tag k='ref' v='57721' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57804' lat='32.964299' lon='131.384069'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 竹田飛田川店' />
+    <tag k='name:en' v="Lawson taketahidagawa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='竹田飛田川店' />
+    <tag k='branch:ja_kana' v='たけたひだがわてん' />
+    <tag k='branch:en' v="taketahidagawa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-974-64-0246' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-03-01' />
+    <tag k='addr:full' v='大分県竹田市大字飛田川字山手１６１８‐３' />
+    <tag k='ref' v='57804' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57810' lat='33.505962' lon='131.331037'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇佐下拝田店' />
+    <tag k='name:en' v="Lawson usashimohaita" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇佐下拝田店' />
+    <tag k='branch:ja_kana' v='うさしもはいたてん' />
+    <tag k='branch:en' v="usashimohaita" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-33-3508' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-02-24' />
+    <tag k='addr:full' v='大分県宇佐市大字下拝田字上山ノ下７０９‐１' />
+    <tag k='ref' v='57810' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57856' lat='33.076673' lon='131.849720'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 津久見門前町店' />
+    <tag k='name:en' v="Lawson tsukumimonzenmachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='津久見門前町店' />
+    <tag k='branch:ja_kana' v='つくみもんぜんまちてん' />
+    <tag k='branch:en' v="tsukumimonzenmachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-82-9000' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-02-01' />
+    <tag k='addr:full' v='大分県津久見市門前町３‐１' />
+    <tag k='ref' v='57856' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-57879' lat='33.197080' lon='131.602785'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分光吉店' />
+    <tag k='name:en' v="Lawson ooitamitsuyoshi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分光吉店' />
+    <tag k='branch:ja_kana' v='おおいたみつよしてん' />
+    <tag k='branch:en' v="ooitamitsuyoshi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-567-4199' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-02-25' />
+    <tag k='addr:full' v='大分県大分市大字光吉字西津留９０６‐１' />
+    <tag k='ref' v='57879' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-48082' lat='33.325183' lon='130.911267'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日田友田店' />
+    <tag k='name:en' v="Lawson hitatomoda" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日田友田店' />
+    <tag k='branch:ja_kana' v='ひたともだてん' />
+    <tag k='branch:en' v="hitatomoda" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-24-5390' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1994-05-28' />
+    <tag k='addr:full' v='大分県日田市大字友田字荻鶴９９８' />
+    <tag k='ref' v='48082' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-220871' lat='33.222548' lon='131.635236'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分下郡南五丁目店' />
+    <tag k='name:en' v="Lawson ooitashimogooriminami5chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分下郡南五丁目店' />
+    <tag k='branch:ja_kana' v='おおいたしもごおりみなみ５ちようめてん' />
+    <tag k='branch:en' v="ooitashimogooriminami5chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-568-5208' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013-04-20' />
+    <tag k='addr:full' v='大分県大分市下郡南５‐２０６' />
+    <tag k='ref' v='220871' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-82943' lat='33.240586' lon='131.676961'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分乙津町店' />
+    <tag k='name:en' v="Lawson ooitaotozuchiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分乙津町店' />
+    <tag k='branch:ja_kana' v='おおいたおとずちようてん' />
+    <tag k='branch:en' v="ooitaotozuchiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-523-2888' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-12-16' />
+    <tag k='addr:full' v='大分県大分市乙津町８‐１‐１７' />
+    <tag k='ref' v='82943' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-83150' lat='33.312561' lon='131.494735'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府大学通店' />
+    <tag k='name:en' v="Lawson beppudaigakudoori" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府大学通店' />
+    <tag k='branch:ja_kana' v='べっぷだいがくどおりてん' />
+    <tag k='branch:en' v="beppudaigakudoori" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-66-9131' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-12-12' />
+    <tag k='addr:full' v='大分県別府市上人仲町６８９‐５' />
+    <tag k='ref' v='83150' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-83411' lat='33.129763' lon='131.782869'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 臼杵末広店' />
+    <tag k='name:en' v="Lawson usukisuehiro" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='臼杵末広店' />
+    <tag k='branch:ja_kana' v='うすきすえひろてん' />
+    <tag k='branch:en' v="usukisuehiro" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-62-8128' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-04-29' />
+    <tag k='addr:full' v='大分県臼杵市大字末広字黒丸９‐１' />
+    <tag k='ref' v='83411' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-74889' lat='33.585420' lon='131.204011'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 中津一ツ松店' />
+    <tag k='name:en' v="Lawson nakatsuhitotsumatsu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='中津一ツ松店' />
+    <tag k='branch:ja_kana' v='なかつひとつまつてん' />
+    <tag k='branch:en' v="nakatsuhitotsumatsu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-23-8480' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-12-17' />
+    <tag k='addr:full' v='大分県中津市大字一ツ松１５８‐１' />
+    <tag k='ref' v='74889' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-83693' lat='33.498591' lon='131.170304'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 本耶馬溪町店' />
+    <tag k='name:en' v="Lawson honyabakeimachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='本耶馬溪町店' />
+    <tag k='branch:ja_kana' v='ほんやばけいまちてん' />
+    <tag k='branch:en' v="honyabakeimachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-52-3570' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-03-01' />
+    <tag k='addr:full' v='大分県中津市本耶馬溪町大字曽木字中代１８６９‐１' />
+    <tag k='ref' v='83693' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-84209' lat='32.962740' lon='131.907373'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯長島店' />
+    <tag k='name:en' v="Lawson saikinagashima" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯長島店' />
+    <tag k='branch:ja_kana' v='さいきながしまてん' />
+    <tag k='branch:en' v="saikinagashima" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-24-1007' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-02-11' />
+    <tag k='addr:full' v='大分県佐伯市長島町１‐５０' />
+    <tag k='ref' v='84209' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-84340' lat='33.032280' lon='131.689151'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大野野津店' />
+    <tag k='name:en' v="Lawson oononotsu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大野野津店' />
+    <tag k='branch:ja_kana' v='おおののつてん' />
+    <tag k='branch:en' v="oononotsu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-974-32-7680' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-02-24' />
+    <tag k='addr:full' v='大分県臼杵市野津町大字野津市字間戸２２１１' />
+    <tag k='ref' v='84340' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-84379' lat='33.239553' lon='131.616786'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分舞鶴町一丁目店' />
+    <tag k='name:en' v="Lawson ooitamaiduruchiyou1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分舞鶴町一丁目店' />
+    <tag k='branch:ja_kana' v='おおいたまいづるちよう１ちようめてん' />
+    <tag k='branch:en' v="ooitamaiduruchiyou1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-537-3383' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-02-24' />
+    <tag k='addr:full' v='大分県大分市舞鶴町１‐２‐１' />
+    <tag k='ref' v='84379' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-84400' lat='32.979636' lon='131.895446'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯坂ノ浦店' />
+    <tag k='name:en' v="Lawson saikisakanoura" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯坂ノ浦店' />
+    <tag k='branch:ja_kana' v='さいきさかのうらてん' />
+    <tag k='branch:en' v="saikisakanoura" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-24-3763' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-02-11' />
+    <tag k='addr:full' v='大分県佐伯市大字鶴望字羽山４９５５‐３' />
+    <tag k='ref' v='84400' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-84505' lat='33.534589' lon='131.323418'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇佐四日市店' />
+    <tag k='name:en' v="Lawson usayotsukaichi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇佐四日市店' />
+    <tag k='branch:ja_kana' v='うさよつかいちてん' />
+    <tag k='branch:en' v="usayotsukaichi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-32-8501' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-05-20' />
+    <tag k='addr:full' v='大分県宇佐市四日市字野ノ中３８７‐９' />
+    <tag k='ref' v='84505' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-84675' lat='33.142248' lon='131.658421'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分上戸次店' />
+    <tag k='name:en' v="Lawson ooitakamihetsugi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分上戸次店' />
+    <tag k='branch:ja_kana' v='おおいたかみへつぎてん' />
+    <tag k='branch:en' v="ooitakamihetsugi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-597-1370' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-04-20' />
+    <tag k='addr:full' v='大分県大分市大字上戸次字宇土ノ口６０９１‐２' />
+    <tag k='ref' v='84675' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-85210' lat='32.950921' lon='131.893782'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯池船店' />
+    <tag k='name:en' v="Lawson saikiikefune" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯池船店' />
+    <tag k='branch:ja_kana' v='さいきいけふねてん' />
+    <tag k='branch:en' v="saikiikefune" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-23-0690' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-03-01' />
+    <tag k='addr:full' v='大分県佐伯市池船町２２‐３' />
+    <tag k='ref' v='85210' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69055' lat='33.306429' lon='131.462042'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府扇山店' />
+    <tag k='name:en' v="Lawson betsupuoogiyama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府扇山店' />
+    <tag k='branch:ja_kana' v='べつぷおおぎやまてん' />
+    <tag k='branch:en' v="betsupuoogiyama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-21-4604' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-12-10' />
+    <tag k='addr:full' v='大分県別府市大字鶴見字前田１７２４‐５' />
+    <tag k='ref' v='69055' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69196' lat='33.238192' lon='131.602958'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分中央町店' />
+    <tag k='name:en' v="Lawson ooitachiyuuoumachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分中央町店' />
+    <tag k='branch:ja_kana' v='おおいたちゆうおうまちてん' />
+    <tag k='branch:en' v="ooitachiyuuoumachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-535-2441' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-11-21' />
+    <tag k='addr:full' v='大分県大分市中央町４‐４０‐１' />
+    <tag k='ref' v='69196' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69204' lat='33.452981' lon='131.721347'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 安岐塩屋店' />
+    <tag k='name:en' v="Lawson akishioya" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='安岐塩屋店' />
+    <tag k='branch:ja_kana' v='あきしおやてん' />
+    <tag k='branch:en' v="akishioya" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-67-3963' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-08-30' />
+    <tag k='addr:full' v='大分県国東市安岐町塩屋字水呉１５８１‐２' />
+    <tag k='ref' v='69204' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69300' lat='33.269033' lon='131.368037'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 湯布院川上店' />
+    <tag k='name:en' v="Lawson yufuinkawakami" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='湯布院川上店' />
+    <tag k='branch:ja_kana' v='ゆふいんかわかみてん' />
+    <tag k='branch:en' v="yufuinkawakami" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-85-3963' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-06-27' />
+    <tag k='addr:full' v='大分県由布市湯布院町川上字上湯１４４５‐１' />
+    <tag k='ref' v='69300' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69612' lat='33.569645' lon='131.251300'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 中津犬丸店' />
+    <tag k='name:en' v="Lawson nakatsuinumaru" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='中津犬丸店' />
+    <tag k='branch:ja_kana' v='なかついぬまるてん' />
+    <tag k='branch:en' v="nakatsuinumaru" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-32-9447' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-07-01' />
+    <tag k='addr:full' v='大分県中津市大字犬丸１９７３‐１' />
+    <tag k='ref' v='69612' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69629' lat='33.406342' lon='131.062613'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山国町店' />
+    <tag k='name:en' v="Lawson yamakunichiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山国町店' />
+    <tag k='branch:ja_kana' v='やまくにちようてん' />
+    <tag k='branch:en' v="yamakunichiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-62-3118' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-02-27' />
+    <tag k='addr:full' v='大分県中津市山国町大字中摩字柿之木田３５６３‐４' />
+    <tag k='ref' v='69629' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69724' lat='33.236999' lon='131.660866'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分小池原店' />
+    <tag k='name:en' v="Lawson ooitakoikebaru" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分小池原店' />
+    <tag k='branch:ja_kana' v='おおいたこいけばるてん' />
+    <tag k='branch:en' v="ooitakoikebaru" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-551-0164' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-07-26' />
+    <tag k='addr:full' v='大分県大分市大字小池原字大迫１４３９‐１' />
+    <tag k='ref' v='69724' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-79125' lat='33.231694' lon='131.612207'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分顕徳町店' />
+    <tag k='name:en' v="Lawson ooitakentokumachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分顕徳町店' />
+    <tag k='branch:ja_kana' v='おおいたけんとくまちてん' />
+    <tag k='branch:en' v="ooitakentokumachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-535-1108' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-03-01' />
+    <tag k='addr:full' v='大分県大分市顕徳町１‐１‐２３' />
+    <tag k='ref' v='79125' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-69776' lat='33.195529' lon='131.578856'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分上宗方店' />
+    <tag k='name:en' v="Lawson ooitakamimunakata" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分上宗方店' />
+    <tag k='branch:ja_kana' v='おおいたかみむなかたてん' />
+    <tag k='branch:en' v="ooitakamimunakata" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-541-7763' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-06-27' />
+    <tag k='addr:full' v='大分県大分市大字上宗方字世利越６４７‐４' />
+    <tag k='ref' v='69776' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-220664' lat='33.273491' lon='131.498239'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府光町店' />
+    <tag k='name:en' v="Lawson betsupuhikarimachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府光町店' />
+    <tag k='branch:ja_kana' v='べつぷひかりまちてん' />
+    <tag k='branch:en' v="betsupuhikarimachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-24-0545' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013-03-02' />
+    <tag k='addr:full' v='大分県別府市光町７‐１９' />
+    <tag k='ref' v='220664' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-220718' lat='33.242338' lon='131.663391'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分仲西町一丁目店' />
+    <tag k='name:en' v="Lawson ooitanakanishimachi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分仲西町一丁目店' />
+    <tag k='branch:ja_kana' v='おおいたなかにしまち１ちようめてん' />
+    <tag k='branch:en' v="ooitanakanishimachi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-558-1876' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013-03-02' />
+    <tag k='addr:full' v='大分県大分市仲西町１‐１０‐３３' />
+    <tag k='ref' v='220718' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-220842' lat='33.554991' lon='131.322320'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇佐フラワーロード店' />
+    <tag k='name:en' v="Lawson usafurawa-ro-do" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇佐フラワーロード店' />
+    <tag k='branch:ja_kana' v='うさふらわ−ろ−どてん' />
+    <tag k='branch:en' v="usafurawa-ro-do" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-34-9055' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013-06-13' />
+    <tag k='addr:full' v='大分県宇佐市大字下高字衆徳院６１６‐１' />
+    <tag k='ref' v='220842' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-82297' lat='32.983765' lon='131.589203'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 三重市場店' />
+    <tag k='name:en' v="Lawson mieichiba" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='三重市場店' />
+    <tag k='branch:ja_kana' v='みえいちばてん' />
+    <tag k='branch:en' v="mieichiba" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-974-22-3356' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-12-20' />
+    <tag k='addr:full' v='大分県豊後大野市三重町市場字高市１３‐１' />
+    <tag k='ref' v='82297' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-82328' lat='33.545032' lon='131.425488'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 豊後高田界店' />
+    <tag k='name:en' v="Lawson bungotakadasakai" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='豊後高田界店' />
+    <tag k='branch:ja_kana' v='ぶんごたかださかいてん' />
+    <tag k='branch:en' v="bungotakadasakai" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-24-4377' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-03-01' />
+    <tag k='addr:full' v='大分県豊後高田市大字界字三角６２６‐１' />
+    <tag k='ref' v='82328' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-92568' lat='33.317808' lon='130.939896'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日田駅北口店' />
+    <tag k='name:en' v="Lawson hitaekikitaguchi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日田駅北口店' />
+    <tag k='branch:ja_kana' v='ひたえききたぐちてん' />
+    <tag k='branch:en' v="hitaekikitaguchi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-24-7666' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1988-08-19' />
+    <tag k='addr:full' v='大分県日田市田島１‐７‐１４' />
+    <tag k='ref' v='92568' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-82481' lat='33.373029' lon='131.535251'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日出片向店' />
+    <tag k='name:en' v="Lawson hijikatamukai" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日出片向店' />
+    <tag k='branch:ja_kana' v='ひじかたむかいてん' />
+    <tag k='branch:en' v="hijikatamukai" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-72-6827' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-12-03' />
+    <tag k='addr:full' v='大分県速見郡日出町字片向３４４９‐１' />
+    <tag k='ref' v='82481' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-207965' lat='33.273492' lon='131.158864'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 玖珠グリーンプラザ店' />
+    <tag k='name:en' v="Lawson kusuguri-npuraza" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='玖珠グリーンプラザ店' />
+    <tag k='branch:ja_kana' v='くすぐり−んぷらざてん' />
+    <tag k='branch:en' v="kusuguri-npuraza" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-72-7333' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-07-09' />
+    <tag k='addr:full' v='大分県玖珠郡玖珠町大字塚脇字六十六間６４７‐１' />
+    <tag k='ref' v='207965' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-89017' lat='33.165564' lon='131.540871'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 野津原町店' />
+    <tag k='name:en' v="Lawson notsuharumachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='野津原町店' />
+    <tag k='branch:ja_kana' v='のつはるまちてん' />
+    <tag k='branch:en' v="notsuharumachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-588-1188' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-07-31' />
+    <tag k='addr:full' v='大分県大分市大字廻栖野字新界２５６３‐１' />
+    <tag k='ref' v='89017' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-75624' lat='33.242693' lon='131.602320'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分千代町四丁目店' />
+    <tag k='name:en' v="Lawson ooitachiyomachi4chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分千代町四丁目店' />
+    <tag k='branch:ja_kana' v='おおいたちよまち４ちようめてん' />
+    <tag k='branch:en' v="ooitachiyomachi4chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-536-7978' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-12-17' />
+    <tag k='addr:full' v='大分県大分市千代町４‐４‐４' />
+    <tag k='ref' v='75624' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-90210' lat='33.317095' lon='130.934318'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日田中央店' />
+    <tag k='name:en' v="Lawson hitachiyuuou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日田中央店' />
+    <tag k='branch:ja_kana' v='ひたちゆうおうてん' />
+    <tag k='branch:en' v="hitachiyuuou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-22-1660' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1986-08-13' />
+    <tag k='addr:full' v='大分県日田市中央２丁目　２‐１０' />
+    <tag k='ref' v='90210' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-214296' lat='33.237602' lon='131.694053'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分東鶴崎三丁目店' />
+    <tag k='name:en' v="Lawson ooitahigashitsurusaki3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分東鶴崎三丁目店' />
+    <tag k='branch:ja_kana' v='おおいたひがしつるさき３ちようめてん' />
+    <tag k='branch:en' v="ooitahigashitsurusaki3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-527-6803' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-05-10' />
+    <tag k='addr:full' v='大分県大分市東鶴崎３‐４‐２２' />
+    <tag k='ref' v='214296' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-214356' lat='33.198825' lon='131.525602'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 由布挾間店' />
+    <tag k='name:en' v="Lawson yufuhazama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='由布挾間店' />
+    <tag k='branch:ja_kana' v='ゆふはざまてん' />
+    <tag k='branch:en' v="yufuhazama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-583-2100' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-08-02' />
+    <tag k='addr:full' v='大分県由布市挾間町挾間７３１‐１' />
+    <tag k='ref' v='214356' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-214474' lat='32.962038' lon='131.867858'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯コスモタウン店' />
+    <tag k='name:en' v="Lawson saikikosumotaun" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯コスモタウン店' />
+    <tag k='branch:ja_kana' v='さいきこすもたうんてん' />
+    <tag k='branch:en' v="saikikosumotaun" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-24-8463' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-10-03' />
+    <tag k='addr:full' v='大分県佐伯市鶴岡西町１‐１９６' />
+    <tag k='ref' v='214474' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-214480' lat='33.297491' lon='131.495143'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府石垣西六丁目店' />
+    <tag k='name:en' v="Lawson betsupuishigakinishi6chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府石垣西六丁目店' />
+    <tag k='branch:ja_kana' v='べつぷいしがきにし６ちようめてん' />
+    <tag k='branch:en' v="betsupuishigakinishi6chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-21-3557' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-09-07' />
+    <tag k='addr:full' v='大分県別府市石垣西６丁目１番５２号' />
+    <tag k='ref' v='214480' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-214652' lat='33.220679' lon='131.624714'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分片島店' />
+    <tag k='name:en' v="Lawson ooitakatashima" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分片島店' />
+    <tag k='branch:ja_kana' v='おおいたかたしまてん' />
+    <tag k='branch:en' v="ooitakatashima" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-568-2230' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-12-02' />
+    <tag k='addr:full' v='大分県大分市大字片島字下津留３９４‐１' />
+    <tag k='ref' v='214652' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-99636' lat='33.111488' lon='131.783081'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 臼杵野田店' />
+    <tag k='name:en' v="Lawson usukinoda" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='臼杵野田店' />
+    <tag k='branch:ja_kana' v='うすきのだてん' />
+    <tag k='branch:en' v="usukinoda" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-62-9190' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-03-28' />
+    <tag k='addr:full' v='大分県臼杵市大字野田竹ノ下３３２' />
+    <tag k='ref' v='99636' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-99659' lat='33.190594' lon='131.592054'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分田尻店' />
+    <tag k='name:en' v="Lawson ooitatajiri" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分田尻店' />
+    <tag k='branch:ja_kana' v='おおいたたじりてん' />
+    <tag k='branch:en' v="ooitatajiri" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-542-2332' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-03-28' />
+    <tag k='addr:full' v='大分県大分市大字田尻字麦生田２３１‐１' />
+    <tag k='ref' v='99659' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-99895' lat='33.232171' lon='131.628316'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分滝尾橋店' />
+    <tag k='name:en' v="Lawson ooitatakiobashi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分滝尾橋店' />
+    <tag k='branch:ja_kana' v='おおいたたきおばしてん' />
+    <tag k='branch:en' v="ooitatakiobashi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-567-3695' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-03-28' />
+    <tag k='addr:full' v='大分県大分市北下郡１１‐１' />
+    <tag k='ref' v='99895' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-99910' lat='33.212108' lon='131.568521'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分賀来店' />
+    <tag k='name:en' v="Lawson ooitakaku" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分賀来店' />
+    <tag k='branch:ja_kana' v='おおいたかくてん' />
+    <tag k='branch:en' v="ooitakaku" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-549-6700' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-09-01' />
+    <tag k='addr:full' v='大分県大分市賀来南１丁目８番２１号' />
+    <tag k='ref' v='99910' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-128817' lat='33.242218' lon='131.642165'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分萩原三丁目店' />
+    <tag k='name:en' v="Lawson ooitahagiwara3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分萩原三丁目店' />
+    <tag k='branch:ja_kana' v='おおいたはぎわら３ちようめてん' />
+    <tag k='branch:en' v="ooitahagiwara3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-504-3336' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-08-11' />
+    <tag k='addr:full' v='大分県大分市萩原３丁目１番１号' />
+    <tag k='ref' v='128817' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-128852' lat='33.246202' lon='131.610006'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分碩田町二丁目店' />
+    <tag k='name:en' v="Lawson ooitasekidenmachi2chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分碩田町二丁目店' />
+    <tag k='branch:ja_kana' v='おおいたせきでんまち２ちようめてん' />
+    <tag k='branch:en' v="ooitasekidenmachi2chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-533-7277' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-06-15' />
+    <tag k='addr:full' v='大分県大分市碩田町２‐１‐４０' />
+    <tag k='ref' v='128852' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-128964' lat='33.408817' lon='131.621322'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 杵築猪尾店' />
+    <tag k='name:en' v="Lawson kitsukiinoo" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='杵築猪尾店' />
+    <tag k='branch:ja_kana' v='きつきいのおてん' />
+    <tag k='branch:en' v="kitsukiinoo" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-62-4800' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-08-30' />
+    <tag k='addr:full' v='大分県杵築市大字猪尾６４番地１' />
+    <tag k='ref' v='128964' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-117653' lat='33.217096' lon='131.680884'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分森店' />
+    <tag k='name:en' v="Lawson ooitamori" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分森店' />
+    <tag k='branch:ja_kana' v='おおいたもりてん' />
+    <tag k='branch:en' v="ooitamori" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-521-6969' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-06-30' />
+    <tag k='addr:full' v='大分県大分市大字森字太郎丸４０２‐１１' />
+    <tag k='ref' v='117653' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-117660' lat='33.596010' lon='131.189128'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 中津豊田三丁目店' />
+    <tag k='name:en' v="Lawson nakatsutoyota3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='中津豊田三丁目店' />
+    <tag k='branch:ja_kana' v='なかつとよた３ちようめてん' />
+    <tag k='branch:en' v="nakatsutoyota3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-22-3855' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-06-24' />
+    <tag k='addr:full' v='大分県中津市豊田町３‐６' />
+    <tag k='ref' v='117660' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-117771' lat='33.418844' lon='131.622335'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 杵築北浜店' />
+    <tag k='name:en' v="Lawson kitsukikitahama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='杵築北浜店' />
+    <tag k='branch:ja_kana' v='きつききたはまてん' />
+    <tag k='branch:en' v="kitsukikitahama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-63-3556' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-08-29' />
+    <tag k='addr:full' v='大分県杵築市大字杵築字北浜６６５‐２９' />
+    <tag k='ref' v='117771' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-117883' lat='33.214577' lon='131.658921'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分明野東五丁目店' />
+    <tag k='name:en' v="Lawson ooitaakenohigashi5chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分明野東五丁目店' />
+    <tag k='branch:ja_kana' v='おおいたあけのひがし５ちようめてん' />
+    <tag k='branch:en' v="ooitaakenohigashi5chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-552-3231' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-02-09' />
+    <tag k='addr:full' v='大分県大分市明野東５‐４３２４‐２' />
+    <tag k='ref' v='117883' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118115' lat='33.500639' lon='131.727615'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 武蔵古市店' />
+    <tag k='name:en' v="Lawson musashifuruichi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='武蔵古市店' />
+    <tag k='branch:ja_kana' v='むさしふるいちてん' />
+    <tag k='branch:en' v="musashifuruichi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-69-0888' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-12-01' />
+    <tag k='addr:full' v='大分県国東市武蔵町古市２３‐３' />
+    <tag k='ref' v='118115' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118121' lat='33.214236' lon='131.587180'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分奥田店' />
+    <tag k='name:en' v="Lawson ooitaokuda" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分奥田店' />
+    <tag k='branch:ja_kana' v='おおいたおくだてん' />
+    <tag k='branch:en' v="ooitaokuda" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-545-4455' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-08-30' />
+    <tag k='addr:full' v='大分県大分市大字奥田字上中津町８０５‐１' />
+    <tag k='ref' v='118121' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118204' lat='33.563917' lon='131.387547'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇佐長洲店' />
+    <tag k='name:en' v="Lawson usanagasu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇佐長洲店' />
+    <tag k='branch:ja_kana' v='うさながすてん' />
+    <tag k='branch:en' v="usanagasu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-38-5087' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-02-24' />
+    <tag k='addr:full' v='大分県宇佐市大字長洲字外野田１２５４' />
+    <tag k='ref' v='118204' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118227' lat='33.211555' lon='131.688007'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分高田店' />
+    <tag k='name:en' v="Lawson ooitatakada" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分高田店' />
+    <tag k='branch:ja_kana' v='おおいたたかだてん' />
+    <tag k='branch:en' v="ooitatakada" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-521-0027' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-08-31' />
+    <tag k='addr:full' v='大分県大分市大字南字東鶴５‐１' />
+    <tag k='ref' v='118227' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118470' lat='33.214673' lon='131.663271'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分横尾店' />
+    <tag k='name:en' v="Lawson ooitayokoo" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分横尾店' />
+    <tag k='branch:ja_kana' v='おおいたよこおてん' />
+    <tag k='branch:en' v="ooitayokoo" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-520-4803' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-11-27' />
+    <tag k='addr:full' v='大分県大分市大字横尾字大久保３９３３‐３６' />
+    <tag k='ref' v='118470' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118486' lat='32.945906' lon='131.888608'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯池田店' />
+    <tag k='name:en' v="Lawson saikiikeda" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯池田店' />
+    <tag k='branch:ja_kana' v='さいきいけだてん' />
+    <tag k='branch:en' v="saikiikeda" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-20-0163' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-01-19' />
+    <tag k='addr:full' v='大分県佐伯市大字池田字清六１０９１' />
+    <tag k='ref' v='118486' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118546' lat='33.249282' lon='131.641027'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分萩原四丁目店' />
+    <tag k='name:en' v="Lawson ooitahagiwara4chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分萩原四丁目店' />
+    <tag k='branch:ja_kana' v='おおいたはぎわら４ちようめてん' />
+    <tag k='branch:en' v="ooitahagiwara4chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-556-7421' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-03-01' />
+    <tag k='addr:full' v='大分県大分市萩原４‐２１５' />
+    <tag k='ref' v='118546' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118581' lat='33.237150' lon='131.609659'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分府内五番街店' />
+    <tag k='name:en' v="Lawson ooitafunaigobangai" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分府内五番街店' />
+    <tag k='branch:ja_kana' v='おおいたふないごばんがいてん' />
+    <tag k='branch:en' v="ooitafunaigobangai" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-537-8347' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-12-18' />
+    <tag k='addr:full' v='大分県大分市府内町２‐９７‐９' />
+    <tag k='ref' v='118581' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-208249' lat='33.588673' lon='131.192251'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 中津中央町一丁目店' />
+    <tag k='name:en' v="Lawson nakatsuchiyuuoumachi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='中津中央町一丁目店' />
+    <tag k='branch:ja_kana' v='なかつちゆうおうまち１ちようめてん' />
+    <tag k='branch:en' v="nakatsuchiyuuoumachi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-23-1217' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-01-13' />
+    <tag k='addr:full' v='大分県中津市中央町１丁目　７‐３２号' />
+    <tag k='ref' v='208249' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154341' lat='33.216688' lon='131.612653'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分古国府北店' />
+    <tag k='name:en' v="Lawson ooitafurugoukita" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分古国府北店' />
+    <tag k='branch:ja_kana' v='おおいたふるごうきたてん' />
+    <tag k='branch:en' v="ooitafurugoukita" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-545-8463' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-08-30' />
+    <tag k='addr:full' v='大分県大分市大字古国府字下新田１０１０‐４' />
+    <tag k='ref' v='154341' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154387' lat='33.208279' lon='131.534687'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分医科大学前店' />
+    <tag k='name:en' v="Lawson ooitaikadaigakumae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分医科大学前店' />
+    <tag k='branch:ja_kana' v='おおいたいかだいがくまえてん' />
+    <tag k='branch:en' v="ooitaikadaigakumae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-583-1548' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-07-19' />
+    <tag k='addr:full' v='大分県由布市挟間町医大ケ丘３‐１０２‐３' />
+    <tag k='ref' v='154387' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154424' lat='33.186652' lon='131.608682'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分寒田店' />
+    <tag k='name:en' v="Lawson ooitasouda" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分寒田店' />
+    <tag k='branch:ja_kana' v='おおいたそうだてん' />
+    <tag k='branch:en' v="ooitasouda" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-569-5382' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-08-29' />
+    <tag k='addr:full' v='大分県大分市大字寒田字大畑９００‐１' />
+    <tag k='ref' v='154424' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154513' lat='33.274791' lon='131.506730'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府浜町店' />
+    <tag k='name:en' v="Lawson betsupuhamamachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府浜町店' />
+    <tag k='branch:ja_kana' v='べつぷはままちてん' />
+    <tag k='branch:en' v="betsupuhamamachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-24-8877' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-08-24' />
+    <tag k='addr:full' v='大分県別府市浜町１‐７' />
+    <tag k='ref' v='154513' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154654' lat='33.184615' lon='131.560359'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分田原店' />
+    <tag k='name:en' v="Lawson ooitatabaru" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分田原店' />
+    <tag k='branch:ja_kana' v='おおいたたばるてん' />
+    <tag k='branch:en' v="ooitatabaru" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-542-6838' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-02-27' />
+    <tag k='addr:full' v='大分県大分市大字田原字五反田８８８‐１' />
+    <tag k='ref' v='154654' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154772' lat='33.224883' lon='131.211472'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 九重野上店' />
+    <tag k='name:en' v="Lawson kokonoenogami" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='九重野上店' />
+    <tag k='branch:ja_kana' v='ここのえのがみてん' />
+    <tag k='branch:en' v="kokonoenogami" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-77-7777' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-04-05' />
+    <tag k='addr:full' v='大分県玖珠郡九重町大字野上字寺田１２９５‐１' />
+    <tag k='ref' v='154772' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154849' lat='33.309219' lon='130.929404'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日田高瀬店' />
+    <tag k='name:en' v="Lawson hitatakase" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日田高瀬店' />
+    <tag k='branch:ja_kana' v='ひたたかせてん' />
+    <tag k='branch:en' v="hitatakase" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-24-2005' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-10-11' />
+    <tag k='addr:full' v='大分県日田市大字高瀬字今市８５‐１' />
+    <tag k='ref' v='154849' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154878' lat='33.254660' lon='131.676110'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分海原店' />
+    <tag k='name:en' v="Lawson ooitakaibara" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分海原店' />
+    <tag k='branch:ja_kana' v='おおいたかいばらてん' />
+    <tag k='branch:en' v="ooitakaibara" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-527-3131' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-06-25' />
+    <tag k='addr:full' v='大分県大分市大字海原字天神元８３９‐１' />
+    <tag k='ref' v='154878' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154938' lat='33.233868' lon='131.597010'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分田室町店' />
+    <tag k='name:en' v="Lawson ooitatamuromachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分田室町店' />
+    <tag k='branch:ja_kana' v='おおいたたむろまちてん' />
+    <tag k='branch:en' v="ooitatamuromachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-554-5127' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-07-27' />
+    <tag k='addr:full' v='大分県大分市田室町８‐１７' />
+    <tag k='ref' v='154938' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-134249' lat='33.121868' lon='131.800296'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 臼杵祗園店' />
+    <tag k='name:en' v="Lawson usukigion" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='臼杵祗園店' />
+    <tag k='branch:ja_kana' v='うすきぎおんてん' />
+    <tag k='branch:en' v="usukigion" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-63-0041' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-10-27' />
+    <tag k='addr:full' v='大分県臼杵市大字臼杵字祇園洲１１‐１' />
+    <tag k='ref' v='134249' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-134427' lat='33.250668' lon='131.652662'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分原新町店' />
+    <tag k='name:en' v="Lawson ooitaharushinmachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分原新町店' />
+    <tag k='branch:ja_kana' v='おおいたはるしんまちてん' />
+    <tag k='branch:en' v="ooitaharushinmachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-551-8788' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-10-01' />
+    <tag k='addr:full' v='大分県大分市原新町３０９' />
+    <tag k='ref' v='134427' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-134516' lat='33.237283' lon='131.734452'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分城原店' />
+    <tag k='name:en' v="Lawson ooitajiyouharu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分城原店' />
+    <tag k='branch:ja_kana' v='おおいたじようはるてん' />
+    <tag k='branch:en' v="ooitajiyouharu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-592-5885' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-08-25' />
+    <tag k='addr:full' v='大分県大分市大字城原字蔵屋敷３８４‐１' />
+    <tag k='ref' v='134516' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-134545' lat='33.183355' lon='131.674608'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分松岡店' />
+    <tag k='name:en' v="Lawson ooitamatsuoka" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分松岡店' />
+    <tag k='branch:ja_kana' v='おおいたまつおかてん' />
+    <tag k='branch:en' v="ooitamatsuoka" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-520-5541' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-07-30' />
+    <tag k='addr:full' v='大分県大分市大字松岡字筒井ノ下３５１９‐１' />
+    <tag k='ref' v='134545' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-134657' lat='33.588694' lon='131.214434'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 中津下池永店' />
+    <tag k='name:en' v="Lawson nakatsushimoikenaga" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='中津下池永店' />
+    <tag k='branch:ja_kana' v='なかつしもいけながてん' />
+    <tag k='branch:en' v="nakatsushimoikenaga" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-24-7039' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-10-13' />
+    <tag k='addr:full' v='大分県中津市大字下池永下古附１６７‐１' />
+    <tag k='ref' v='134657' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-134730' lat='33.580216' lon='131.234378'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 中津上如水店' />
+    <tag k='name:en' v="Lawson nakatsukamijiyosui" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='中津上如水店' />
+    <tag k='branch:ja_kana' v='なかつかみじよすいてん' />
+    <tag k='branch:en' v="nakatsukamijiyosui" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-27-6023' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-04-21' />
+    <tag k='addr:full' v='大分県中津市大字上如水１３２６‐１' />
+    <tag k='ref' v='134730' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-134806' lat='33.225676' lon='131.635507'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分下郡中央三丁目店' />
+    <tag k='name:en' v="Lawson ooitashimogoorichiyuuou3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分下郡中央三丁目店' />
+    <tag k='branch:ja_kana' v='おおいたしもごおりちゆうおう３ちようめてん' />
+    <tag k='branch:en' v="ooitashimogoorichiyuuou3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-567-0066' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-12-09' />
+    <tag k='addr:full' v='大分県大分市下郡中央３丁目２番５号' />
+    <tag k='ref' v='134806' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-154016' lat='33.529367' lon='131.338338'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇佐辛島店' />
+    <tag k='name:en' v="Lawson usakarashima" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇佐辛島店' />
+    <tag k='branch:ja_kana' v='うさからしまてん' />
+    <tag k='branch:en' v="usakarashima" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-33-1911' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-12-16' />
+    <tag k='addr:full' v='大分県宇佐市大字辛島字馬場２３４‐１' />
+    <tag k='ref' v='154016' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145046' lat='33.072517' lon='131.889715'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 津久見千怒店' />
+    <tag k='name:en' v="Lawson tsukumichinu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='津久見千怒店' />
+    <tag k='branch:ja_kana' v='つくみちぬてん' />
+    <tag k='branch:en' v="tsukumichinu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-82-0033' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-01-26' />
+    <tag k='addr:full' v='大分県津久見市大字千怒字新地６０５９' />
+    <tag k='ref' v='145046' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145260' lat='33.440077' lon='131.352718'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 安心院店' />
+    <tag k='name:en' v="Lawson ajimu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='安心院店' />
+    <tag k='branch:ja_kana' v='あじむてん' />
+    <tag k='branch:en' v="ajimu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-978-44-1239' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-03-01' />
+    <tag k='addr:full' v='大分県宇佐市安心院町下毛字室２０１２‐１' />
+    <tag k='ref' v='145260' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145454' lat='33.298544' lon='131.500884'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府新港町店' />
+    <tag k='name:en' v="Lawson betsupushinminatomachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府新港町店' />
+    <tag k='branch:ja_kana' v='べつぷしんみなとまちてん' />
+    <tag k='branch:en' v="betsupushinminatomachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-23-2338' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-03-01' />
+    <tag k='addr:full' v='大分県別府市新港町８２' />
+    <tag k='ref' v='145454' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145566' lat='33.290074' lon='131.468328'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府生目店' />
+    <tag k='name:en' v="Lawson beppuikime" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府生目店' />
+    <tag k='branch:ja_kana' v='べっぷいきめてん' />
+    <tag k='branch:en' v="beppuikime" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-26-5026' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-09-01' />
+    <tag k='addr:full' v='大分県別府市大字南立石二区字向原１０８２‐２０６' />
+    <tag k='ref' v='145566' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145610' lat='33.276027' lon='131.499870'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府流川通店' />
+    <tag k='name:en' v="Lawson betsupunagarekawatoori" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府流川通店' />
+    <tag k='branch:ja_kana' v='べつぷながれかわとおりてん' />
+    <tag k='branch:en' v="betsupunagarekawatoori" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-25-3967' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-07-27' />
+    <tag k='addr:full' v='大分県別府市秋葉町９‐２５' />
+    <tag k='ref' v='145610' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145632' lat='33.328456' lon='131.493922'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府亀川店' />
+    <tag k='name:en' v="Lawson betsupukamegawa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府亀川店' />
+    <tag k='branch:ja_kana' v='べつぷかめがわてん' />
+    <tag k='branch:en' v="betsupukamegawa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-66-1166' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-08-02' />
+    <tag k='addr:full' v='大分県別府市亀川浜田町２‐６' />
+    <tag k='ref' v='145632' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145840' lat='33.226540' lon='131.628810'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分下郡バイパス店' />
+    <tag k='name:en' v="Lawson ooitashimogooribaipasu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分下郡バイパス店' />
+    <tag k='branch:ja_kana' v='おおいたしもごおりばいぱすてん' />
+    <tag k='branch:en' v="ooitashimogooribaipasu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-567-7188' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-10-26' />
+    <tag k='addr:full' v='大分県大分市大字下郡字川原瀬３０５３‐７' />
+    <tag k='ref' v='145840' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145879' lat='33.241316' lon='131.724043'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分政所店' />
+    <tag k='name:en' v="Lawson ooitamadokoro" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分政所店' />
+    <tag k='branch:ja_kana' v='おおいたまどころてん' />
+    <tag k='branch:en' v="ooitamadokoro" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-592-9822' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-11-01' />
+    <tag k='addr:full' v='大分県大分市大字政所字村田２１２４‐６' />
+    <tag k='ref' v='145879' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-145945' lat='33.223615' lon='131.634721'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分下郡南三丁目店' />
+    <tag k='name:en' v="Lawson ooitashimogooriminami3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分下郡南三丁目店' />
+    <tag k='branch:ja_kana' v='おおいたしもごおりみなみ３ちようめてん' />
+    <tag k='branch:en' v="ooitashimogooriminami3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-567-8178' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-01-31' />
+    <tag k='addr:full' v='大分県大分市下郡南３‐３‐１３' />
+    <tag k='ref' v='145945' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172882' lat='33.183232' lon='131.667344'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分松岡小学校前店' />
+    <tag k='name:en' v="Lawson ooitamatsuokashiyougatsukoumae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分松岡小学校前店' />
+    <tag k='branch:ja_kana' v='おおいたまつおかしようがつこうまえてん' />
+    <tag k='branch:en' v="ooitamatsuokashiyougatsukoumae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-520-0090' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-05-16' />
+    <tag k='addr:full' v='大分県大分市大字松岡字亀井５０８４‐１' />
+    <tag k='ref' v='172882' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-173002' lat='32.988073' lon='131.604662'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 三重町赤嶺店' />
+    <tag k='name:en' v="Lawson miemachiakamine" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='三重町赤嶺店' />
+    <tag k='branch:ja_kana' v='みえまちあかみねてん' />
+    <tag k='branch:en' v="miemachiakamine" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-974-24-0188' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-09-15' />
+    <tag k='addr:full' v='大分県豊後大野市三重町赤嶺字大原１１４９‐５' />
+    <tag k='ref' v='173002' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-173309' lat='33.235445' lon='131.753891'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分坂ノ市中央店' />
+    <tag k='name:en' v="Lawson ooitasakanoichichiyuuou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分坂ノ市中央店' />
+    <tag k='branch:ja_kana' v='おおいたさかのいちちゆうおうてん' />
+    <tag k='branch:en' v="ooitasakanoichichiyuuou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-592-5995' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-10-14' />
+    <tag k='addr:full' v='大分県大分市大字坂ノ市字東浜田３１７‐２' />
+    <tag k='ref' v='173309' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-173344' lat='33.240712' lon='131.637038'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分牧一丁目店' />
+    <tag k='name:en' v="Lawson ooitamaki1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分牧一丁目店' />
+    <tag k='branch:ja_kana' v='おおいたまき１ちようめてん' />
+    <tag k='branch:en' v="ooitamaki1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-551-2727' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-02-09' />
+    <tag k='addr:full' v='大分県大分市牧１‐１７５‐２' />
+    <tag k='ref' v='173344' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-173373' lat='33.245112' lon='131.637683'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分萩原一丁目店' />
+    <tag k='name:en' v="Lawson ooitahagiwara1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分萩原一丁目店' />
+    <tag k='branch:ja_kana' v='おおいたはぎわら１ちようめてん' />
+    <tag k='branch:en' v="ooitahagiwara1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-553-1047' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-11-15' />
+    <tag k='addr:full' v='大分県大分市萩原１丁目２番３１号' />
+    <tag k='ref' v='173373' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-173396' lat='33.292913' lon='131.501129'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府餅ケ浜店' />
+    <tag k='name:en' v="Lawson betsupumochigahama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府餅ケ浜店' />
+    <tag k='branch:ja_kana' v='べつぷもちがはまてん' />
+    <tag k='branch:en' v="betsupumochigahama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-77-3013' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-01-13' />
+    <tag k='addr:full' v='大分県別府市餅ケ浜町７７' />
+    <tag k='ref' v='173396' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165095' lat='33.221286' lon='131.653363'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分明野東一丁目店' />
+    <tag k='name:en' v="Lawson ooitaakenohigashi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分明野東一丁目店' />
+    <tag k='branch:ja_kana' v='おおいたあけのひがし１ちようめてん' />
+    <tag k='branch:en' v="ooitaakenohigashi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-553-1781' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-04-25' />
+    <tag k='addr:full' v='大分県大分市明野東１‐２３２８‐１' />
+    <tag k='ref' v='165095' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165221' lat='33.156194' lon='131.654755'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分中戸次店' />
+    <tag k='name:en' v="Lawson ooitanakahetsugi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分中戸次店' />
+    <tag k='branch:ja_kana' v='おおいたなかへつぎてん' />
+    <tag k='branch:en' v="ooitanakahetsugi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-597-0248' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-11-02' />
+    <tag k='addr:full' v='大分県大分市大字中戸次字馬場５９３４‐１' />
+    <tag k='ref' v='165221' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165333' lat='33.279526' lon='131.132385'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 玖珠山田店' />
+    <tag k='name:en' v="Lawson kusuyamada" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='玖珠山田店' />
+    <tag k='branch:ja_kana' v='くすやまだてん' />
+    <tag k='branch:en' v="kusuyamada" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-72-7555' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-11-14' />
+    <tag k='addr:full' v='大分県玖珠郡玖珠町大字山田字大水口２５２８‐１' />
+    <tag k='ref' v='165333' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165497' lat='33.241222' lon='131.594221'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分王子中町店' />
+    <tag k='name:en' v="Lawson ooitaoujinakamachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分王子中町店' />
+    <tag k='branch:ja_kana' v='おおいたおうじなかまちてん' />
+    <tag k='branch:en' v="ooitaoujinakamachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-513-5302' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-02-21' />
+    <tag k='addr:full' v='大分県大分市王子中町４０' />
+    <tag k='ref' v='165497' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165540' lat='33.345700' lon='130.943104'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 済生会日田病院前店' />
+    <tag k='name:en' v="Lawson saiseikaihitabiyouinmae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='済生会日田病院前店' />
+    <tag k='branch:ja_kana' v='さいせいかいひたびよういんまえてん' />
+    <tag k='branch:en' v="saiseikaihitabiyouinmae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-23-7733' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-04-30' />
+    <tag k='addr:full' v='大分県日田市大字三和字住吉ノ後７８３‐１' />
+    <tag k='ref' v='165540' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165712' lat='33.262642' lon='131.356789'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 湯布院中央店' />
+    <tag k='name:en' v="Lawson yufuinchiyuuou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='湯布院中央店' />
+    <tag k='branch:ja_kana' v='ゆふいんちゆうおうてん' />
+    <tag k='branch:en' v="yufuinchiyuuou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-85-5434' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-08-04' />
+    <tag k='addr:full' v='大分県由布市湯布院町川上字下川原２９１２‐２４' />
+    <tag k='ref' v='165712' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165741' lat='33.334976' lon='130.934157'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日田インター店' />
+    <tag k='name:en' v="Lawson hitainta-" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日田インター店' />
+    <tag k='branch:ja_kana' v='ひたいんたーてん' />
+    <tag k='branch:en' v="hitainta-" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-22-1858' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-08-29' />
+    <tag k='addr:full' v='大分県日田市大字渡里字下瀬井手９４‐２' />
+    <tag k='ref' v='165741' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-165899' lat='33.207421' lon='131.588455'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分明磧店' />
+    <tag k='name:en' v="Lawson ooitaakegawara" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分明磧店' />
+    <tag k='branch:ja_kana' v='おおいたあけがわらてん' />
+    <tag k='branch:en' v="ooitaakegawara" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-545-4828' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-12-16' />
+    <tag k='addr:full' v='大分県大分市大字奥田明磧６組２' />
+    <tag k='ref' v='165899' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191030' lat='33.154554' lon='131.662044'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分戸次小学校入口店' />
+    <tag k='name:en' v="Lawson ooitahetsugishiyougatsukouiriku" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分戸次小学校入口店' />
+    <tag k='branch:ja_kana' v='おおいたへつぎしようがつこういりくてん' />
+    <tag k='branch:en' v="ooitahetsugishiyougatsukouiriku" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-597-0878' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-01-17' />
+    <tag k='addr:full' v='大分県大分市大字中戸次字荒内４２４１‐１' />
+    <tag k='ref' v='191030' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191069' lat='33.244206' lon='131.615052'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分中島中央二丁目店' />
+    <tag k='name:en' v="Lawson ooitanakashimachiyuuou2chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分中島中央二丁目店' />
+    <tag k='branch:ja_kana' v='おおいたなかしまちゆうおう２ちようめてん' />
+    <tag k='branch:en' v="ooitanakashimachiyuuou2chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-533-6339' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-12-17' />
+    <tag k='addr:full' v='大分県大分市中島中央２‐２‐２７' />
+    <tag k='ref' v='191069' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191075' lat='33.266161' lon='131.357437'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 湯布院野田店' />
+    <tag k='name:en' v="Lawson yufuinnoda" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='湯布院野田店' />
+    <tag k='branch:ja_kana' v='ゆふいんのだてん' />
+    <tag k='branch:en' v="yufuinnoda" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-84-3811' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-04-11' />
+    <tag k='addr:full' v='大分県由布市湯布院町川上字野田３０６６‐２' />
+    <tag k='ref' v='191075' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191112' lat='33.244657' lon='131.662769'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分仲西町二丁目店' />
+    <tag k='name:en' v="Lawson ooitanakanishimachi2chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分仲西町二丁目店' />
+    <tag k='branch:ja_kana' v='おおいたなかにしまち２ちようめてん' />
+    <tag k='branch:en' v="ooitanakanishimachi2chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-556-6701' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-02-07' />
+    <tag k='addr:full' v='大分県大分市仲西町２‐４‐２０' />
+    <tag k='ref' v='191112' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-176354' lat='33.280082' lon='131.496893'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府上田の湯店' />
+    <tag k='name:en' v="Lawson betsupukamitanoyu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府上田の湯店' />
+    <tag k='branch:ja_kana' v='べつぷかみたのゆてん' />
+    <tag k='branch:en' v="betsupukamitanoyu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-26-0290' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-03-07' />
+    <tag k='addr:full' v='大分県別府市上田の湯町２０２２‐１' />
+    <tag k='ref' v='176354' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-176408' lat='33.308122' lon='131.487670'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府北石垣店' />
+    <tag k='name:en' v="Lawson betsupukitaishigaki" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府北石垣店' />
+    <tag k='branch:ja_kana' v='べつぷきたいしがきてん' />
+    <tag k='branch:en' v="betsupukitaishigaki" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-723-2575' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-06-07' />
+    <tag k='addr:full' v='大分県別府市大字北石垣字古寺１４５４' />
+    <tag k='ref' v='176408' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-176472' lat='33.321888' lon='130.925682'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 日田十二町店' />
+    <tag k='name:en' v="Lawson hitajiyuunichiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='日田十二町店' />
+    <tag k='branch:ja_kana' v='ひたじゆうにちようてん' />
+    <tag k='branch:en' v="hitajiyuunichiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-973-23-5118' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-11-02' />
+    <tag k='addr:full' v='大分県日田市大字十二町字岸高５８６‐４' />
+    <tag k='ref' v='176472' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-176489' lat='33.239861' lon='131.607656'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分荷揚町店' />
+    <tag k='name:en' v="Lawson ooitaniagemachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分荷揚町店' />
+    <tag k='branch:ja_kana' v='おおいたにあげまちてん' />
+    <tag k='branch:en' v="ooitaniagemachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-532-2878' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-09-02' />
+    <tag k='addr:full' v='大分県大分市荷揚町２６' />
+    <tag k='ref' v='176489' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191253' lat='32.936519' lon='131.880127'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯長谷店' />
+    <tag k='name:en' v="Lawson saikihase" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯長谷店' />
+    <tag k='branch:ja_kana' v='さいきはせてん' />
+    <tag k='branch:en' v="saikihase" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-24-1675' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-11-06' />
+    <tag k='addr:full' v='大分県佐伯市大字長谷字戸間７７２１‐１' />
+    <tag k='ref' v='191253' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191359' lat='32.956180' lon='131.908094'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 佐伯渡町台店' />
+    <tag k='name:en' v="Lawson saikitomachidai" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='佐伯渡町台店' />
+    <tag k='branch:ja_kana' v='さいきとまちだいてん' />
+    <tag k='branch:en' v="saikitomachidai" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-22-3963' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-06-13' />
+    <tag k='addr:full' v='大分県佐伯市長島町３‐２０‐１４' />
+    <tag k='ref' v='191359' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191371' lat='33.212906' lon='131.560773'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分賀来井ノ口店' />
+    <tag k='name:en' v="Lawson ooitakakuinoguchi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分賀来井ノ口店' />
+    <tag k='branch:ja_kana' v='おおいたかくいのぐちてん' />
+    <tag k='branch:en' v="ooitakakuinoguchi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-549-5885' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-07-04' />
+    <tag k='addr:full' v='大分県大分市大字賀来井ノ口３９７５' />
+    <tag k='ref' v='191371' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191394' lat='33.591948' lon='131.238819'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 中津田尻店' />
+    <tag k='name:en' v="Lawson nakatsutajiri" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='中津田尻店' />
+    <tag k='branch:ja_kana' v='なかつたじりてん' />
+    <tag k='branch:en' v="nakatsutajiri" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-979-33-0739' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-11-07' />
+    <tag k='addr:full' v='大分県中津市田尻１２８２‐１' />
+    <tag k='ref' v='191394' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191402' lat='33.237878' lon='131.605313'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分竹町通り店' />
+    <tag k='name:en' v="Lawson ooitatakemachidoori" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分竹町通り店' />
+    <tag k='branch:ja_kana' v='おおいたたけまちどおりてん' />
+    <tag k='branch:en' v="ooitatakemachidoori" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-533-9301' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-07-30' />
+    <tag k='addr:full' v='大分県大分市中央町２‐７‐１８' />
+    <tag k='ref' v='191402' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191454' lat='33.075130' lon='131.867428'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 津久見高洲町店' />
+    <tag k='name:en' v="Lawson tsukumitakasumachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='津久見高洲町店' />
+    <tag k='branch:ja_kana' v='つくみたかすまちてん' />
+    <tag k='branch:en' v="tsukumitakasumachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-972-85-0580' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-08-08' />
+    <tag k='addr:full' v='大分県津久見市高洲町２２‐１９' />
+    <tag k='ref' v='191454' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-176704' lat='33.318610' lon='131.480953'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 別府鉄輪店' />
+    <tag k='name:en' v="Lawson betsupukannawa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='別府鉄輪店' />
+    <tag k='branch:ja_kana' v='べつぷかんなわてん' />
+    <tag k='branch:en' v="betsupukannawa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-977-66-9800' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-12-12' />
+    <tag k='addr:full' v='大分県別府市大字鉄輪９５０‐１' />
+    <tag k='ref' v='176704' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-176868' lat='33.213473' lon='131.717329'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分丹川店' />
+    <tag k='name:en' v="Lawson ooitaakagawa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分丹川店' />
+    <tag k='branch:ja_kana' v='おおいたあかがわてん' />
+    <tag k='branch:en' v="ooitaakagawa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-593-5345' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-01-24' />
+    <tag k='addr:full' v='大分県大分市大字丹川１９７‐１' />
+    <tag k='ref' v='176868' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191483' lat='33.244103' lon='131.590359'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大分王子町店' />
+    <tag k='name:en' v="Lawson ooitaoujimachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大分王子町店' />
+    <tag k='branch:ja_kana' v='おおいたおうじまちてん' />
+    <tag k='branch:en' v="ooitaoujimachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-97-536-7030' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-08-27' />
+    <tag k='addr:full' v='大分県大分市王子町５番２０号' />
+    <tag k='ref' v='191483' />
+    <tag k='source' v='Lawson' />
+  </node>
+</osm>

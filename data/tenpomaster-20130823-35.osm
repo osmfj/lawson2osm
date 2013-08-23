@@ -1,0 +1,2418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6'>
+  <node id='-199757' lat='33.954611' lon='132.053919'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 田布施天神店' />
+    <tag k='name:en' v="Lawson tabusetenjin" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='田布施天神店' />
+    <tag k='branch:ja_kana' v='たぶせてんじんてん' />
+    <tag k='branch:en' v="tabusetenjin" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-820-52-5917' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-08-07' />
+    <tag k='addr:full' v='山口県熊毛郡田布施町大字下田布施３８３番地８' />
+    <tag k='ref' v='199757' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-199964' lat='34.184200' lon='132.231386'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国新港町店' />
+    <tag k='name:en' v="Lawson iwakunishinminatomachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国新港町店' />
+    <tag k='branch:ja_kana' v='いわくにしんみなとまちてん' />
+    <tag k='branch:en' v="iwakunishinminatomachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-24-3495' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-04-09' />
+    <tag k='addr:full' v='山口県岩国市新港町２丁目６番４０号' />
+    <tag k='ref' v='199964' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-200012' lat='34.060663' lon='131.814044'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 徳山動物園前店' />
+    <tag k='name:en' v="Lawson tokuyamadoubutsuenmae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='徳山動物園前店' />
+    <tag k='branch:ja_kana' v='とくやまどうぶつえんまえてん' />
+    <tag k='branch:en' v="tokuyamadoubutsuenmae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-32-8363' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-02-12' />
+    <tag k='addr:full' v='山口県周南市大字徳山５８５９番地の８' />
+    <tag k='ref' v='200012' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-200058' lat='33.992524' lon='131.209399'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部東須恵店' />
+    <tag k='name:en' v="Lawson ubehigashisue" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部東須恵店' />
+    <tag k='branch:ja_kana' v='うべひがしすえてん' />
+    <tag k='branch:en' v="ubehigashisue" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-41-5717' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-04-16' />
+    <tag k='addr:full' v='山口県宇部市大字東須恵７１５番地１' />
+    <tag k='ref' v='200058' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195251' lat='33.955006' lon='130.933878'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関丸山町店' />
+    <tag k='name:en' v="Lawson shimonosekimaruyamachiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関丸山町店' />
+    <tag k='branch:ja_kana' v='しものせきまるやまちようてん' />
+    <tag k='branch:en' v="shimonosekimaruyamachiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-235-5039' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-11-07' />
+    <tag k='addr:full' v='山口県下関市丸山町４‐４‐７' />
+    <tag k='ref' v='195251' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195311' lat='33.979596' lon='130.944391'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関椋野町三丁目店' />
+    <tag k='name:en' v="Lawson shimonosekimukunochiyou3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関椋野町三丁目店' />
+    <tag k='branch:ja_kana' v='しものせきむくのちよう３ちようめてん' />
+    <tag k='branch:en' v="shimonosekimukunochiyou3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-223-3963' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-03-06' />
+    <tag k='addr:full' v='山口県下関市椋野町３‐１９‐１' />
+    <tag k='ref' v='195311' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195475' lat='34.019549' lon='131.001434'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関競艇場前店' />
+    <tag k='name:en' v="Lawson shimonosekikiyouteijiyoumae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関競艇場前店' />
+    <tag k='branch:ja_kana' v='しものせききようていじようまえてん' />
+    <tag k='branch:en' v="shimonosekikiyouteijiyoumae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-249-0666' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-04-03' />
+    <tag k='addr:full' v='山口県下関市長府松小田本町５番１号' />
+    <tag k='ref' v='195475' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-195587' lat='34.022454' lon='130.932681'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関蒲生野店' />
+    <tag k='name:en' v="Lawson shimonosekikamouno" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関蒲生野店' />
+    <tag k='branch:ja_kana' v='しものせきかもうのてん' />
+    <tag k='branch:en' v="shimonosekikamouno" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-258-1763' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-12-11' />
+    <tag k='addr:full' v='山口県下関市大字蒲生野７９４' />
+    <tag k='ref' v='195587' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-15875' lat='33.974977' lon='131.230190'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部藤山店' />
+    <tag k='name:en' v="Lawson ubefujiyama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部藤山店' />
+    <tag k='branch:ja_kana' v='うべふじやまてん' />
+    <tag k='branch:en' v="ubefujiyama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-21-1535' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1991-06-09' />
+    <tag k='addr:full' v='山口県宇部市東平原２丁目９‐２２' />
+    <tag k='ref' v='15875' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-19614' lat='33.994040' lon='130.943947'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関熊野町店' />
+    <tag k='name:en' v="Lawson shimonosekikumanochiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関熊野町店' />
+    <tag k='branch:ja_kana' v='しものせきくまのちようてん' />
+    <tag k='branch:en' v="shimonosekikumanochiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-255-2110' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1992-03-20' />
+    <tag k='addr:full' v='山口県下関市熊野町２‐２‐２７' />
+    <tag k='ref' v='19614' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-206730' lat='34.103029' lon='131.394771'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口小郡下郷店' />
+    <tag k='name:en' v="Lawson yamaguchiogoorishimogou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口小郡下郷店' />
+    <tag k='branch:ja_kana' v='やまぐちおごおりしもごうてん' />
+    <tag k='branch:en' v="yamaguchiogoorishimogou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-972-4442' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-07-09' />
+    <tag k='addr:full' v='山口県山口市小郡下郷７８８‐１' />
+    <tag k='ref' v='206730' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-26063' lat='34.012099' lon='130.951168'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関秋根本町店' />
+    <tag k='name:en' v="Lawson Lshimonosekiakinehonmachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関秋根本町店' />
+    <tag k='branch:ja_kana' v='Ｌしものせきあきねほんまちてん' />
+    <tag k='branch:en' v="Lshimonosekiakinehonmachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-257-1818' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1992-11-09' />
+    <tag k='addr:full' v='山口県下関市秋根本町１‐１‐１' />
+    <tag k='ref' v='26063' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-26206' lat='33.994642' lon='130.932053'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関稗田町店' />
+    <tag k='name:en' v="Lawson shimonosekihiedamachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関稗田町店' />
+    <tag k='branch:ja_kana' v='しものせきひえだまちてん' />
+    <tag k='branch:en' v="shimonosekihiedamachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-253-4177' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1992-11-21' />
+    <tag k='addr:full' v='山口県下関市稗田１２‐１８' />
+    <tag k='ref' v='26206' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-26270' lat='34.164043' lon='131.456545'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口湯田温泉店' />
+    <tag k='name:en' v="Lawson 　yamaguchiyudaonsen" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口湯田温泉店' />
+    <tag k='branch:ja_kana' v='　やまぐちゆだおんせんてん' />
+    <tag k='branch:en' v="　yamaguchiyudaonsen" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-923-8281' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1992-11-18' />
+    <tag k='addr:full' v='山口県山口市湯田温泉２‐１' />
+    <tag k='ref' v='26270' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-26347' lat='34.023717' lon='131.554591'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府田島店' />
+    <tag k='name:en' v="Lawson houfutajima" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府田島店' />
+    <tag k='branch:ja_kana' v='ほうふたじまてん' />
+    <tag k='branch:en' v="houfutajima" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-24-3843' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1992-11-21' />
+    <tag k='addr:full' v='山口県防府市田島上地５５２７‐２' />
+    <tag k='ref' v='26347' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-26399' lat='34.132185' lon='131.418628'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 吉敷仁保津店' />
+    <tag k='name:en' v="Lawson yoshikinihodu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='吉敷仁保津店' />
+    <tag k='branch:ja_kana' v='よしきにほづてん' />
+    <tag k='branch:en' v="yoshikinihodu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-972-8514' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1993-02-21' />
+    <tag k='addr:full' v='山口県山口市小郡上郷１６５４‐２' />
+    <tag k='ref' v='26399' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-26413' lat='34.051376' lon='131.559526'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府寿町店' />
+    <tag k='name:en' v="Lawson houfukotobukichiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府寿町店' />
+    <tag k='branch:ja_kana' v='ほうふことぶきちようてん' />
+    <tag k='branch:en' v="houfukotobukichiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-25-3691' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1993-01-25' />
+    <tag k='addr:full' v='山口県防府市寿町４‐１７' />
+    <tag k='ref' v='26413' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-26637' lat='33.933857' lon='130.921056'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 彦島江の浦五丁目店' />
+    <tag k='name:en' v="Lawson hikoshimaenoura5chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='彦島江の浦五丁目店' />
+    <tag k='branch:ja_kana' v='ひこしまえのうら５ちようめてん' />
+    <tag k='branch:en' v="hikoshimaenoura5chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-266-1381' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1993-03-01' />
+    <tag k='addr:full' v='山口県下関市彦島江の浦５‐５‐１４' />
+    <tag k='ref' v='26637' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-23739' lat='33.954852' lon='131.243782'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部中央町店' />
+    <tag k='name:en' v="Lawson ubechiyuuouchiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部中央町店' />
+    <tag k='branch:ja_kana' v='うべちゆうおうちようてん' />
+    <tag k='branch:en' v="ubechiyuuouchiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-32-8829' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1992-12-19' />
+    <tag k='addr:full' v='山口県宇部市中央町１‐２‐５' />
+    <tag k='ref' v='23739' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-49845' lat='34.059080' lon='131.173311'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山陽町厚狭店' />
+    <tag k='name:en' v="Lawson sanyouchiyouasa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山陽町厚狭店' />
+    <tag k='branch:ja_kana' v='さんようちようあさてん' />
+    <tag k='branch:en' v="sanyouchiyouasa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-73-0830' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-10-11' />
+    <tag k='addr:full' v='山口県山陽小野田市厚狭字上ケ田１０４２‐３' />
+    <tag k='ref' v='49845' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-49897' lat='34.032294' lon='131.926565'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下松切山店' />
+    <tag k='name:en' v="Lawson kudamatsukiriyama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下松切山店' />
+    <tag k='branch:ja_kana' v='くだまつきりやまてん' />
+    <tag k='branch:en' v="kudamatsukiriyama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-46-0009' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-09-21' />
+    <tag k='addr:full' v='山口県下松市大字切山字沖田２７５‐６' />
+    <tag k='ref' v='49897' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-49905' lat='34.222699' lon='132.092621'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 玖珂美和坂上店' />
+    <tag k='name:en' v="Lawson kugamiwasakaue" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='玖珂美和坂上店' />
+    <tag k='branch:ja_kana' v='くがみわさかうえてん' />
+    <tag k='branch:en' v="kugamiwasakaue" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-96-0903' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-12-13' />
+    <tag k='addr:full' v='山口県岩国市美和町渋前字鎌田１５１５' />
+    <tag k='ref' v='49905' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-49992' lat='33.980947' lon='130.923591'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関武久一丁目店' />
+    <tag k='name:en' v="Lawson shimonosekitakehisa1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関武久一丁目店' />
+    <tag k='branch:ja_kana' v='しものせきたけひさ１ちようめてん' />
+    <tag k='branch:en' v="shimonosekitakehisa1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-252-0143' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-11-26' />
+    <tag k='addr:full' v='山口県下関市武久町１‐３６１' />
+    <tag k='ref' v='49992' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-51078' lat='34.173516' lon='131.239640'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 美祢インター店' />
+    <tag k='name:en' v="Lawson mineinta-" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='美祢インター店' />
+    <tag k='branch:ja_kana' v='みねいんたーてん' />
+    <tag k='branch:en' v="mineinta-" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-52-5445' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-12-01' />
+    <tag k='addr:full' v='山口県美祢市伊佐町大字伊佐字中村３４２３‐１' />
+    <tag k='ref' v='51078' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-51109' lat='34.066332' lon='131.793760'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 周南新地店' />
+    <tag k='name:en' v="Lawson shiyuunanshinchi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='周南新地店' />
+    <tag k='branch:ja_kana' v='しゆうなんしんちてん' />
+    <tag k='branch:en' v="shiyuunanshinchi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-21-8222' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-12-11' />
+    <tag k='addr:full' v='山口県周南市新地１‐４‐８' />
+    <tag k='ref' v='51109' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-51836' lat='33.962645' lon='131.943639'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 光中央六丁目店' />
+    <tag k='name:en' v="Lawson hikarichiyuuou6chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='光中央六丁目店' />
+    <tag k='branch:ja_kana' v='ひかりちゆうおう６ちようめてん' />
+    <tag k='branch:en' v="hikarichiyuuou6chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-72-8011' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-08-10' />
+    <tag k='addr:full' v='山口県光市中央６‐２６‐３' />
+    <tag k='ref' v='51836' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-48219' lat='33.986702' lon='131.261937'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部上宇部店' />
+    <tag k='name:en' v="Lawson ubekamiube" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部上宇部店' />
+    <tag k='branch:ja_kana' v='うべかみうべてん' />
+    <tag k='branch:en' v="ubekamiube" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-22-7121' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1994-12-10' />
+    <tag k='addr:full' v='山口県宇部市大字上宇部字吉原４７２‐１' />
+    <tag k='ref' v='48219' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-27513' lat='34.110933' lon='131.856683'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 徳山須々万店' />
+    <tag k='name:en' v="Lawson tokuyamasusuma" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='徳山須々万店' />
+    <tag k='branch:ja_kana' v='とくやますすまてん' />
+    <tag k='branch:en' v="tokuyamasusuma" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-88-2668' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1993-02-26' />
+    <tag k='addr:full' v='山口県周南市須々万本郷此口２４２５‐１' />
+    <tag k='ref' v='27513' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-51279' lat='34.472731' lon='131.447454'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 萩大井店' />
+    <tag k='name:en' v="Lawson hagiooi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='萩大井店' />
+    <tag k='branch:ja_kana' v='はぎおおいてん' />
+    <tag k='branch:en' v="hagiooi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-838-28-1700' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-02-26' />
+    <tag k='addr:full' v='山口県萩市大井字唐ノ嶋１７２７' />
+    <tag k='ref' v='51279' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-51569' lat='33.966305' lon='130.924609'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関元町店' />
+    <tag k='name:en' v="Lawson shimonosekimotomachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関元町店' />
+    <tag k='branch:ja_kana' v='しものせきもとまちてん' />
+    <tag k='branch:en' v="shimonosekimotomachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-222-0222' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1998-03-21' />
+    <tag k='addr:full' v='山口県下関市元町１‐２０' />
+    <tag k='ref' v='51569' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-222640' lat='34.142712' lon='132.202745'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国医療センター店' />
+    <tag k='name:en' v="Lawson iwakuniiriyousenta-" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国医療センター店' />
+    <tag k='branch:ja_kana' v='いわくにいりようせんたーてん' />
+    <tag k='branch:en' v="iwakuniiriyousenta-" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-34-3880' />
+    <tag k='opening_hours' v='Mo-Su 06:00-22:00' />
+    <tag k='start_date' v='2013-03-25' />
+    <tag k='addr:full' v='山口県岩国市愛宕町１‐１‐１' />
+    <tag k='ref' v='222640' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-226230' lat='33.966242' lon='130.930259'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関市立市民病院店' />
+    <tag k='name:en' v="Lawson shimonosekishiritsushiminbiyouin" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関市立市民病院店' />
+    <tag k='branch:ja_kana' v='しものせきしりつしみんびよういんてん' />
+    <tag k='branch:en' v="shimonosekishiritsushiminbiyouin" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-229-0131' />
+    <tag k='opening_hours' v='Mo-Su 07:00-21:00' />
+    <tag k='start_date' v='2013-07-02' />
+    <tag k='addr:full' v='山口県下関市向洋町１‐１３‐１' />
+    <tag k='ref' v='226230' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-44397' lat='34.012992' lon='130.963096'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関形山店' />
+    <tag k='name:en' v="Lawson shimonosekikatachiyama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関形山店' />
+    <tag k='branch:ja_kana' v='しものせきかたちやまてん' />
+    <tag k='branch:en' v="shimonosekikatachiyama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-257-2325' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1994-08-27' />
+    <tag k='addr:full' v='山口県下関市大字形山字秀波２５‐５' />
+    <tag k='ref' v='44397' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-95213' lat='34.078597' lon='132.082246'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 玖珂インター店' />
+    <tag k='name:en' v="Lawson kugainta-" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='玖珂インター店' />
+    <tag k='branch:ja_kana' v='くがいんたーてん' />
+    <tag k='branch:en' v="kugainta-" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-82-6088' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1996-07-11' />
+    <tag k='addr:full' v='山口県岩国市玖珂町４７１１‐２' />
+    <tag k='ref' v='95213' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-95450' lat='34.006999' lon='130.924542'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関綾羅木新町店' />
+    <tag k='name:en' v="Lawson shimonosekiayaragishinmachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関綾羅木新町店' />
+    <tag k='branch:ja_kana' v='しものせきあやらぎしんまちてん' />
+    <tag k='branch:en' v="shimonosekiayaragishinmachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-255-1277' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1996-07-11' />
+    <tag k='addr:full' v='山口県下関市綾羅木新町１‐５‐１３' />
+    <tag k='ref' v='95450' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-67205' lat='33.963096' lon='130.949883'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関本町店' />
+    <tag k='name:en' v="Lawson Lshimonosekihonmachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関本町店' />
+    <tag k='branch:ja_kana' v='Ｌしものせきほんまちてん' />
+    <tag k='branch:en' v="Lshimonosekihonmachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-235-0320' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1995-12-01' />
+    <tag k='addr:full' v='山口県下関市本町１‐２‐１２' />
+    <tag k='ref' v='67205' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-95704' lat='33.972546' lon='131.299279'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部片倉温泉店' />
+    <tag k='name:en' v="Lawson ubekatakuraonsen" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部片倉温泉店' />
+    <tag k='branch:ja_kana' v='うべかたくらおんせんてん' />
+    <tag k='branch:en' v="ubekatakuraonsen" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-51-9009' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-02-26' />
+    <tag k='addr:full' v='山口県宇部市西岐波下片倉５１７６‐１' />
+    <tag k='ref' v='95704' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-95733' lat='34.173188' lon='132.223845'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国駅前店' />
+    <tag k='name:en' v="Lawson iwakuniekimae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国駅前店' />
+    <tag k='branch:ja_kana' v='いわくにえきまえてん' />
+    <tag k='branch:en' v="iwakuniekimae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-23-0334' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1996-11-25' />
+    <tag k='addr:full' v='山口県岩国市麻里布町５丁目１番２３号' />
+    <tag k='ref' v='95733' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-95816' lat='33.950735' lon='131.258940'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部神原町店' />
+    <tag k='name:en' v="Lawson ubekamiharachiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部神原町店' />
+    <tag k='branch:ja_kana' v='うべかみはらちようてん' />
+    <tag k='branch:en' v="ubekamiharachiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-34-4260' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-03-01' />
+    <tag k='addr:full' v='山口県宇部市神原町１‐４６４６‐１' />
+    <tag k='ref' v='95816' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-95928' lat='34.064124' lon='131.565589'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府本橋店' />
+    <tag k='name:en' v="Lawson houfumotobashi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府本橋店' />
+    <tag k='branch:ja_kana' v='ほうふもとばしてん' />
+    <tag k='branch:en' v="houfumotobashi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-38-1779' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-02-22' />
+    <tag k='addr:full' v='山口県防府市本橋町８‐４' />
+    <tag k='ref' v='95928' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-95957' lat='33.942288' lon='131.250461'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部港町店' />
+    <tag k='name:en' v="Lawson ubeminatomachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部港町店' />
+    <tag k='branch:ja_kana' v='うべみなとまちてん' />
+    <tag k='branch:en' v="ubeminatomachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-31-7881' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1997-03-01' />
+    <tag k='addr:full' v='山口県宇部市港町２‐５２５‐９０' />
+    <tag k='ref' v='95957' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-67300' lat='34.041361' lon='131.362296'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口佐山店' />
+    <tag k='name:en' v="Lawson yamaguchisayama" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口佐山店' />
+    <tag k='branch:ja_kana' v='やまぐちさやまてん' />
+    <tag k='branch:en' v="yamaguchisayama" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-989-5959' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1995-10-31' />
+    <tag k='addr:full' v='山口県山口市大字佐山字市郎兵衛河内１２５４‐１６７' />
+    <tag k='ref' v='67300' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-76300' lat='34.169401' lon='132.223349'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国麻里布二丁目店' />
+    <tag k='name:en' v="Lawson iwakunimarifu2chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国麻里布二丁目店' />
+    <tag k='branch:ja_kana' v='いわくにまりふ２ちようめてん' />
+    <tag k='branch:en' v="iwakunimarifu2chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-23-3963' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-02-18' />
+    <tag k='addr:full' v='山口県岩国市麻里布町２‐７２‐１' />
+    <tag k='ref' v='76300' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-76463' lat='34.218872' lon='131.344537'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 美東大田店' />
+    <tag k='name:en' v="Lawson mitouooda" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='美東大田店' />
+    <tag k='branch:ja_kana' v='みとうおおだてん' />
+    <tag k='branch:en' v="mitouooda" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-8396-2-0822' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-03-01' />
+    <tag k='addr:full' v='山口県美祢市美東町大田字近光５４８１‐４' />
+    <tag k='ref' v='76463' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-76693' lat='34.363204' lon='131.255861'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大津三隅店' />
+    <tag k='name:en' v="Lawson ootsumisumi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大津三隅店' />
+    <tag k='branch:ja_kana' v='おおつみすみてん' />
+    <tag k='branch:en' v="ootsumisumi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-42-0474' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-04-25' />
+    <tag k='addr:full' v='山口県長門市三隅中字大縄１６２４‐１' />
+    <tag k='ref' v='76693' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-76776' lat='34.067453' lon='131.766863'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 新南陽古泉店' />
+    <tag k='name:en' v="Lawson shinnanyoukoizumi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='新南陽古泉店' />
+    <tag k='branch:ja_kana' v='しんなんようこいずみてん' />
+    <tag k='branch:en' v="shinnanyoukoizumi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-63-0011' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-08-28' />
+    <tag k='addr:full' v='山口県周南市古泉２‐１１‐３５' />
+    <tag k='ref' v='76776' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-76782' lat='34.151629' lon='131.444430'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口矢原店' />
+    <tag k='name:en' v="Lawson yamaguchiyabara" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口矢原店' />
+    <tag k='branch:ja_kana' v='やまぐちやばらてん' />
+    <tag k='branch:en' v="yamaguchiyabara" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-928-2358' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='1999-05-29' />
+    <tag k='addr:full' v='山口県山口市大字矢原字東二斗代９３８‐１' />
+    <tag k='ref' v='76782' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-207095' lat='33.964117' lon='132.115892'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 柳井新市沖店' />
+    <tag k='name:en' v="Lawson yanaishin'ichioki" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='柳井新市沖店' />
+    <tag k='branch:ja_kana' v='やないしんいちおきてん' />
+    <tag k='branch:en' v="yanaishin'ichioki" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-820-23-8055' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-04-07' />
+    <tag k='addr:full' v='山口県柳井市新市沖２番１５号' />
+    <tag k='ref' v='207095' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-207103' lat='33.966504' lon='131.265355'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部中尾二丁目店' />
+    <tag k='name:en' v="Lawson ubenakao2chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部中尾二丁目店' />
+    <tag k='branch:ja_kana' v='うべなかお２ちようめてん' />
+    <tag k='branch:en' v="ubenakao2chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-35-9113' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2011-12-10' />
+    <tag k='addr:full' v='山口県宇部市中尾２丁目１番８号' />
+    <tag k='ref' v='207103' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-207190' lat='34.071645' lon='131.765734'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 新南陽中央町店' />
+    <tag k='name:en' v="Lawson shinnanyouchiyuuouchiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='新南陽中央町店' />
+    <tag k='branch:ja_kana' v='しんなんようちゆうおうちようてん' />
+    <tag k='branch:en' v="shinnanyouchiyuuouchiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-64-0511' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-04-06' />
+    <tag k='addr:full' v='山口県周南市中央町１番２３号' />
+    <tag k='ref' v='207190' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-214385' lat='34.026645' lon='131.008508'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関長府才川一丁目店' />
+    <tag k='name:en' v="Lawson shimonosekichiyoufusaigawa1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関長府才川一丁目店' />
+    <tag k='branch:ja_kana' v='しものせきちようふさいがわ１ちようめてん' />
+    <tag k='branch:en' v="shimonosekichiyoufusaigawa1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-248-0808' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-07-13' />
+    <tag k='addr:full' v='山口県下関市長府才川１‐４３８‐３' />
+    <tag k='ref' v='214385' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-77563' lat='34.189037' lon='131.660005'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 徳地堀店' />
+    <tag k='name:en' v="Lawson tokudihori" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='徳地堀店' />
+    <tag k='branch:ja_kana' v='とくぢほりてん' />
+    <tag k='branch:en' v="tokudihori" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-53-0070' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-03-01' />
+    <tag k='addr:full' v='山口県山口市徳地堀１５０４‐１' />
+    <tag k='ref' v='77563' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-219276' lat='33.955969' lon='131.244628'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部松島町店' />
+    <tag k='name:en' v="Lawson ubematsushimachiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部松島町店' />
+    <tag k='branch:ja_kana' v='うべまつしまちようてん' />
+    <tag k='branch:en' v="ubematsushimachiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-32-6333' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-12-05' />
+    <tag k='addr:full' v='山口県宇部市松島町１０‐１' />
+    <tag k='ref' v='219276' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-77824' lat='33.993644' lon='130.927439'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関稗田中町店' />
+    <tag k='name:en' v="Lawson shimonosekihiedanakamachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関稗田中町店' />
+    <tag k='branch:ja_kana' v='しものせきひえだなかまちてん' />
+    <tag k='branch:en' v="shimonosekihiedanakamachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-253-0016' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-01-31' />
+    <tag k='addr:full' v='山口県下関市稗田中町１１‐５' />
+    <tag k='ref' v='77824' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-219313' lat='33.957734' lon='132.047284'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 田布施波野店' />
+    <tag k='name:en' v="Lawson tabusehano" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='田布施波野店' />
+    <tag k='branch:ja_kana' v='たぶせはのてん' />
+    <tag k='branch:en' v="tabusehano" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-820-53-1060' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013-07-06' />
+    <tag k='addr:full' v='山口県熊毛郡田布施町大字波野字原河内３３７‐４' />
+    <tag k='ref' v='219313' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-219454' lat='33.998062' lon='131.219963'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部駅前店' />
+    <tag k='name:en' v="Lawson ubeekimae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部駅前店' />
+    <tag k='branch:ja_kana' v='うべえきまえてん' />
+    <tag k='branch:en' v="ubeekimae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-41-8881' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013-05-04' />
+    <tag k='addr:full' v='山口県宇部市西宇部南３‐５‐１６' />
+    <tag k='ref' v='219454' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118977' lat='34.392620' lon='131.716677'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 阿東徳佐店' />
+    <tag k='name:en' v="Lawson atoutokusa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='阿東徳佐店' />
+    <tag k='branch:ja_kana' v='あとうとくさてん' />
+    <tag k='branch:en' v="atoutokusa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-8395-7-0800' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-06-17' />
+    <tag k='addr:full' v='山口県山口市阿東徳佐下字上長沢２７‐２' />
+    <tag k='ref' v='118977' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-119221' lat='34.125330' lon='132.192352'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国海土路店' />
+    <tag k='name:en' v="Lawson iwakunimidoro" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国海土路店' />
+    <tag k='branch:ja_kana' v='いわくにみどろてん' />
+    <tag k='branch:en' v="iwakunimidoro" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-32-3088' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-08-30' />
+    <tag k='addr:full' v='山口県岩国市海土路町２‐４０‐８' />
+    <tag k='ref' v='119221' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-119238' lat='33.961621' lon='131.262682'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部沼一丁目店' />
+    <tag k='name:en' v="Lawson ubenuma1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部沼一丁目店' />
+    <tag k='branch:ja_kana' v='うべぬま１ちようめてん' />
+    <tag k='branch:en' v="ubenuma1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-22-3822' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-09-01' />
+    <tag k='addr:full' v='山口県宇部市沼１‐１８５７‐１' />
+    <tag k='ref' v='119238' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-117558' lat='34.372304' lon='131.057621'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大津油谷店' />
+    <tag k='name:en' v="Lawson ootsuyuya" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大津油谷店' />
+    <tag k='branch:ja_kana' v='おおつゆやてん' />
+    <tag k='branch:en' v="ootsuyuya" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-32-0191' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-03-01' />
+    <tag k='addr:full' v='山口県長門市油谷新別名字大歳' />
+    <tag k='ref' v='117558' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-117564' lat='34.384095' lon='131.107063'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 大津日置店' />
+    <tag k='name:en' v="Lawson ootsuheki" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='大津日置店' />
+    <tag k='branch:ja_kana' v='おおつへきてん' />
+    <tag k='branch:en' v="ootsuheki" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-37-2977' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-02-25' />
+    <tag k='addr:full' v='山口県長門市日置上三百歩５８８５‐２' />
+    <tag k='ref' v='117564' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-117624' lat='33.985162' lon='132.199479'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国由宇店' />
+    <tag k='name:en' v="Lawson iwakuniyuu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国由宇店' />
+    <tag k='branch:ja_kana' v='いわくにゆうてん' />
+    <tag k='branch:en' v="iwakuniyuu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-63-3338' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-02-28' />
+    <tag k='addr:full' v='山口県岩国市由宇町神東字相地２７４２‐１' />
+    <tag k='ref' v='117624' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-118902' lat='34.288797' lon='130.951660'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 豊北滝部店' />
+    <tag k='name:en' v="Lawson houhokutakibe" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='豊北滝部店' />
+    <tag k='branch:ja_kana' v='ほうほくたきべてん' />
+    <tag k='branch:en' v="houhokutakibe" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-82-1961' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2000-05-13' />
+    <tag k='addr:full' v='山口県下関市豊北町大字滝部字市ノ下９００' />
+    <tag k='ref' v='118902' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-209020' lat='33.982110' lon='131.929108'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 光宮ノ下町店' />
+    <tag k='name:en' v="Lawson hikarimiyanoshitachiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='光宮ノ下町店' />
+    <tag k='branch:ja_kana' v='ひかりみやのしたちようてん' />
+    <tag k='branch:en' v="hikarimiyanoshitachiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-48-8429' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-05-03' />
+    <tag k='addr:full' v='山口県光市宮ノ下町１２番２５号' />
+    <tag k='ref' v='209020' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-209036' lat='33.963737' lon='131.325733'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部西岐波才川店' />
+    <tag k='name:en' v="Lawson ubenishikiwasaikawa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部西岐波才川店' />
+    <tag k='branch:ja_kana' v='うべにしきわさいかわてん' />
+    <tag k='branch:en' v="ubenishikiwasaikawa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-51-7330' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-10-13' />
+    <tag k='addr:full' v='山口県宇部市大字西岐波７８６番地１' />
+    <tag k='ref' v='209036' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-209059' lat='34.021088' lon='131.865604'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下松楠木町一丁目店' />
+    <tag k='name:en' v="Lawson kudamatsukusunokichiyou1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下松楠木町一丁目店' />
+    <tag k='branch:ja_kana' v='くだまつくすのきちよう１ちようめてん' />
+    <tag k='branch:en' v="kudamatsukusunokichiyou1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-41-2214' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-05-12' />
+    <tag k='addr:full' v='山口県下松市楠木町１丁目２番２１号' />
+    <tag k='ref' v='209059' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-209131' lat='33.981223' lon='131.207949'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部黒石店' />
+    <tag k='name:en' v="Lawson ubekuroishi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部黒石店' />
+    <tag k='branch:ja_kana' v='うべくろいしてん' />
+    <tag k='branch:en' v="ubekuroishi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-41-0027' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-10-06' />
+    <tag k='addr:full' v='山口県宇部市大字妻崎開作６０５番地１' />
+    <tag k='ref' v='209131' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-209220' lat='33.982679' lon='132.099767'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 柳井柳北店' />
+    <tag k='name:en' v="Lawson yanairiyuuhoku" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='柳井柳北店' />
+    <tag k='branch:ja_kana' v='やないりゆうほくてん' />
+    <tag k='branch:en' v="yanairiyuuhoku" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-820-22-9027' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-07-14' />
+    <tag k='addr:full' v='山口県柳井市柳井４５８１番３' />
+    <tag k='ref' v='209220' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-209473' lat='34.044582' lon='131.069205'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山陽小野田埴生店' />
+    <tag k='name:en' v="Lawson sanyouonodahabu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山陽小野田埴生店' />
+    <tag k='branch:ja_kana' v='さんようおのだはぶてん' />
+    <tag k='branch:en' v="sanyouonodahabu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-76-2311' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2013-03-02' />
+    <tag k='addr:full' v='山口県山陽小野田市大字埴生３１番地の３' />
+    <tag k='ref' v='209473' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-128289' lat='34.052082' lon='131.599753'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府牟礼今宿一丁目店' />
+    <tag k='name:en' v="Lawson houfumureimajiyuku1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府牟礼今宿一丁目店' />
+    <tag k='branch:ja_kana' v='ほうふむれいまじゆく１ちようめてん' />
+    <tag k='branch:en' v="houfumureimajiyuku1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-25-3891' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-06-09' />
+    <tag k='addr:full' v='山口県防府市牟礼今宿１‐１６‐３８' />
+    <tag k='ref' v='128289' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-128361' lat='34.052277' lon='131.803040'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 徳山駅前店' />
+    <tag k='name:en' v="Lawson tokuyamaekimae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='徳山駅前店' />
+    <tag k='branch:ja_kana' v='とくやまえきまえてん' />
+    <tag k='branch:en' v="tokuyamaekimae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-22-3055' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-09-22' />
+    <tag k='addr:full' v='山口県周南市有楽町１番' />
+    <tag k='ref' v='128361' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-208427' lat='33.979465' lon='130.938547'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関宝町店' />
+    <tag k='name:en' v="Lawson shimonosekitakaramachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関宝町店' />
+    <tag k='branch:ja_kana' v='しものせきたからまちてん' />
+    <tag k='branch:en' v="shimonosekitakaramachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-255-3515' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2012-06-09' />
+    <tag k='addr:full' v='山口県下関市宝町１番３９号' />
+    <tag k='ref' v='208427' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-128480' lat='34.071320' lon='131.461934'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口鋳銭司店' />
+    <tag k='name:en' v="Lawson yamaguchisuzenji" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口鋳銭司店' />
+    <tag k='branch:ja_kana' v='やまぐちすぜんじてん' />
+    <tag k='branch:en' v="yamaguchisuzenji" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-985-1163' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-11-23' />
+    <tag k='addr:full' v='山口県山口市字鋳銭司２３０３番地' />
+    <tag k='ref' v='128480' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-128600' lat='34.182447' lon='131.211795'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 美祢大嶺町曽根店' />
+    <tag k='name:en' v="Lawson mineoominechiyousone" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='美祢大嶺町曽根店' />
+    <tag k='branch:ja_kana' v='みねおおみねちようそねてん' />
+    <tag k='branch:en' v="mineoominechiyousone" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-53-0650' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-08-10' />
+    <tag k='addr:full' v='山口県美祢市大嶺町東分１１９８番地の２' />
+    <tag k='ref' v='128600' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156446' lat='33.967555' lon='132.097487'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 柳井古開作店' />
+    <tag k='name:en' v="Lawson yanaikogaisaku" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='柳井古開作店' />
+    <tag k='branch:ja_kana' v='やないこがいさくてん' />
+    <tag k='branch:en' v="yanaikogaisaku" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-820-23-1235' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-03-15' />
+    <tag k='addr:full' v='山口県柳井市大字古開作字西東條５９８‐１' />
+    <tag k='ref' v='156446' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156541' lat='34.044059' lon='131.477075'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府新大橋店' />
+    <tag k='name:en' v="Lawson houfushin'oohashi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府新大橋店' />
+    <tag k='branch:ja_kana' v='ほうふしんおおはしてん' />
+    <tag k='branch:en' v="houfushin'oohashi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-32-1112' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-07-19' />
+    <tag k='addr:full' v='山口県防府市大字台道字森ノ下４８３７‐１' />
+    <tag k='ref' v='156541' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156707' lat='34.065246' lon='131.543555'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府右田店' />
+    <tag k='name:en' v="Lawson houfumigita" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府右田店' />
+    <tag k='branch:ja_kana' v='ほうふみぎたてん' />
+    <tag k='branch:en' v="houfumigita" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-21-9211' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-08-29' />
+    <tag k='addr:full' v='山口県防府市大字大崎字道祖免３９１‐１１' />
+    <tag k='ref' v='156707' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-146927' lat='33.953018' lon='131.241310'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部中央三丁目店' />
+    <tag k='name:en' v="Lawson ubechiyuuou3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部中央三丁目店' />
+    <tag k='branch:ja_kana' v='うべちゆうおう３ちようめてん' />
+    <tag k='branch:en' v="ubechiyuuou3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-29-4123' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-04-28' />
+    <tag k='addr:full' v='山口県宇部市中央町３‐１９６０‐７' />
+    <tag k='ref' v='146927' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156050' lat='34.118829' lon='131.402290'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 小郡インター店' />
+    <tag k='name:en' v="Lawson ogooriinta-" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='小郡インター店' />
+    <tag k='branch:ja_kana' v='おごおりいんたーてん' />
+    <tag k='branch:en' v="ogooriinta-" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-972-7811' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-05-26' />
+    <tag k='addr:full' v='山口県山口市小郡みらい町一丁目１番１５号' />
+    <tag k='ref' v='156050' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156080' lat='34.028431' lon='131.419447'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口秋穂二島店' />
+    <tag k='name:en' v="Lawson yamaguchiaiofutajima" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口秋穂二島店' />
+    <tag k='branch:ja_kana' v='やまぐちあいおふたじまてん' />
+    <tag k='branch:en' v="yamaguchiaiofutajima" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-987-2022' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-06-24' />
+    <tag k='addr:full' v='山口県山口市秋穂二島字東河内４９２４‐３' />
+    <tag k='ref' v='156080' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156133' lat='34.076851' lon='131.771687'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 新南陽土井一丁目店' />
+    <tag k='name:en' v="Lawson shinnanyoudoi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='新南陽土井一丁目店' />
+    <tag k='branch:ja_kana' v='しんなんようどい１ちようめてん' />
+    <tag k='branch:en' v="shinnanyoudoi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-62-7888' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-08-26' />
+    <tag k='addr:full' v='山口県周南市土井１‐１１‐１１' />
+    <tag k='ref' v='156133' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156156' lat='33.981013' lon='130.934495'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関生野町店' />
+    <tag k='name:en' v="Lawson shimonosekiikunochiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関生野町店' />
+    <tag k='branch:ja_kana' v='しものせきいくのちようてん' />
+    <tag k='branch:en' v="shimonosekiikunochiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-252-6808' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2002-11-15' />
+    <tag k='addr:full' v='山口県下関市生野町１‐４‐５' />
+    <tag k='ref' v='156156' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156245' lat='34.026474' lon='131.541933'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府北基地前店' />
+    <tag k='name:en' v="Lawson houfukitakichimae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府北基地前店' />
+    <tag k='branch:ja_kana' v='ほうふきたきちまえてん' />
+    <tag k='branch:en' v="houfukitakichimae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-39-1616' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-01-18' />
+    <tag k='addr:full' v='山口県防府市大字田島１７４８‐１' />
+    <tag k='ref' v='156245' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156274' lat='34.028721' lon='131.858683'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下松望町一丁目店' />
+    <tag k='name:en' v="Lawson kudamatsunozomichiyou1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下松望町一丁目店' />
+    <tag k='branch:ja_kana' v='くだまつのぞみちよう１ちようめてん' />
+    <tag k='branch:en' v="kudamatsunozomichiyou1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-43-7029' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-02-14' />
+    <tag k='addr:full' v='山口県下松市望町１‐１３１‐１' />
+    <tag k='ref' v='156274' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-156386' lat='33.935713' lon='131.969700'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 光室積松原店' />
+    <tag k='name:en' v="Lawson hikarimurodumimatsubara" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='光室積松原店' />
+    <tag k='branch:ja_kana' v='ひかりむろづみまつばらてん' />
+    <tag k='branch:en' v="hikarimurodumimatsubara" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-79-0565' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2003-04-02' />
+    <tag k='addr:full' v='山口県光市室積松原４２８２‐２' />
+    <tag k='ref' v='156386' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-146169' lat='34.008000' lon='130.944163'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関秋根西店' />
+    <tag k='name:en' v="Lawson shimonosekiakinenishi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関秋根西店' />
+    <tag k='branch:ja_kana' v='しものせきあきねにしてん' />
+    <tag k='branch:en' v="shimonosekiakinenishi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-257-2430' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-02-26' />
+    <tag k='addr:full' v='山口県下関市秋根西町１‐７' />
+    <tag k='ref' v='146169' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-146181' lat='34.337205' lon='130.920636'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 豊北阿川店' />
+    <tag k='name:en' v="Lawson houhokuagawa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='豊北阿川店' />
+    <tag k='branch:ja_kana' v='ほうほくあがわてん' />
+    <tag k='branch:en' v="houhokuagawa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-86-0481' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2001-03-01' />
+    <tag k='addr:full' v='山口県下関市豊北町大字阿川３９１０' />
+    <tag k='ref' v='146181' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167013' lat='34.415026' lon='131.413847'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 萩椿東店' />
+    <tag k='name:en' v="Lawson hagichintou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='萩椿東店' />
+    <tag k='branch:ja_kana' v='はぎちんとうてん' />
+    <tag k='branch:en' v="hagichintou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-838-26-0204' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-01-24' />
+    <tag k='addr:full' v='山口県萩市大字椿東字平方２９２８‐４' />
+    <tag k='ref' v='167013' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167020' lat='34.098120' lon='131.400461'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 小郡昭和通り店' />
+    <tag k='name:en' v="Lawson ogoorishiyouwadoori" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='小郡昭和通り店' />
+    <tag k='branch:ja_kana' v='おごおりしようわどおりてん' />
+    <tag k='branch:en' v="ogoorishiyouwadoori" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-973-5391' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-03-06' />
+    <tag k='addr:full' v='山口県山口市小郡下郷１６２６‐１' />
+    <tag k='ref' v='167020' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167102' lat='33.972205' lon='131.177260'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 小野田北竜王町店' />
+    <tag k='name:en' v="Lawson onodakitariyuuouchiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='小野田北竜王町店' />
+    <tag k='branch:ja_kana' v='おのだきたりゆうおうちようてん' />
+    <tag k='branch:en' v="onodakitariyuuouchiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-84-3650' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-07-24' />
+    <tag k='addr:full' v='山口県山陽小野田市北竜王町５７７６‐３' />
+    <tag k='ref' v='167102' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167190' lat='34.117779' lon='130.909593'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関豊洋台新町店' />
+    <tag k='name:en' v="Lawson shimonosekihouyoudaishinmachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関豊洋台新町店' />
+    <tag k='branch:ja_kana' v='しものせきほうようだいしんまちてん' />
+    <tag k='branch:en' v="shimonosekihouyoudaishinmachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-74-0606' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-12-03' />
+    <tag k='addr:full' v='山口県下関市豊浦町豊洋台新町１６０８‐９' />
+    <tag k='ref' v='167190' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167237' lat='34.164507' lon='131.445164'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口吉敷店' />
+    <tag k='name:en' v="Lawson yamaguchiyoshiki" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口吉敷店' />
+    <tag k='branch:ja_kana' v='やまぐちよしきてん' />
+    <tag k='branch:en' v="yamaguchiyoshiki" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-928-3585' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2004-09-01' />
+    <tag k='addr:full' v='山口県山口市大字吉敷字神田３２１１‐１' />
+    <tag k='ref' v='167237' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172072' lat='33.932029' lon='131.260744'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部明神町一丁目店' />
+    <tag k='name:en' v="Lawson ubemiyoujinchiyou1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部明神町一丁目店' />
+    <tag k='branch:ja_kana' v='うべみようじんちよう１ちようめてん' />
+    <tag k='branch:en' v="ubemiyoujinchiyou1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-35-5221' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-03-03' />
+    <tag k='addr:full' v='山口県宇部市明神町１‐６５０‐１' />
+    <tag k='ref' v='172072' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172178' lat='34.403919' lon='131.406710'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 萩川島店' />
+    <tag k='name:en' v="Lawson hagikawashima" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='萩川島店' />
+    <tag k='branch:ja_kana' v='はぎかわしまてん' />
+    <tag k='branch:en' v="hagikawashima" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-838-26-9660' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-04-06' />
+    <tag k='addr:full' v='山口県萩市大字川島３６９番地１' />
+    <tag k='ref' v='172178' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172238' lat='33.987623' lon='131.177180'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 小野田中川三丁目店' />
+    <tag k='name:en' v="Lawson onodanakagawa3chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='小野田中川三丁目店' />
+    <tag k='branch:ja_kana' v='おのだなかがわ３ちようめてん' />
+    <tag k='branch:en' v="onodanakagawa3chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-83-3161' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-03-16' />
+    <tag k='addr:full' v='山口県山陽小野田市中川三丁目１‐２０' />
+    <tag k='ref' v='172238' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167496' lat='34.120431' lon='131.531082'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口下小鯖橋本店' />
+    <tag k='name:en' v="Lawson yamaguchishimoosabahashimoto" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口下小鯖橋本店' />
+    <tag k='branch:ja_kana' v='やまぐちしもおさばはしもとてん' />
+    <tag k='branch:en' v="yamaguchishimoosabahashimoto" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-927-5333' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-06-04' />
+    <tag k='addr:full' v='山口県山口市大字下小鯖３７７５' />
+    <tag k='ref' v='167496' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172416' lat='33.969273' lon='131.252337'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部小串中尾店' />
+    <tag k='name:en' v="Lawson ubekogushinakao" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部小串中尾店' />
+    <tag k='branch:ja_kana' v='うべこぐしなかおてん' />
+    <tag k='branch:en' v="ubekogushinakao" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-33-6223' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-07-11' />
+    <tag k='addr:full' v='山口県宇部市大字小串７２番２５' />
+    <tag k='ref' v='172416' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172474' lat='34.165844' lon='132.190636'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国錦見一丁目店' />
+    <tag k='name:en' v="Lawson iwakuninishimi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国錦見一丁目店' />
+    <tag k='branch:ja_kana' v='いわくににしみ１ちようめてん' />
+    <tag k='branch:en' v="iwakuninishimi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-41-3963' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2007-11-02' />
+    <tag k='addr:full' v='山口県岩国市錦見一丁目１２番１５号' />
+    <tag k='ref' v='172474' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172557' lat='33.986191' lon='131.181000'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 小野田労災病院前店' />
+    <tag k='name:en' v="Lawson onodarousaibiyouinmae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='小野田労災病院前店' />
+    <tag k='branch:ja_kana' v='おのだろうさいびよういんまえてん' />
+    <tag k='branch:en' v="onodarousaibiyouinmae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-84-1080' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-02-09' />
+    <tag k='addr:full' v='山口県山陽小野田市大字小野田１２８９‐８' />
+    <tag k='ref' v='172557' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167556' lat='34.007729' lon='131.865035'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下松駅南店' />
+    <tag k='name:en' v="Lawson kudamatsuekiminami" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下松駅南店' />
+    <tag k='branch:ja_kana' v='くだまつえきみなみてん' />
+    <tag k='branch:en' v="kudamatsuekiminami" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-43-9192' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-03-20' />
+    <tag k='addr:full' v='山口県下松市新川一丁目３番１号' />
+    <tag k='ref' v='167556' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167757' lat='34.057464' lon='131.816304'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 周南辻町店' />
+    <tag k='name:en' v="Lawson shiyuunantsujimachi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='周南辻町店' />
+    <tag k='branch:ja_kana' v='しゆうなんつじまちてん' />
+    <tag k='branch:en' v="shiyuunantsujimachi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-31-0608' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-07-08' />
+    <tag k='addr:full' v='山口県周南市辻町５‐７' />
+    <tag k='ref' v='167757' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167875' lat='33.977173' lon='131.337157'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部東岐波中前店' />
+    <tag k='name:en' v="Lawson ubehigashikiwachiyuumae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部東岐波中前店' />
+    <tag k='branch:ja_kana' v='うべひがしきわちゆうまえてん' />
+    <tag k='branch:en' v="ubehigashikiwachiyuumae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-58-3910' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-09-10' />
+    <tag k='addr:full' v='山口県宇部市大字東岐波５６９６番地' />
+    <tag k='ref' v='167875' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-172669' lat='34.156826' lon='130.926678'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関豊浦川棚店' />
+    <tag k='name:en' v="Lawson shimonosekitoyourakawatana" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関豊浦川棚店' />
+    <tag k='branch:ja_kana' v='しものせきとようらかわたなてん' />
+    <tag k='branch:en' v="shimonosekitoyourakawatana" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-72-1360' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-08-02' />
+    <tag k='addr:full' v='山口県下関市豊浦町大字川棚３７５５番地２' />
+    <tag k='ref' v='172669' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167881' lat='34.021739' lon='131.885257'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下松河内店' />
+    <tag k='name:en' v="Lawson kudamatsukouchi" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下松河内店' />
+    <tag k='branch:ja_kana' v='くだまつこうちてん' />
+    <tag k='branch:en' v="kudamatsukouchi" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-833-41-5395' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2006-04-07' />
+    <tag k='addr:full' v='山口県下松市大字河内１９３２‐１' />
+    <tag k='ref' v='167881' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-167912' lat='34.160300' lon='131.468592'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山口平井中上店' />
+    <tag k='name:en' v="Lawson yamaguchihirainakakami" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山口平井中上店' />
+    <tag k='branch:ja_kana' v='やまぐちひらいなかかみてん' />
+    <tag k='branch:en' v="yamaguchihirainakakami" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-932-8383' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2005-11-02' />
+    <tag k='addr:full' v='山口県山口市平井中上２３０番地' />
+    <tag k='ref' v='167912' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-193111' lat='34.047301' lon='131.834757'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 徳山中央病院店' />
+    <tag k='name:en' v="Lawson tokuyamachiyuuoubiyouin" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='徳山中央病院店' />
+    <tag k='branch:ja_kana' v='とくやまちゆうおうびよういんてん' />
+    <tag k='branch:en' v="tokuyamachiyuuoubiyouin" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-29-4500' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='start_date' v='2009-04-17' />
+    <tag k='addr:full' v='山口県周南市孝田町１‐１　徳山中央病院内' />
+    <tag k='ref' v='193111' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-193157' lat='34.068375' lon='131.790607'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 周南新地一丁目店' />
+    <tag k='name:en' v="Lawson shiyuunanshinchi1chiyoume" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='周南新地一丁目店' />
+    <tag k='branch:ja_kana' v='しゆうなんしんち１ちようめてん' />
+    <tag k='branch:en' v="shiyuunanshinchi1chiyoume" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-834-21-2622' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-08-08' />
+    <tag k='addr:full' v='山口県周南市新地一丁目８‐３７' />
+    <tag k='ref' v='193157' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-193281' lat='33.954693' lon='131.186215'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 山陽小野田理大前店' />
+    <tag k='name:en' v="Lawson sanyouonodaridaimae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='山陽小野田理大前店' />
+    <tag k='branch:ja_kana' v='さんようおのだりだいまえてん' />
+    <tag k='branch:en' v="sanyouonodaridaimae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-88-4605' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-11-07' />
+    <tag k='addr:full' v='山口県山陽小野田市大字小野田３７７３番地７' />
+    <tag k='ref' v='193281' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-179170' lat='34.167213' lon='131.206675'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 美祢市役所前店' />
+    <tag k='name:en' v="Lawson mineshiyakushiyomae" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='美祢市役所前店' />
+    <tag k='branch:ja_kana' v='みねしやくしよまえてん' />
+    <tag k='branch:en' v="mineshiyakushiyomae" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-837-52-5960' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-10-10' />
+    <tag k='addr:full' v='山口県美祢市大嶺町東分３４０番地１' />
+    <tag k='ref' v='179170' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-179341' lat='33.948724' lon='131.301688'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 宇部江頭店' />
+    <tag k='name:en' v="Lawson ubeegashira" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='宇部江頭店' />
+    <tag k='branch:ja_kana' v='うべえがしらてん' />
+    <tag k='branch:en' v="ubeegashira" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-836-51-8760' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-12-05' />
+    <tag k='addr:full' v='山口県宇部市大字西岐波４１５０番地' />
+    <tag k='ref' v='179341' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-179370' lat='34.421536' lon='131.409841'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 萩椿東新川店' />
+    <tag k='name:en' v="Lawson hagichintoushinkawa" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='萩椿東新川店' />
+    <tag k='branch:ja_kana' v='はぎちんとうしんかわてん' />
+    <tag k='branch:en' v="hagichintoushinkawa" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-838-26-5002' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2008-11-02' />
+    <tag k='addr:full' v='山口県萩市大字椿東３１１３番地１' />
+    <tag k='ref' v='179370' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-179571' lat='34.049929' lon='131.537665'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府植松店' />
+    <tag k='name:en' v="Lawson houfuuematsu" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府植松店' />
+    <tag k='branch:ja_kana' v='ほうふうえまつてん' />
+    <tag k='branch:en' v="houfuuematsu" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-38-8780' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-02-07' />
+    <tag k='addr:full' v='山口県防府市大字植松２３４‐１１' />
+    <tag k='ref' v='179571' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-179750' lat='34.040880' lon='131.574365'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 防府自力町店' />
+    <tag k='name:en' v="Lawson houfujirikichiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='防府自力町店' />
+    <tag k='branch:ja_kana' v='ほうふじりきちようてん' />
+    <tag k='branch:en' v="houfujirikichiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-835-38-5277' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-03-04' />
+    <tag k='addr:full' v='山口県防府市自力町９番１号' />
+    <tag k='ref' v='179750' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-191247' lat='33.999147' lon='130.951660'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 下関一の宮町店' />
+    <tag k='name:en' v="Lawson shimonosekiichinomiyachiyou" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='下関一の宮町店' />
+    <tag k='branch:ja_kana' v='しものせきいちのみやちようてん' />
+    <tag k='branch:en' v="shimonosekiichinomiyachiyou" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-83-256-3963' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2009-04-04' />
+    <tag k='addr:full' v='山口県下関市一の宮町３‐１‐７' />
+    <tag k='ref' v='191247' />
+    <tag k='source' v='Lawson' />
+  </node>
+  <node id='-193594' lat='34.092547' lon='132.048947'>
+    <tag k='shop' v='convenience' />
+    <tag k='toilet' v='yes' />
+    <tag k='atm' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='ローソン 岩国周東下久原店' />
+    <tag k='name:en' v="Lawson iwakunishiyuutoushimokubara" />
+    <tag k='brand' v='ローソン' />
+    <tag k='brand:en' v='Lawson' />
+    <tag k='branch' v='岩国周東下久原店' />
+    <tag k='branch:ja_kana' v='いわくにしゆうとうしもくばらてん' />
+    <tag k='branch:en' v="iwakunishiyuutoushimokubara" />
+    <tag k='operator' v='ローソン' />
+    <tag k='operator:en' v='Lawson' />
+    <tag k='phone' v='+81-827-84-5820' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='start_date' v='2010-07-03' />
+    <tag k='addr:full' v='山口県岩国市周東町下久原１６５３番地１' />
+    <tag k='ref' v='193594' />
+    <tag k='source' v='Lawson' />
+  </node>
+</osm>
